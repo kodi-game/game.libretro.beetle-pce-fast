@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-pce-fast"
-		name="PC-Engine (beetle)"
-		version="1.0.1"
+		name="PC Engine (Beetle PCE Fast)"
+		version="0.9.36"
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
-                   library_android="game.libretro.beetle-pce-fast.so"
+                   library_android="libgame.libretro.beetle-pce-fast.so"
                    library_linux="game.libretro.beetle-pce-fast.so"
                    library_osx="game.libretro.beetle-pce-fast.dylib"
                    library_windx="game.libretro.beetle-pce-fast.dll"
@@ -18,8 +18,13 @@
 		<supports_no_game>false</supports_no_game>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Beetle-pce-fast v1.0.1</summary>
-		<description>Source: https://github.com/libretro/beetle-pfce-fast-libretro</description>
+		<summary lang="en">Beetle PCE Fast v0.9.36.1</summary>
+		<description>Standalone port of Mednafen PCE Fast to libretro.
+
+Supported files: .pce, .cue, .ccd
+
+License: GPLv2</description>
 		<platform>all</platform>
+		<nofanart>true</nofanart>
 	</extension>
 </addon>
