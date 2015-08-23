@@ -13,13 +13,13 @@
                    library_windx="game.libretro.beetle-pce-fast.dll"
                    library_wingl="game.libretro.beetla-pce-fast.dll">
 		<platforms>PCE</platforms>
-		<extensions>pce</extensions>
+		<extensions>pce|cue|ccd</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_no_game>false</supports_no_game>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Beetle PCE Fast v0.9.36.1</summary>
-		<description>Standalone port of Mednafen PCE Fast to libretro.
+		<description>Beetle PCE Fast, a PC Engine emulator for Libretro, is a fork of Mednafen's PC Engine driver.
 
 Supported files: .pce, .cue, .ccd
 
