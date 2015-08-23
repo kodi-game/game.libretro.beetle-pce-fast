@@ -40,7 +40,7 @@ externalproject_add(beetle-pce-fast
                     BUILD_IN_SOURCE 1)
 
 #install the generated shared library
-install(FILES ${PROJECT_SOURCE_DIR}/libretro/mednafen_pce_fast_libretro${CMAKE_SHARED_LIBRARY_SUFFIX}
+install(FILES ${PROJECT_SOURCE_DIR}/mednafen_pce_fast_libretro${CMAKE_SHARED_LIBRARY_SUFFIX}
         DESTINATION ${CMAKE_INSTALL_PREFIX}/lib)
 
 # write the beetle-pce-fast-config.cmake script
