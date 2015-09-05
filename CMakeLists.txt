@@ -7,7 +7,7 @@ list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 enable_language(CXX)
 
 find_package(kodi REQUIRED)
-find_package(beetle-pce-fast REQUIRED)
+find_package(libretro-beetle-pce-fast REQUIRED)
 
 set(DEPLIBS beetle-pce-fast)
 set(BEETLE_PCE_FAST_CUSTOM_BINARY ${BEETLE_PCE_FAST_LIB}

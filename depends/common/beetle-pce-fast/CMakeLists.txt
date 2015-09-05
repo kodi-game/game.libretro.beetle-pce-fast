@@ -44,4 +44,4 @@ install(FILES ${PROJECT_SOURCE_DIR}/mednafen_pce_fast_libretro${CMAKE_SHARED_LIB
         DESTINATION ${CMAKE_INSTALL_PREFIX}/lib)
 
 # write the beetle-pce-fast-config.cmake script
-file(WRITE ${CMAKE_INSTALL_PREFIX}/beetle-pce-fast-config.cmake "set(BEETLE_PCE_FAST_LIB ${CMAKE_INSTALL_PREFIX}/lib/mednafen_pce_fast_libretro${CMAKE_SHARED_LIBRARY_SUFFIX})")
+file(WRITE ${CMAKE_INSTALL_PREFIX}/libretro-beetle-pce-fast-config.cmake "set(BEETLE_PCE_FAST_LIB ${CMAKE_INSTALL_PREFIX}/lib/mednafen_pce_fast_libretro${CMAKE_SHARED_LIBRARY_SUFFIX})")
