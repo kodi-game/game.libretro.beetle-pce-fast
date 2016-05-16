@@ -7,11 +7,7 @@
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
-                   library_android="libgame.libretro.beetle-pce-fast.so"
-                   library_linux="game.libretro.beetle-pce-fast.so"
-                   library_osx="game.libretro.beetle-pce-fast.dylib"
-                   library_windx="game.libretro.beetle-pce-fast.dll"
-                   library_wingl="game.libretro.beetla-pce-fast.dll">
+                   library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>PCE</platforms>
 		<extensions>pce|cue|ccd</extensions>
 		<supports_vfs>false</supports_vfs>
@@ -24,7 +20,7 @@
 Supported files: .pce, .cue, .ccd
 
 License: GPLv2</description>
-		<platform>all</platform>
+		<platform>@PLATFORM@</platform>
 		<nofanart>true</nofanart>
 	</extension>
 </addon>
