@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-pce-fast"
-		name="PC Engine (Beetle PCE Fast)"
-		version="0.9.36"
+		name="PC Engine/PCE-CD (Mednafen PCE FAST)"
+		version="0.9.38"
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
-                   library_@PLATFORM@="@LIBRARY_FILENAME@">
+			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>PCE</platforms>
 		<extensions>pce|cue|ccd</extensions>
 		<supports_vfs>false</supports_vfs>
-		<supports_no_game>false</supports_no_game>
+		<supports_standalone>false</supports_standalone>
+		<supports_keyboard>false</supports_keyboard>
+		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Beetle PCE Fast v0.9.36.1</summary>
-		<description>Beetle PCE Fast, a PC Engine emulator for Libretro, is a fork of Mednafen's PC Engine driver.
+		<summary lang="en">PC Engine/PCE-CD (Mednafen PCE FAST) v0.9.38.7</summary>
+		<description>Beetle PCE Fast, a PC Engine emulator for Libretro, is a fork of Mednafen&#39;s PC Engine driver.
 
 Supported files: .pce, .cue, .ccd
 
 License: GPLv2</description>
+		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
-		<nofanart>true</nofanart>
 	</extension>
 </addon>
