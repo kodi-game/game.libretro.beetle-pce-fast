@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-pce-fast"
-		name="PC Engine/PCE-CD (Mednafen PCE FAST)"
+		name="PC Engine/PCE-CD (Beetle PCE FAST)"
 		version="0.9.38"
 		provider-name="Libretro">
 	<requires>
@@ -16,7 +16,7 @@
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">PC Engine/PCE-CD (Mednafen PCE FAST) v0.9.38.7</summary>
+		<summary lang="en">PC Engine/PCE-CD (Beetle PCE FAST) v0.9.38.7</summary>
 		<description>Beetle PCE Fast, a PC Engine emulator for Libretro, is a fork of Mednafen&#39;s PC Engine driver.
 
 Supported files: .pce, .cue, .ccd</description>
