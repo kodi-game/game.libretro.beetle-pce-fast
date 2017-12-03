@@ -9,7 +9,7 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>PCE</platforms>
-		<extensions>pce|cue|ccd</extensions>
+		<extensions>pce|cue|ccd|chd</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<supports_keyboard>false</supports_keyboard>
@@ -19,7 +19,7 @@
 		<summary lang="en">PC Engine/PCE-CD (Beetle PCE FAST) v0.9.38.7</summary>
 		<description>Beetle PCE Fast, a PC Engine emulator for Libretro, is a fork of Mednafen&#39;s PC Engine driver.
 
-Supported files: .pce, .cue, .ccd</description>
+Supported files: .pce, .cue, .ccd, .chd</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<assets>
