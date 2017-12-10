@@ -25,86 +25,94 @@ msgid "Turbo Delay"
 msgstr ""
 
 msgctxt "#30002"
-msgid "(CD) ADPCM Volume %"
+msgid "Turbo ON/OFF Toggle"
 msgstr ""
 
 msgctxt "#30003"
-msgid "(CD) CDDA Volume %"
+msgid "(CD) ADPCM Volume %"
 msgstr ""
 
 msgctxt "#30004"
-msgid "(CD) CD PSG Volume %"
+msgid "(CD) CDDA Volume %"
 msgstr ""
 
 msgctxt "#30005"
-msgid "(CD) CD Speed"
+msgid "(CD) CD PSG Volume %"
 msgstr ""
 
 msgctxt "#30006"
-msgid "CD Bios (Restart)"
+msgid "(CD) CD Speed"
 msgstr ""
 
 msgctxt "#30007"
-msgid "CD Image Cache (Restart)"
+msgid "CD Bios (Restart)"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Horizontal Overscan (352 Width Mode Only)"
+msgid "CD Image Cache (Restart)"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Initial scanline"
+msgid "Horizontal Overscan (352 Width Mode Only)"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Last scanline"
+msgid "Initial scanline"
 msgstr ""
 
 msgctxt "#30011"
-msgid "No Sprite Limit (Restart)"
+msgid "Last scanline"
 msgstr ""
 
 msgctxt "#30012"
-msgid "CPU Overclock Multiplier (Restart)"
+msgid "No Sprite Limit (Restart)"
 msgstr ""
 
 msgctxt "#30013"
-msgid "P1 Turbo II"
+msgid "CPU Overclock Multiplier (Restart)"
 msgstr ""
 
 msgctxt "#30014"
-msgid "P1 Turbo I"
+msgid "P1 Turbo II"
 msgstr ""
 
 msgctxt "#30015"
-msgid "P2 Turbo II"
+msgid "P1 Turbo I"
 msgstr ""
 
 msgctxt "#30016"
-msgid "P2 Turbo I"
+msgid "P2 Turbo II"
 msgstr ""
 
 msgctxt "#30017"
-msgid "P3 Turbo II"
+msgid "P2 Turbo I"
 msgstr ""
 
 msgctxt "#30018"
-msgid "P3 Turbo I"
+msgid "P3 Turbo II"
 msgstr ""
 
 msgctxt "#30019"
-msgid "P4 Turbo II"
+msgid "P3 Turbo I"
 msgstr ""
 
 msgctxt "#30020"
-msgid "P4 Turbo I"
+msgid "P4 Turbo II"
 msgstr ""
 
 msgctxt "#30021"
-msgid "P5 Turbo II"
+msgid "P4 Turbo I"
 msgstr ""
 
 msgctxt "#30022"
+msgid "P5 Turbo II"
+msgstr ""
+
+msgctxt "#30023"
 msgid "P5 Turbo I"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Alternate Turbo Hotkey"
 msgstr ""
 
