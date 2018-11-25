@@ -115,4 +115,3 @@ msgstr ""
 msgctxt "#30024"
 msgid "Alternate Turbo Hotkey"
 msgstr ""
-
