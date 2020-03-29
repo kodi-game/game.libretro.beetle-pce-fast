@@ -37,45 +37,49 @@ msgid "(CD) CD Speed"
 msgstr ""
 
 msgctxt "#30005"
-msgid "CD BIOS (Restart)"
+msgid "Disable Soft Reset (RUN+SELECT)"
 msgstr ""
 
 msgctxt "#30006"
-msgid "CD Image Cache (Restart)"
+msgid "CD BIOS (Restart)"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Horizontal Overscan (352 Width Mode Only)"
+msgid "CD Image Cache (Restart)"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Initial scanline"
+msgid "Horizontal Overscan (352 Width Mode Only)"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Last scanline"
+msgid "Initial scanline"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Mouse Sensitivity"
+msgid "Last scanline"
 msgstr ""
 
 msgctxt "#30011"
-msgid "No Sprite Limit"
+msgid "Mouse Sensitivity"
 msgstr ""
 
 msgctxt "#30012"
-msgid "CPU Overclock Multiplier (Restart)"
+msgid "No Sprite Limit"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Turbo Delay"
+msgid "CPU Overclock Multiplier (Restart)"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Alternate Turbo Hotkey"
+msgid "Turbo Delay"
 msgstr ""
 
 msgctxt "#30015"
+msgid "Alternate Turbo Hotkey"
+msgstr ""
+
+msgctxt "#30016"
 msgid "Turbo ON/OFF Toggle"
 msgstr ""
