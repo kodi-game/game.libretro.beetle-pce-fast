@@ -49,65 +49,73 @@ msgid "CD Image Cache (Restart)"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Colour Palette"
+msgid "Frameskip"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Horizontal Overscan (352 Width Mode Only)"
+msgid "Frameskip Threshold (%)"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Initial scanline"
+msgid "Colour Palette"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Last scanline"
+msgid "Horizontal Overscan (352 Width Mode Only)"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Mouse Sensitivity"
+msgid "Initial scanline"
 msgstr ""
 
 msgctxt "#30013"
-msgid "No Sprite Limit"
+msgid "Last scanline"
 msgstr ""
 
 msgctxt "#30014"
-msgid "CPU Overclock Multiplier (Restart)"
+msgid "Mouse Sensitivity"
 msgstr ""
 
 msgctxt "#30015"
-msgid "PSG Sound Channel 0 Volume %"
+msgid "No Sprite Limit"
 msgstr ""
 
 msgctxt "#30016"
-msgid "PSG Sound Channel 1 Volume %"
+msgid "CPU Overclock Multiplier (Restart)"
 msgstr ""
 
 msgctxt "#30017"
-msgid "PSG Sound Channel 2 Volume %"
+msgid "PSG Sound Channel 0 Volume %"
 msgstr ""
 
 msgctxt "#30018"
-msgid "PSG Sound Channel 3 Volume %"
+msgid "PSG Sound Channel 1 Volume %"
 msgstr ""
 
 msgctxt "#30019"
-msgid "PSG Sound Channel 4 Volume %"
+msgid "PSG Sound Channel 2 Volume %"
 msgstr ""
 
 msgctxt "#30020"
-msgid "PSG Sound Channel 5 Volume %"
+msgid "PSG Sound Channel 3 Volume %"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Turbo Delay"
+msgid "PSG Sound Channel 4 Volume %"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Alternate Turbo Hotkey"
+msgid "PSG Sound Channel 5 Volume %"
 msgstr ""
 
 msgctxt "#30023"
+msgid "Turbo Delay"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Alternate Turbo Hotkey"
+msgstr ""
+
+msgctxt "#30025"
 msgid "Turbo ON/OFF Toggle"
 msgstr ""
