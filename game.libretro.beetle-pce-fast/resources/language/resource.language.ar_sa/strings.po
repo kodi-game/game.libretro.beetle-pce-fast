@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 
+msgctxt "Addon Summary"
+msgid "NEC - PC Engine / CD (Beetle PCE FAST) v0.9.38.7"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Beetle PCE Fast, a PC Engine emulator for Libretro, is a fork of Mednafen&#39;s PC Engine driver.
+
+Supported files: .pce, .cue, .ccd, .chd, .toc, .m3u"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
