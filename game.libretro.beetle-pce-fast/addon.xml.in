@@ -25,6 +25,6 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">NEC - PC Engine / CD (Beetle PCE FAST) v0.9.38.7</summary>
-		<description lang="en_GB">Beetle PCE Fast, a PC Engine emulator for Libretro, is a fork of Mednafen&#39;s PC Engine driver.</description>
+		<description lang="en_GB">Beetle PCE Fast, a PC Engine emulator for Libretro, is a fork of Mednafen&#39;s PC Engine driver.[CR][CR]Supported files: .pce, .cue, .ccd, .chd, .toc, .m3u</description>
 	</extension>
 </addon>
