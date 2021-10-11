@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-pce-fast"
 		name="NEC - PC Engine / CD (Beetle PCE FAST)"
-		version="0.9.38.24"
+		version="0.9.38.25"
 		provider-name="Mednafen Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -26,6 +26,6 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">NEC - PC Engine / CD (Beetle PCE FAST) v0.9.38.7</summary>
-		<description lang="en_GB">Beetle PC Engine Fast is a fork of Mednafen's PC Engine Fast driver.[CR][CR]Compared to Beetle PC Engine, the fast version trades away typically unnecessary accuracy in favor of speed.</description>
+		<description lang="en_GB">Beetle PC Engine Fast is a fork of Mednafen&#39;s PC Engine Fast driver.[CR][CR]Compared to Beetle PC Engine, the fast version trades away typically unnecessary accuracy in favor of speed.</description>
 	</extension>
 </addon>
