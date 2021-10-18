@@ -22,7 +22,7 @@ msgid "NEC - PC Engine / CD (Beetle PCE FAST) v0.9.38.7"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Beetle PC Engine Fast is a fork of Mednafen's PC Engine Fast driver.[CR][CR]Compared to Beetle PC Engine, the fast version trades away typically unnecessary accuracy in favor of speed."
+msgid "Beetle PC Engine Fast is a fork of Mednafen&apos;s PC Engine Fast driver.[CR][CR]Compared to Beetle PC Engine, the fast version trades away typically unnecessary accuracy in favor of speed."
 msgstr ""
 
 msgctxt "#30000"
