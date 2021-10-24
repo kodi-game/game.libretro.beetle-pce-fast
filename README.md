@@ -5,7 +5,7 @@
 
 ### Description
 
-Beetle PC Engine Fast is a fork of Mednafen's PC Engine Fast driver.
+Beetle PC Engine Fast is a fork of Mednafen&apos;s PC Engine Fast driver.
 
 Compared to Beetle PC Engine, the fast version trades away typically unnecessary accuracy in favor of speed.
 
