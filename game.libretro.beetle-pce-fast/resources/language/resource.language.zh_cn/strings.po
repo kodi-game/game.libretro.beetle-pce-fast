@@ -30,101 +30,201 @@ msgid "Settings"
 msgstr "设置"
 
 msgctxt "#30001"
-msgid "Colour Palette"
-msgstr "调色板"
+msgid "Color Palette"
+msgstr ""
 
 msgctxt "#30002"
-msgid "No Sprite Limit"
-msgstr "无 Sprite 限制"
+msgid "Frameskip"
+msgstr ""
 
 msgctxt "#30003"
-msgid "Frameskip"
-msgstr "帧跳过"
+msgid "Frameskip Threshold (%)"
+msgstr ""
 
 msgctxt "#30004"
-msgid "Frameskip Threshold (%)"
-msgstr "帧跳过阈值（%）"
+msgid "Horizontal Overscan (352 Width Mode Only)"
+msgstr ""
 
 msgctxt "#30005"
-msgid "Horizontal Overscan (352 Width Mode Only)"
-msgstr "水平过扫描（仅限352宽度模式）"
+msgid "Initial Scanline"
+msgstr ""
 
 msgctxt "#30006"
-msgid "Initial scanline"
-msgstr "初始扫描线"
+msgid "Last Scanline"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Last scanline"
-msgstr "最末扫描线"
+msgid "PSG Sound Channel 0 Volume %"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Mouse Sensitivity"
-msgstr "鼠标灵敏度"
+msgid "PSG Sound Channel 1 Volume %"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Turbo Delay"
-msgstr "Turbo 延迟"
+msgid "PSG Sound Channel 2 Volume %"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Turbo ON/OFF Toggle"
-msgstr "Turbo 开/关 切换"
+msgid "PSG Sound Channel 3 Volume %"
+msgstr ""
 
 msgctxt "#30011"
-msgid "Alternate Turbo Hotkey"
-msgstr "备用 Turbo 热键"
+msgid "PSG Sound Channel 4 Volume %"
+msgstr ""
 
 msgctxt "#30012"
-msgid "PSG Sound Channel 0 Volume %"
-msgstr "PSG 声道0音量 %"
+msgid "PSG Sound Channel 5 Volume %"
+msgstr ""
 
 msgctxt "#30013"
-msgid "PSG Sound Channel 1 Volume %"
-msgstr "PSG 声道1音量 %"
+msgid "Mouse Sensitivity"
+msgstr ""
 
 msgctxt "#30014"
-msgid "PSG Sound Channel 2 Volume %"
-msgstr "PSG 声道2音量 %"
+msgid "Disable Soft Reset (RUN+SELECT)"
+msgstr ""
 
 msgctxt "#30015"
-msgid "PSG Sound Channel 3 Volume %"
-msgstr "PSG 声道3音量 %"
+msgid "Turbo Toggle"
+msgstr ""
 
 msgctxt "#30016"
-msgid "PSG Sound Channel 4 Volume %"
-msgstr "PSG 声道4音量 %"
+msgid "Alternate Turbo Hotkey"
+msgstr ""
 
 msgctxt "#30017"
-msgid "PSG Sound Channel 5 Volume %"
-msgstr "PSG 声道5音量 %"
+msgid "Turbo Delay"
+msgstr ""
 
 msgctxt "#30018"
-msgid "CD Image Cache (Restart)"
-msgstr "CD 映像缓存（重新启动）"
+msgid "CD Image Cache (Restart Required)"
+msgstr ""
 
 msgctxt "#30019"
-msgid "CD BIOS (Restart)"
-msgstr "CD BIOS（重新启动）"
+msgid "CD BIOS (Restart Required)"
+msgstr ""
 
 msgctxt "#30020"
-msgid "CPU Overclock Multiplier (Restart)"
-msgstr "CPU 超频倍增器（重新启动）"
+msgid "(CD) CD Speed"
+msgstr ""
 
 msgctxt "#30021"
-msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr "禁用软重置（RUN+SELECT）"
+msgid "(CD) ADPCM Volume %"
+msgstr ""
 
 msgctxt "#30022"
-msgid "(CD) CD Speed"
-msgstr "（CD）CD 速度"
+msgid "(CD) CDDA Volume %"
+msgstr ""
 
 msgctxt "#30023"
-msgid "(CD) CDDA Volume %"
-msgstr "（CD）CDDA 音量 %"
+msgid "(CD) PSG Volume %"
+msgstr ""
 
 msgctxt "#30024"
-msgid "(CD) ADPCM Volume %"
-msgstr "（CD）ADPCM 音量 %"
+msgid "No Sprite Limit"
+msgstr ""
 
 msgctxt "#30025"
-msgid "(CD) PSG Volume %"
-msgstr "（CD）PSG 音量 %"
+msgid "CPU Overclock Multiplier (Restart Required)"
+msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "Colour Palette"
+#~ msgstr "调色板"
+
+#~ msgctxt "#30002"
+#~ msgid "No Sprite Limit"
+#~ msgstr "无 Sprite 限制"
+
+#~ msgctxt "#30003"
+#~ msgid "Frameskip"
+#~ msgstr "帧跳过"
+
+#~ msgctxt "#30004"
+#~ msgid "Frameskip Threshold (%)"
+#~ msgstr "帧跳过阈值（%）"
+
+#~ msgctxt "#30005"
+#~ msgid "Horizontal Overscan (352 Width Mode Only)"
+#~ msgstr "水平过扫描（仅限352宽度模式）"
+
+#~ msgctxt "#30006"
+#~ msgid "Initial scanline"
+#~ msgstr "初始扫描线"
+
+#~ msgctxt "#30007"
+#~ msgid "Last scanline"
+#~ msgstr "最末扫描线"
+
+#~ msgctxt "#30008"
+#~ msgid "Mouse Sensitivity"
+#~ msgstr "鼠标灵敏度"
+
+#~ msgctxt "#30009"
+#~ msgid "Turbo Delay"
+#~ msgstr "Turbo 延迟"
+
+#~ msgctxt "#30010"
+#~ msgid "Turbo ON/OFF Toggle"
+#~ msgstr "Turbo 开/关 切换"
+
+#~ msgctxt "#30011"
+#~ msgid "Alternate Turbo Hotkey"
+#~ msgstr "备用 Turbo 热键"
+
+#~ msgctxt "#30012"
+#~ msgid "PSG Sound Channel 0 Volume %"
+#~ msgstr "PSG 声道0音量 %"
+
+#~ msgctxt "#30013"
+#~ msgid "PSG Sound Channel 1 Volume %"
+#~ msgstr "PSG 声道1音量 %"
+
+#~ msgctxt "#30014"
+#~ msgid "PSG Sound Channel 2 Volume %"
+#~ msgstr "PSG 声道2音量 %"
+
+#~ msgctxt "#30015"
+#~ msgid "PSG Sound Channel 3 Volume %"
+#~ msgstr "PSG 声道3音量 %"
+
+#~ msgctxt "#30016"
+#~ msgid "PSG Sound Channel 4 Volume %"
+#~ msgstr "PSG 声道4音量 %"
+
+#~ msgctxt "#30017"
+#~ msgid "PSG Sound Channel 5 Volume %"
+#~ msgstr "PSG 声道5音量 %"
+
+#~ msgctxt "#30018"
+#~ msgid "CD Image Cache (Restart)"
+#~ msgstr "CD 映像缓存（重新启动）"
+
+#~ msgctxt "#30019"
+#~ msgid "CD BIOS (Restart)"
+#~ msgstr "CD BIOS（重新启动）"
+
+#~ msgctxt "#30020"
+#~ msgid "CPU Overclock Multiplier (Restart)"
+#~ msgstr "CPU 超频倍增器（重新启动）"
+
+#~ msgctxt "#30021"
+#~ msgid "Disable Soft Reset (RUN+SELECT)"
+#~ msgstr "禁用软重置（RUN+SELECT）"
+
+#~ msgctxt "#30022"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "（CD）CD 速度"
+
+#~ msgctxt "#30023"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "（CD）CDDA 音量 %"
+
+#~ msgctxt "#30024"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "（CD）ADPCM 音量 %"
+
+#~ msgctxt "#30025"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "（CD）PSG 音量 %"
