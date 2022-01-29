@@ -1,1 +1,1 @@
-beetle-pce-fast https://github.com/libretro/beetle-pce-fast-libretro/archive/81d4c9d07a76c89c32ad0e7450b69bde6403836f.tar.gz
+beetle-pce-fast https://github.com/libretro/beetle-pce-fast-libretro/archive/edefc860eb51f7e78f4a535fdc3b5950d6a5a9a4.tar.gz
