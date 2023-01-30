@@ -28,6 +28,7 @@
 		<summary lang="en_GB">NEC - PC Engine / CD (Beetle PCE FAST) v0.9.38.7</summary>
 		<description lang="da_DK">Beetle PC Engine Fast er en fork af Mednafens PC Engine Fast-driver.[CR][CR]Sammenlignet med Beetle PC Engine bytter den hurtige version typisk unødvendig nøjagtighed væk til fordel for hastighed.</description>
 		<description lang="en_GB">Beetle PC Engine Fast is a fork of Mednafen&apos;s PC Engine Fast driver.[CR][CR]Compared to Beetle PC Engine, the fast version trades away typically unnecessary accuracy in favor of speed.</description>
+		<description lang="es_ES">Beetle PC Engine Fast es una bifurcación del controlador PC Engine Fast de Mednafen[CR][CR]En comparación con Beetle PC Engine, la versión rápida sustituye la precisión innecesaria por la velocidad.</description>
 		<description lang="zh_CN">Beetle PC Engine Fast 是 Mednafen 的 PC Engine Fast 驱动程序的一个分支。[CR][CR]与 Beetle PC Engine 相比，Fast 版本关注速度而非精确性。</description>
 	</extension>
 </addon>
