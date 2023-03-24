@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
 msgctxt "Addon Summary"
-msgid "NEC - PC Engine / CD (Beetle PCE FAST) v0.9.38.7"
+msgid "NEC - PC Engine / CD (Beetle PCE FAST)"
 msgstr ""
 
 msgctxt "Addon Description"
