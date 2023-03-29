@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.beetle-pce-fast.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.beetle-pce-fast)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.beetle-pce-fast?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-beetle-pce-fast)
-
 # NEC - PC Engine / CD (Beetle PCE FAST)
 
 ### Description
