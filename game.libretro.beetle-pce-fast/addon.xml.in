@@ -25,6 +25,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="da_DK">NEC - PC Engine / CD (Beetle PCE FAST)</summary>
 		<summary lang="en_GB">NEC - PC Engine / CD (Beetle PCE FAST)</summary>
 		<summary lang="es_ES">NEC - PC Engine / CD (Beetle PCE RÁPIDO)</summary>
 		<description lang="da_DK">Beetle PC Engine Fast er en fork af Mednafens PC Engine Fast-driver.[CR][CR]Sammenlignet med Beetle PC Engine bytter den hurtige version typisk unødvendig nøjagtighed væk til fordel for hastighed.</description>
