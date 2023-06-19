@@ -86,45 +86,109 @@ msgid "Disable Soft Reset (RUN+SELECT)"
 msgstr "Softreset (RUN+SELECT) deaktivieren"
 
 msgctxt "#30015"
-msgid "Turbo Toggle"
-msgstr "Turbo umschalten"
+msgid "P1 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Alternate Turbo Hotkey"
-msgstr "Alternativer Turbo-Hotkey"
+msgid "P2 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Turbo Delay"
-msgstr "Turboverzögerung"
+msgid "P3 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30018"
-msgid "CD Image Cache (Restart Required)"
-msgstr "CD-Abbild-Cache (Neustart erfordelich)"
+msgid "P4 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30019"
-msgid "CD BIOS (Restart Required)"
-msgstr "CD-BIOS (Neustart erforderlich)"
+msgid "P5 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30020"
-msgid "(CD) CD Speed"
-msgstr "(CD) CD-Geschwindigkeit"
+msgid "Turbo Toggle"
+msgstr ""
 
 msgctxt "#30021"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) ADPCM-Lautstärke %"
+msgid "Alternate Turbo Hotkey"
+msgstr ""
 
 msgctxt "#30022"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) CDDA-Lautstärke %"
+msgid "Turbo Delay"
+msgstr ""
 
 msgctxt "#30023"
-msgid "(CD) PSG Volume %"
-msgstr "(CD) PSG-Lautstärke %"
+msgid "CD Image Cache (Restart Required)"
+msgstr ""
 
 msgctxt "#30024"
-msgid "No Sprite Limit"
-msgstr "Ohne Sprite-Begrenzung"
+msgid "CD BIOS (Restart Required)"
+msgstr ""
 
 msgctxt "#30025"
+msgid "(CD) CD Speed"
+msgstr ""
+
+msgctxt "#30026"
+msgid "(CD) ADPCM Volume %"
+msgstr ""
+
+msgctxt "#30027"
+msgid "(CD) CDDA Volume %"
+msgstr ""
+
+msgctxt "#30028"
+msgid "(CD) PSG Volume %"
+msgstr ""
+
+msgctxt "#30029"
+msgid "No Sprite Limit"
+msgstr ""
+
+msgctxt "#30030"
 msgid "CPU Overclock Multiplier (Restart Required)"
-msgstr "CPU-Übertaktungsmultiplikator (Neustart erforderlich)"
+msgstr ""
+
+#~ msgctxt "#30015"
+#~ msgid "Turbo Toggle"
+#~ msgstr "Turbo umschalten"
+
+#~ msgctxt "#30016"
+#~ msgid "Alternate Turbo Hotkey"
+#~ msgstr "Alternativer Turbo-Hotkey"
+
+#~ msgctxt "#30017"
+#~ msgid "Turbo Delay"
+#~ msgstr "Turboverzögerung"
+
+#~ msgctxt "#30018"
+#~ msgid "CD Image Cache (Restart Required)"
+#~ msgstr "CD-Abbild-Cache (Neustart erfordelich)"
+
+#~ msgctxt "#30019"
+#~ msgid "CD BIOS (Restart Required)"
+#~ msgstr "CD-BIOS (Neustart erforderlich)"
+
+#~ msgctxt "#30020"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) CD-Geschwindigkeit"
+
+#~ msgctxt "#30021"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) ADPCM-Lautstärke %"
+
+#~ msgctxt "#30022"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) CDDA-Lautstärke %"
+
+#~ msgctxt "#30023"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "(CD) PSG-Lautstärke %"
+
+#~ msgctxt "#30024"
+#~ msgid "No Sprite Limit"
+#~ msgstr "Ohne Sprite-Begrenzung"
+
+#~ msgctxt "#30025"
+#~ msgid "CPU Overclock Multiplier (Restart Required)"
+#~ msgstr "CPU-Übertaktungsmultiplikator (Neustart erforderlich)"

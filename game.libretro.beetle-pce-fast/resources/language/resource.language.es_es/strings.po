@@ -86,45 +86,109 @@ msgid "Disable Soft Reset (RUN+SELECT)"
 msgstr "Desactivar Soft Reset (RUN+SELECT)"
 
 msgctxt "#30015"
-msgid "Turbo Toggle"
-msgstr "Activar Turbo"
+msgid "P1 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Alternate Turbo Hotkey"
-msgstr "Tecla Rápida Turbo Alternativa"
+msgid "P2 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Turbo Delay"
-msgstr "Retardo Turbo"
+msgid "P3 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30018"
-msgid "CD Image Cache (Restart Required)"
-msgstr "Caché Imagen CD (requiere reinicio)"
+msgid "P4 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30019"
-msgid "CD BIOS (Restart Required)"
-msgstr "CD Bios (requiere reinicio)"
+msgid "P5 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30020"
-msgid "(CD) CD Speed"
-msgstr "(CD) Velocidad CD"
+msgid "Turbo Toggle"
+msgstr ""
 
 msgctxt "#30021"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) ADPCM Volumen %"
+msgid "Alternate Turbo Hotkey"
+msgstr ""
 
 msgctxt "#30022"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) CDDA Volumen %"
+msgid "Turbo Delay"
+msgstr ""
 
 msgctxt "#30023"
-msgid "(CD) PSG Volume %"
-msgstr "(CD) CD PSG Volumen %"
+msgid "CD Image Cache (Restart Required)"
+msgstr ""
 
 msgctxt "#30024"
-msgid "No Sprite Limit"
-msgstr "Sin Límite de Sprites"
+msgid "CD BIOS (Restart Required)"
+msgstr ""
 
 msgctxt "#30025"
+msgid "(CD) CD Speed"
+msgstr ""
+
+msgctxt "#30026"
+msgid "(CD) ADPCM Volume %"
+msgstr ""
+
+msgctxt "#30027"
+msgid "(CD) CDDA Volume %"
+msgstr ""
+
+msgctxt "#30028"
+msgid "(CD) PSG Volume %"
+msgstr ""
+
+msgctxt "#30029"
+msgid "No Sprite Limit"
+msgstr ""
+
+msgctxt "#30030"
 msgid "CPU Overclock Multiplier (Restart Required)"
-msgstr "Multiplicador Overclock CPU (requiere reinicio)"
+msgstr ""
+
+#~ msgctxt "#30015"
+#~ msgid "Turbo Toggle"
+#~ msgstr "Activar Turbo"
+
+#~ msgctxt "#30016"
+#~ msgid "Alternate Turbo Hotkey"
+#~ msgstr "Tecla Rápida Turbo Alternativa"
+
+#~ msgctxt "#30017"
+#~ msgid "Turbo Delay"
+#~ msgstr "Retardo Turbo"
+
+#~ msgctxt "#30018"
+#~ msgid "CD Image Cache (Restart Required)"
+#~ msgstr "Caché Imagen CD (requiere reinicio)"
+
+#~ msgctxt "#30019"
+#~ msgid "CD BIOS (Restart Required)"
+#~ msgstr "CD Bios (requiere reinicio)"
+
+#~ msgctxt "#30020"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) Velocidad CD"
+
+#~ msgctxt "#30021"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) ADPCM Volumen %"
+
+#~ msgctxt "#30022"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) CDDA Volumen %"
+
+#~ msgctxt "#30023"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "(CD) CD PSG Volumen %"
+
+#~ msgctxt "#30024"
+#~ msgid "No Sprite Limit"
+#~ msgstr "Sin Límite de Sprites"
+
+#~ msgctxt "#30025"
+#~ msgid "CPU Overclock Multiplier (Restart Required)"
+#~ msgstr "Multiplicador Overclock CPU (requiere reinicio)"

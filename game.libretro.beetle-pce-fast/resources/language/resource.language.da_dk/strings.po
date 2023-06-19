@@ -86,48 +86,112 @@ msgid "Disable Soft Reset (RUN+SELECT)"
 msgstr "Deaktiver blød nulstilling (RUN+SELECT)"
 
 msgctxt "#30015"
-msgid "Turbo Toggle"
-msgstr "Turbo-skift"
+msgid "P1 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Alternate Turbo Hotkey"
-msgstr "Alternativ Turbo genvejstast"
+msgid "P2 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Turbo Delay"
-msgstr "Turbo-forsinkelse"
+msgid "P3 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30018"
-msgid "CD Image Cache (Restart Required)"
-msgstr "CD billedcache (genstart påkrævet)"
+msgid "P4 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30019"
-msgid "CD BIOS (Restart Required)"
-msgstr "CD BIOS (genstart påkrævet)"
+msgid "P5 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30020"
-msgid "(CD) CD Speed"
-msgstr "(CD) CD-hastighed"
+msgid "Turbo Toggle"
+msgstr ""
 
 msgctxt "#30021"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) ADPCM lydstyrke %"
+msgid "Alternate Turbo Hotkey"
+msgstr ""
 
 msgctxt "#30022"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) CDDA lydstyrke %"
+msgid "Turbo Delay"
+msgstr ""
 
 msgctxt "#30023"
-msgid "(CD) PSG Volume %"
-msgstr "(CD) PSG lydstyrke %"
+msgid "CD Image Cache (Restart Required)"
+msgstr ""
 
 msgctxt "#30024"
-msgid "No Sprite Limit"
-msgstr "Ingen Sprite begrænsning"
+msgid "CD BIOS (Restart Required)"
+msgstr ""
 
 msgctxt "#30025"
+msgid "(CD) CD Speed"
+msgstr ""
+
+msgctxt "#30026"
+msgid "(CD) ADPCM Volume %"
+msgstr ""
+
+msgctxt "#30027"
+msgid "(CD) CDDA Volume %"
+msgstr ""
+
+msgctxt "#30028"
+msgid "(CD) PSG Volume %"
+msgstr ""
+
+msgctxt "#30029"
+msgid "No Sprite Limit"
+msgstr ""
+
+msgctxt "#30030"
 msgid "CPU Overclock Multiplier (Restart Required)"
-msgstr "Multiplikator til CPU overclock (genstart påkrævet)"
+msgstr ""
+
+#~ msgctxt "#30015"
+#~ msgid "Turbo Toggle"
+#~ msgstr "Turbo-skift"
+
+#~ msgctxt "#30016"
+#~ msgid "Alternate Turbo Hotkey"
+#~ msgstr "Alternativ Turbo genvejstast"
+
+#~ msgctxt "#30017"
+#~ msgid "Turbo Delay"
+#~ msgstr "Turbo-forsinkelse"
+
+#~ msgctxt "#30018"
+#~ msgid "CD Image Cache (Restart Required)"
+#~ msgstr "CD billedcache (genstart påkrævet)"
+
+#~ msgctxt "#30019"
+#~ msgid "CD BIOS (Restart Required)"
+#~ msgstr "CD BIOS (genstart påkrævet)"
+
+#~ msgctxt "#30020"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) CD-hastighed"
+
+#~ msgctxt "#30021"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) ADPCM lydstyrke %"
+
+#~ msgctxt "#30022"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) CDDA lydstyrke %"
+
+#~ msgctxt "#30023"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "(CD) PSG lydstyrke %"
+
+#~ msgctxt "#30024"
+#~ msgid "No Sprite Limit"
+#~ msgstr "Ingen Sprite begrænsning"
+
+#~ msgctxt "#30025"
+#~ msgid "CPU Overclock Multiplier (Restart Required)"
+#~ msgstr "Multiplikator til CPU overclock (genstart påkrævet)"
 
 #~ msgctxt "#30001"
 #~ msgid "Colour Palette"
