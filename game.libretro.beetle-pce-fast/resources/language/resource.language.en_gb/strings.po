@@ -24,9 +24,7 @@ msgctxt "Addon Description"
 msgid "Beetle PC Engine Fast is a fork of Mednafen's PC Engine Fast driver.[CR][CR]Compared to Beetle PC Engine, the fast version trades away typically unnecessary accuracy in favor of speed."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
+# Empty string with ID 30000
 
 msgctxt "#30001"
 msgid "Color Palette"

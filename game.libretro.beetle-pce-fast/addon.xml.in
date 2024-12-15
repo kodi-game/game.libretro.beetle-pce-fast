@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-pce-fast"
 		name="NEC - PC Engine / CD (Beetle PCE FAST)"
-		version="1.31.0.50"
+		version="1.31.0.51"
 		provider-name="Mednafen Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
