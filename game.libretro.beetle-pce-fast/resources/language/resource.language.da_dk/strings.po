@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Beetle PC Engine Fast is a fork of Mednafen's PC Engine Fast driver.[CR][CR]Compared to Beetle PC Engine, the fast version trades away typically unnecessary accuracy in favor of speed."
 msgstr "Beetle PC Engine Fast er en fork af Mednafens PC Engine Fast-driver.[CR][CR]Sammenlignet med Beetle PC Engine bytter den hurtige version typisk unødvendig nøjagtighed væk til fordel for hastighed."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Indstillinger"
-
 msgctxt "#30001"
 msgid "Color Palette"
 msgstr "Farvepalette"
@@ -148,6 +144,10 @@ msgstr "Ingen Sprite begrænsning"
 msgctxt "#30030"
 msgid "CPU Overclock Multiplier (Restart Required)"
 msgstr "Multiplikator til CPU overclock (genstart påkrævet)"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"
 
 #~ msgctxt "#30015"
 #~ msgid "Turbo Toggle"
