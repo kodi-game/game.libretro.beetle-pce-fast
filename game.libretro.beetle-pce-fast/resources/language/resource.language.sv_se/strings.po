@@ -145,6 +145,10 @@ msgctxt "#30030"
 msgid "CPU Overclock Multiplier (Restart Required)"
 msgstr "Multiplikator för CPU-överklockning (omstart krävs)"
 
+msgctxt "#30031"
+msgid "CD Ignore EDC/L-EC Errors"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Inställningar"
