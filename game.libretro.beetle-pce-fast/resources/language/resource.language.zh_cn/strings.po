@@ -149,6 +149,10 @@ msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
 msgstr "忽略光盘 EDC/L-EC 校验错误"
 
+msgctxt "#30032"
+msgid "(CD) ADPCM Low-pass Filter"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "设置"

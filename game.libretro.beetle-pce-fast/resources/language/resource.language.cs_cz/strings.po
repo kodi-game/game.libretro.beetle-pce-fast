@@ -148,3 +148,7 @@ msgstr "Násobitel přetaktování CPU (vyžaduje restart)"
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
 msgstr "Ignorovat chyby EDC/L-EC na CD"
+
+msgctxt "#30032"
+msgid "(CD) ADPCM Low-pass Filter"
+msgstr ""
