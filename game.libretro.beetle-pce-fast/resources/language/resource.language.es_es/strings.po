@@ -153,6 +153,206 @@ msgctxt "#30032"
 msgid "(CD) ADPCM Low-pass Filter"
 msgstr "(CD) Filtro Paso-bajo ADPCM"
 
+msgctxt "#30033"
+msgid "Video"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Configure display cropping, frame skipping and other image output parameters."
+msgstr ""
+
+msgctxt "#30035"
+msgid "Composite tries to recreate the original console output and can show more details in some games."
+msgstr ""
+
+msgctxt "#30036"
+msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
+msgstr ""
+
+msgctxt "#30037"
+msgid "Auto"
+msgstr ""
+
+msgctxt "#30038"
+msgid "Manual"
+msgstr ""
+
+msgctxt "#30039"
+msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
+msgstr ""
+
+msgctxt "#30040"
+msgid "33 (Default)"
+msgstr ""
+
+msgctxt "#30041"
+msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
+msgstr ""
+
+msgctxt "#30042"
+msgid "352 (Default)"
+msgstr ""
+
+msgctxt "#30043"
+msgid "First rendered scanline. Higher values will crop the top of the image."
+msgstr ""
+
+msgctxt "#30044"
+msgid "3 (Default)"
+msgstr ""
+
+msgctxt "#30045"
+msgid "Last rendered scanline. Lower values will crop the bottom of the image."
+msgstr ""
+
+msgctxt "#30046"
+msgid "242 (Default)"
+msgstr ""
+
+msgctxt "#30047"
+msgid "Input"
+msgstr ""
+
+msgctxt "#30048"
+msgid "Configure light gun, mouse and NegCon input."
+msgstr ""
+
+msgctxt "#30049"
+msgid "Higher values will make the mouse cursor move faster."
+msgstr ""
+
+msgctxt "#30050"
+msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
+msgstr ""
+
+msgctxt "#30051"
+msgid "Choose if port 1 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
+msgstr ""
+
+msgctxt "#30052"
+msgid "Choose if port 2 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
+msgstr ""
+
+msgctxt "#30053"
+msgid "Choose if port 3 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
+msgstr ""
+
+msgctxt "#30054"
+msgid "Choose if port 4 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
+msgstr ""
+
+msgctxt "#30055"
+msgid "Choose if port 5 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
+msgstr ""
+
+msgctxt "#30056"
+msgid "Enable the turbo toggle hotkeys (buttons III and IV)."
+msgstr ""
+
+msgctxt "#30057"
+msgid "Assign RetroPad's L3/R3 buttons as turbo toggle hotkeys instead of buttons III and IV. Works only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
+msgstr ""
+
+msgctxt "#30058"
+msgid "Adjust the time between turbo fire (in frames)."
+msgstr ""
+
+msgctxt "#30059"
+msgid "Emulation Hacks"
+msgstr ""
+
+msgctxt "#30060"
+msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
+msgstr ""
+
+msgctxt "#30061"
+msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
+msgstr ""
+
+msgctxt "#30062"
+msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
+msgstr ""
+
+msgctxt "#30063"
+msgid "Advanced Channel Volume Settings"
+msgstr ""
+
+msgctxt "#30064"
+msgid "Configure the volume of individual hardware audio channels."
+msgstr ""
+
+msgctxt "#30065"
+msgid "Modify the volume of PSG Sound Channel 0."
+msgstr ""
+
+msgctxt "#30066"
+msgid "Modify the volume of PSG Sound Channel 1."
+msgstr ""
+
+msgctxt "#30067"
+msgid "Modify the volume of PSG Sound Channel 2."
+msgstr ""
+
+msgctxt "#30068"
+msgid "Modify the volume of PSG Sound Channel 3."
+msgstr ""
+
+msgctxt "#30069"
+msgid "Modify the volume of PSG Sound Channel 4."
+msgstr ""
+
+msgctxt "#30070"
+msgid "Modify the volume of PSG Sound Channel 5."
+msgstr ""
+
+msgctxt "#30071"
+msgid "PC Engine CD"
+msgstr ""
+
+msgctxt "#30072"
+msgid "Configure settings related to the PC Engine CD emulation."
+msgstr ""
+
+msgctxt "#30073"
+msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
+msgstr ""
+
+msgctxt "#30074"
+msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
+msgstr ""
+
+msgctxt "#30075"
+msgid "Higher values enable faster loading times but can cause issues with a couple of games."
+msgstr ""
+
+msgctxt "#30076"
+msgid "1x"
+msgstr ""
+
+msgctxt "#30077"
+msgid "2x"
+msgstr ""
+
+msgctxt "#30078"
+msgid "4x"
+msgstr ""
+
+msgctxt "#30079"
+msgid "8x"
+msgstr ""
+
+msgctxt "#30080"
+msgid "CD game only. Setting this volume control too high may cause sample clipping."
+msgstr ""
+
+msgctxt "#30081"
+msgid "CD game only. Applies a low-pass filter to CD ADPCM sample playback, reducing high-frequency aliasing/harshness. The cutoff scales with the ADPCM sample rate."
+msgstr ""
+
+msgctxt "#30082"
+msgid "Ignore EDC/L-EC errors. Needed for compatibility with some hacks."
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Ajustes"
