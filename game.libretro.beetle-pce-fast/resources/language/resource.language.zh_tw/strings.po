@@ -27,123 +27,123 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Color Palette"
-msgstr ""
+msgstr "影像配色"
 
 msgctxt "#30002"
 msgid "Frameskip"
-msgstr ""
+msgstr "跳幀"
 
 msgctxt "#30003"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "跳幀上限 (%)"
 
 msgctxt "#30004"
 msgid "Horizontal Overscan (352 Width Mode Only)"
-msgstr ""
+msgstr "水平過度掃描 (僅限寬度352模式)"
 
 msgctxt "#30005"
 msgid "Initial Scanline"
-msgstr ""
+msgstr "初始掃描線"
 
 msgctxt "#30006"
 msgid "Last Scanline"
-msgstr ""
+msgstr "最後掃描線"
 
 msgctxt "#30007"
 msgid "PSG Sound Channel 0 Volume %"
-msgstr ""
+msgstr "PSG聲道0 音量 %"
 
 msgctxt "#30008"
 msgid "PSG Sound Channel 1 Volume %"
-msgstr ""
+msgstr "PSG聲道1 音量 %"
 
 msgctxt "#30009"
 msgid "PSG Sound Channel 2 Volume %"
-msgstr ""
+msgstr "PSG聲道2 音量 %"
 
 msgctxt "#30010"
 msgid "PSG Sound Channel 3 Volume %"
-msgstr ""
+msgstr "PSG聲道3 音量 %"
 
 msgctxt "#30011"
 msgid "PSG Sound Channel 4 Volume %"
-msgstr ""
+msgstr "PSG聲道4 音量 %"
 
 msgctxt "#30012"
 msgid "PSG Sound Channel 5 Volume %"
-msgstr ""
+msgstr "PSG聲道5 音量 %"
 
 msgctxt "#30013"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "滑鼠靈敏度"
 
 msgctxt "#30014"
 msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr ""
+msgstr "禁用軟體重開 (RUN+SELECT)"
 
 msgctxt "#30015"
 msgid "P1 Default Joypad Type"
-msgstr ""
+msgstr "P1預設搖桿類型"
 
 msgctxt "#30016"
 msgid "P2 Default Joypad Type"
-msgstr ""
+msgstr "P2預設手把類型"
 
 msgctxt "#30017"
 msgid "P3 Default Joypad Type"
-msgstr ""
+msgstr "P3預設手把類型"
 
 msgctxt "#30018"
 msgid "P4 Default Joypad Type"
-msgstr ""
+msgstr "P3預設手把類型"
 
 msgctxt "#30019"
 msgid "P5 Default Joypad Type"
-msgstr ""
+msgstr "P3預設手把類型"
 
 msgctxt "#30020"
 msgid "Turbo Toggle"
-msgstr ""
+msgstr "連發開關"
 
 msgctxt "#30021"
 msgid "Alternate Turbo Hotkey"
-msgstr ""
+msgstr "備用連發按鍵"
 
 msgctxt "#30022"
 msgid "Turbo Delay"
-msgstr ""
+msgstr "連發間隔"
 
 msgctxt "#30023"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "映像檔快取 (需要重新啟動)"
 
 msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
-msgstr ""
+msgstr "光碟系統卡 (需要重新啟動)"
 
 msgctxt "#30025"
 msgid "(CD) CD Speed"
-msgstr ""
+msgstr "(光碟機) 讀取速度"
 
 msgctxt "#30026"
 msgid "(CD) ADPCM Volume %"
-msgstr ""
+msgstr "(光碟機) ADPCM 音量 %"
 
 msgctxt "#30027"
 msgid "(CD) CDDA Volume %"
-msgstr ""
+msgstr "(光碟機) CDDA 音量 %"
 
 msgctxt "#30028"
 msgid "(CD) PSG Volume %"
-msgstr ""
+msgstr "(光碟機) PSG 音量 %"
 
 msgctxt "#30029"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "沒有物件限制"
 
 msgctxt "#30030"
 msgid "CPU Overclock Multiplier (Restart Required)"
-msgstr ""
+msgstr "CPU超頻倍頻 (需要重新啟動)"
 
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
@@ -155,195 +155,203 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Video"
-msgstr ""
+msgstr "顯示"
 
 msgctxt "#30034"
 msgid "Configure display cropping, frame skipping and other image output parameters."
-msgstr ""
+msgstr "變更畫面裁剪、跳幀和影像輸出相關的設定。"
 
 msgctxt "#30035"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr ""
+msgstr "設定<合成>時嘗試重建原色影像輸出, 可在部分遊戲中顯示更多細節。"
 
 msgctxt "#30036"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
 msgstr ""
+"設定跳幀用以避免音訊緩衝區不足(產生破音), 用影像流暢度為代價提高效能。\n"
+"設定<自動>由前端系統控制跳幀, 設定<手動>由「跳幀上限(%)」控制跳幀。"
 
 msgctxt "#30037"
 msgid "Auto"
-msgstr ""
+msgstr "自動"
 
 msgctxt "#30038"
 msgid "Manual"
-msgstr ""
+msgstr "手動"
 
 msgctxt "#30039"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
 msgstr ""
+"設定「跳幀」為<手動>時音頻緩衝區使用上限(%)。\n"
+"低於上限的影格將被跳過, 設定過高會導致頻繁丟失影格, 過低則是出現破音。"
 
 msgctxt "#30040"
 msgid "33 (Default)"
-msgstr ""
+msgstr "33 (預設)"
 
 msgctxt "#30041"
 msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
-msgstr ""
+msgstr "設定影像顯示的最大寬度, 過低的值將裁剪影像右側(寬度352像素的遊戲)。"
 
 msgctxt "#30042"
 msgid "352 (Default)"
-msgstr ""
+msgstr "352 (預設)"
 
 msgctxt "#30043"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "設定最初渲染的掃描線, 過高的值將裁剪影像頂部。"
 
 msgctxt "#30044"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (預設)"
 
 msgctxt "#30045"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "設定最後渲染的掃描線, 過低的值將裁剪影像底部。"
 
 msgctxt "#30046"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (預設)"
 
 msgctxt "#30047"
 msgid "Input"
-msgstr ""
+msgstr "輸入"
 
 msgctxt "#30048"
 msgid "Configure light gun, mouse and NegCon input."
-msgstr ""
+msgstr "變更輸入裝置相關的設定。"
 
 msgctxt "#30049"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "數值越高游標移動速度越快。"
 
 msgctxt "#30050"
 msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
-msgstr ""
+msgstr "禁用按[RUN鍵+SELECT鍵]重新開始遊戲, 此選項僅禁用核心登錄的組合鍵。"
 
 msgctxt "#30051"
 msgid "Choose if port 1 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "選擇連接埠 1 手把預設為 2 個按鈕還是 6 個按鈕。 此選項僅在核心啟動時套用，如果您想在內容運行時進行切換，請使用「模式切換」按鈕。 注意：6 按鈕手把在不相容的遊戲中可能會出現奇怪的行為。"
 
 msgctxt "#30052"
 msgid "Choose if port 2 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "選擇連接埠 2 手把預設為 2 個按鈕還是 6 個按鈕。 此選項僅在核心啟動時套用，如果您想在內容運行時進行切換，請使用「模式切換」按鈕。 注意：6 按鈕手把在不相容的遊戲中可能會出現奇怪的行為。"
 
 msgctxt "#30053"
 msgid "Choose if port 3 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "選擇連接埠 3 手把預設為 2 個按鈕還是 6 個按鈕。 此選項僅在核心啟動時套用，如果您想在內容運行時進行切換，請使用「模式切換」按鈕。 注意：6 按鈕手把在不相容的遊戲中可能會出現奇怪的行為。"
 
 msgctxt "#30054"
 msgid "Choose if port 4 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "選擇連接埠 4 手把預設為 2 個按鈕還是 6 個按鈕。 此選項僅在核心啟動時套用，如果您想在內容運行時進行切換，請使用「模式切換」按鈕。 注意：6 按鈕手把在不相容的遊戲中可能會出現奇怪的行為。"
 
 msgctxt "#30055"
 msgid "Choose if port 5 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "選擇連接埠 5 手把預設為 2 個按鈕還是 6 個按鈕。 此選項僅在核心啟動時套用，如果您想在內容運行時進行切換，請使用「模式切換」按鈕。 注意：6 按鈕手把在不相容的遊戲中可能會出現奇怪的行為。"
 
 msgctxt "#30056"
 msgid "Enable the turbo toggle hotkeys (buttons III and IV)."
-msgstr ""
+msgstr "開啟時[III/IV鍵]作為連發的開關, 提供給[I/II鍵]使用。"
 
 msgctxt "#30057"
 msgid "Assign RetroPad's L3/R3 buttons as turbo toggle hotkeys instead of buttons III and IV. Works only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
-msgstr ""
+msgstr "開啟時[L3/R3鍵]作為連發的開關, 僅限[L3/R3鍵]未設定按鍵時生效, 用於切換為主機的6鍵控制器。"
 
 msgctxt "#30058"
 msgid "Adjust the time between turbo fire (in frames)."
-msgstr ""
+msgstr "設定連發的間隔時間(幀數)。"
 
 msgctxt "#30059"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "進階"
 
 msgctxt "#30060"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr ""
+msgstr "變更模擬器進階破解的設定。"
 
 msgctxt "#30061"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
 msgstr ""
+"移除每條掃描線16個物件的硬體限制。\n"
+"警告: 可能導致某些遊戲出現圖形故障。"
 
 msgctxt "#30062"
 msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
 msgstr ""
+"較高的值可降低游戲中的延遲。\n"
+"警告: 可能導致故障崩潰。"
 
 msgctxt "#30063"
 msgid "Advanced Channel Volume Settings"
-msgstr ""
+msgstr "音效 (PSG音量)"
 
 msgctxt "#30064"
 msgid "Configure the volume of individual hardware audio channels."
-msgstr ""
+msgstr "設定可程式化聲音產生器(PSG)的六聲道音量。"
 
 msgctxt "#30065"
 msgid "Modify the volume of PSG Sound Channel 0."
-msgstr ""
+msgstr "設定PSG聲道0的音量。"
 
 msgctxt "#30066"
 msgid "Modify the volume of PSG Sound Channel 1."
-msgstr ""
+msgstr "設定PSG聲道1的音量。"
 
 msgctxt "#30067"
 msgid "Modify the volume of PSG Sound Channel 2."
-msgstr ""
+msgstr "設定PSG聲道2的音量。"
 
 msgctxt "#30068"
 msgid "Modify the volume of PSG Sound Channel 3."
-msgstr ""
+msgstr "設定PSG聲道3的音量。"
 
 msgctxt "#30069"
 msgid "Modify the volume of PSG Sound Channel 4."
-msgstr ""
+msgstr "設定PSG聲道4的音量。"
 
 msgctxt "#30070"
 msgid "Modify the volume of PSG Sound Channel 5."
-msgstr ""
+msgstr "設定PSG聲道5的音量。"
 
 msgctxt "#30071"
 msgid "PC Engine CD"
-msgstr ""
+msgstr "光碟機"
 
 msgctxt "#30072"
 msgid "Configure settings related to the PC Engine CD emulation."
-msgstr ""
+msgstr "變更光碟機相關的設定。"
 
 msgctxt "#30073"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "將光碟映像檔完整載入到記憶體, 增加啟動時間並減少讀取的時間。"
 
 msgctxt "#30074"
 msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
-msgstr ""
+msgstr "設定<系統卡3>時支援較多的授權遊戲, 未授權的遊戲需要<遊戲特快卡>來執行。"
 
 msgctxt "#30075"
 msgid "Higher values enable faster loading times but can cause issues with a couple of games."
-msgstr ""
+msgstr "高倍速可加快讀取的時間, 但可能導致遊戲出現問題。"
 
 msgctxt "#30076"
 msgid "1x"
-msgstr ""
+msgstr "1倍速"
 
 msgctxt "#30077"
 msgid "2x"
-msgstr ""
+msgstr "2倍速"
 
 msgctxt "#30078"
 msgid "4x"
-msgstr ""
+msgstr "4倍速"
 
 msgctxt "#30079"
 msgid "8x"
-msgstr ""
+msgstr "8倍速"
 
 msgctxt "#30080"
 msgid "CD game only. Setting this volume control too high may cause sample clipping."
-msgstr ""
+msgstr "僅限實體或虛擬光碟機載入的遊戲, 音量設定過高可能會導致取樣削波。"
 
 msgctxt "#30081"
 msgid "CD game only. Applies a low-pass filter to CD ADPCM sample playback, reducing high-frequency aliasing/harshness. The cutoff scales with the ADPCM sample rate."

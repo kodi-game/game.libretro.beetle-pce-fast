@@ -31,47 +31,47 @@ msgstr "Färgpalett"
 
 msgctxt "#30002"
 msgid "Frameskip"
-msgstr "Hoppa över bildrutor"
+msgstr "Bildrutsöverhoppning"
 
 msgctxt "#30003"
 msgid "Frameskip Threshold (%)"
-msgstr "Tröskelvärde för bildöverhoppning (%)"
+msgstr "Tröskelvärde för bildrutsöverhoppning (%)"
 
 msgctxt "#30004"
 msgid "Horizontal Overscan (352 Width Mode Only)"
-msgstr "Horisontell överskanning (endast i 352-breddsläge)"
+msgstr "Horisontell överskanning (endast i breddläget 352)"
 
 msgctxt "#30005"
 msgid "Initial Scanline"
-msgstr "Initial skanlinje"
+msgstr "Initial skanningslinje"
 
 msgctxt "#30006"
 msgid "Last Scanline"
-msgstr "Sista skanlinje"
+msgstr "Sista skanningslinjen"
 
 msgctxt "#30007"
 msgid "PSG Sound Channel 0 Volume %"
-msgstr "PSG-ljudkanal 0 volym %"
+msgstr "PSG Ljudkanal 0 volym %"
 
 msgctxt "#30008"
 msgid "PSG Sound Channel 1 Volume %"
-msgstr "PSG-ljudkanal 1 volym %"
+msgstr "PSG Ljudkanal 1 volym %"
 
 msgctxt "#30009"
 msgid "PSG Sound Channel 2 Volume %"
-msgstr "PSG-ljudkanal 2 volym %"
+msgstr "PSG Ljudkanal 2 volym %"
 
 msgctxt "#30010"
 msgid "PSG Sound Channel 3 Volume %"
-msgstr "PSG-ljudkanal 3 volym %"
+msgstr "PSG Ljudkanal 3 volym %"
 
 msgctxt "#30011"
 msgid "PSG Sound Channel 4 Volume %"
-msgstr "PSG-ljudkanal 4 volym %"
+msgstr "PSG Ljudkanal 4 volym %"
 
 msgctxt "#30012"
 msgid "PSG Sound Channel 5 Volume %"
-msgstr "PSG-ljudkanal 5 volym %"
+msgstr "PSG Ljudkanal 5 volym %"
 
 msgctxt "#30013"
 msgid "Mouse Sensitivity"
@@ -79,35 +79,35 @@ msgstr "Muskänslighet"
 
 msgctxt "#30014"
 msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr "Inaktivera mjuk omstart (RUN+SELECT)"
+msgstr "Inaktivera mjukåterställning (RUN+SELECT)"
 
 msgctxt "#30015"
 msgid "P1 Default Joypad Type"
-msgstr "P1 Standard Joypad-typ"
+msgstr "Standard joypad-typ för spelare 1 (P1)"
 
 msgctxt "#30016"
 msgid "P2 Default Joypad Type"
-msgstr "P2 Standard Joypad-typ"
+msgstr "Standard joypad-typ för spelare 2 (P2)"
 
 msgctxt "#30017"
 msgid "P3 Default Joypad Type"
-msgstr "P3 Standard Joypad-typ"
+msgstr "Standard joypad-typ för spelare 3 (P3)"
 
 msgctxt "#30018"
 msgid "P4 Default Joypad Type"
-msgstr "P4 Standard Joypad-typ"
+msgstr "Standard joypad-typ för spelare 4 (P4)"
 
 msgctxt "#30019"
 msgid "P5 Default Joypad Type"
-msgstr "P5 Standard Joypad-typ"
+msgstr "Standard joypad-typ för spelare 5 (P5)"
 
 msgctxt "#30020"
 msgid "Turbo Toggle"
-msgstr "Turboväxling"
+msgstr "Växla Turboläge"
 
 msgctxt "#30021"
 msgid "Alternate Turbo Hotkey"
-msgstr "Alternativ turbosnabbtangent"
+msgstr "Alternativ snabbtangent för turbo"
 
 msgctxt "#30022"
 msgid "Turbo Delay"
@@ -115,11 +115,11 @@ msgstr "Turbofördröjning"
 
 msgctxt "#30023"
 msgid "CD Image Cache (Restart Required)"
-msgstr "Cache för CD-avbildning (omstart krävs)"
+msgstr "Skivavbildningscache (omstart krävs)"
 
 msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
-msgstr "CD BIOS (omstart krävs)"
+msgstr "CD-BIOS (omstart krävs)"
 
 msgctxt "#30025"
 msgid "(CD) CD Speed"
@@ -127,31 +127,31 @@ msgstr "(CD) CD-hastighet"
 
 msgctxt "#30026"
 msgid "(CD) ADPCM Volume %"
-msgstr "(CD) ADPCM-volym %"
+msgstr "(CD) ADPCM Volym %"
 
 msgctxt "#30027"
 msgid "(CD) CDDA Volume %"
-msgstr "(CD) CDDA-volym %"
+msgstr "(CD) CDDA Volym %"
 
 msgctxt "#30028"
 msgid "(CD) PSG Volume %"
-msgstr "(CD) PSG-volym %"
+msgstr "(CD) PSG Volym %"
 
 msgctxt "#30029"
 msgid "No Sprite Limit"
-msgstr "Ingen sprite-gräns"
+msgstr "Ingen blockfigursgräns"
 
 msgctxt "#30030"
 msgid "CPU Overclock Multiplier (Restart Required)"
-msgstr "Multiplikator för CPU-överklockning (omstart krävs)"
+msgstr "CPU-överklockningsmultiplikator (Omstart krävs)"
 
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
-msgstr ""
+msgstr "Ignorera CD-fel av typen EDC/L-EC"
 
 msgctxt "#30032"
 msgid "(CD) ADPCM Low-pass Filter"
-msgstr ""
+msgstr "(CD) ADPCM-lågpassfilter"
 
 msgctxt "#30033"
 msgid "Video"
@@ -159,15 +159,15 @@ msgstr ""
 
 msgctxt "#30034"
 msgid "Configure display cropping, frame skipping and other image output parameters."
-msgstr ""
+msgstr "Konfigurera skärmbeskärning, bildrutehopp och andra bildutdata-parametrar."
 
 msgctxt "#30035"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr ""
+msgstr "Composite försöker återskapa den ursprungliga konsolens utmatning och kan visa fler detaljer i vissa spel."
 
 msgctxt "#30036"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Hoppa över bildrutor för att undvika ljudbuffertbrist (crackling-ljud). Förbättrar prestanda på bekostnad av visuell jämnhet. \"Automatiserat\" hoppar över bildrutor när frontend råder. \"Manuell\" använder inställningen \"Tröskel för bildrutehopp (%)\"."
 
 msgctxt "#30037"
 msgid "Auto"
@@ -175,135 +175,135 @@ msgstr ""
 
 msgctxt "#30038"
 msgid "Manual"
-msgstr ""
+msgstr "Manuell"
 
 msgctxt "#30039"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "När 'Bildrutsöverhoppning' är satt till 'Manuell', ange ljudbuffertens tröskel (i procent) under vilka ramar som kommer att hoppas över. Högre värden minskar risken för hackigt ljud genom att bildrutor tappas oftare."
 
 msgctxt "#30040"
 msgid "33 (Default)"
-msgstr ""
+msgstr "33 (Standard)"
 
 msgctxt "#30041"
 msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
-msgstr ""
+msgstr "Välj den maximala bildbredden som ska visas. Lägre värden kommer att beskära högersidan av bilden (för spel med 352 px bredd)."
 
 msgctxt "#30042"
 msgid "352 (Default)"
-msgstr ""
+msgstr "352 (Standard)"
 
 msgctxt "#30043"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "Första renderade skanningslinjen. Högre värden kommer att beskära toppen av bilden."
 
 msgctxt "#30044"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (Standard)"
 
 msgctxt "#30045"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "Sista renderade skanningslinjen. Lägre värden kommer att beskära botten av bilden."
 
 msgctxt "#30046"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (Standard)"
 
 msgctxt "#30047"
 msgid "Input"
-msgstr ""
+msgstr "Inmatning"
 
 msgctxt "#30048"
 msgid "Configure light gun, mouse and NegCon input."
-msgstr ""
+msgstr "Konfigurera ljuspistol, mus och NegCon inmatning."
 
 msgctxt "#30049"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "Högre värden kommer få muspekaren att röra sig snabbare."
 
 msgctxt "#30050"
 msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
-msgstr ""
+msgstr "När både RUN och SELECT trycks ned samtidigt, inaktiveras båda knapparna tillfälligt istället för att återställa dem."
 
 msgctxt "#30051"
 msgid "Choose if port 1 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Välj detta ifall port 1-joypaden ska vara 2-knappars eller 6-knappars som standard. Denna inställning tillämpas endast när kärnan startar. Om du vill byta under tiden innehållet körs, använd 'Lägesväxlings'-knappen. OBS!: 6-knappars joypaden kan visa konstigt beteende i inkompatibla spel."
 
 msgctxt "#30052"
 msgid "Choose if port 2 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Välj detta ifall port 2-joypaden ska vara 2-knappars eller 6-knappars som standard. Denna inställning tillämpas endast när kärnan startar. Om du vill byta under tiden innehållet körs, använd 'Lägesväxlings'-knappen. OBS!: 6-knappars joypaden kan visa konstigt beteende i inkompatibla spel."
 
 msgctxt "#30053"
 msgid "Choose if port 3 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Välj detta ifall port 3-joypaden ska vara 2-knappars eller 6-knappars som standard. Denna inställning tillämpas endast när kärnan startar. Om du vill byta under tiden innehållet körs, använd 'Lägesväxlings'-knappen. OBS!: 6-knappars joypaden kan visa konstigt beteende i inkompatibla spel."
 
 msgctxt "#30054"
 msgid "Choose if port 4 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Välj detta ifall port 4-joypaden ska vara 2-knappars eller 6-knappars som standard. Denna inställning tillämpas endast när kärnan startar. Om du vill byta under tiden innehållet körs, använd 'Lägesväxlings'-knappen. OBS!: 6-knappars joypaden kan visa konstigt beteende i inkompatibla spel."
 
 msgctxt "#30055"
 msgid "Choose if port 5 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Välj detta ifall port 5-joypaden ska vara 2-knappars eller 6-knappars som standard. Denna inställning tillämpas endast när kärnan startar. Om du vill byta under tiden innehållet körs, använd 'Lägesväxlings'-knappen. OBS!: 6-knappars joypaden kan visa konstigt beteende i inkompatibla spel."
 
 msgctxt "#30056"
 msgid "Enable the turbo toggle hotkeys (buttons III and IV)."
-msgstr ""
+msgstr "Aktivera snabbtangenterna för turboväxeln (knappar III och IV)."
 
 msgctxt "#30057"
 msgid "Assign RetroPad's L3/R3 buttons as turbo toggle hotkeys instead of buttons III and IV. Works only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
-msgstr ""
+msgstr "Tilldela RetroPads L3/R3-knapparna som snabbtangenter för turbo-läge istället för knappar III och IV. Fungerar endast så länge inget är tilldelat L3/R3-knapparna. Du kan undvika att omkartlägga knappar III och IV när du växlar till 6-knappskontrollläge med detta."
 
 msgctxt "#30058"
 msgid "Adjust the time between turbo fire (in frames)."
-msgstr ""
+msgstr "Justera tiden mellan turboeld (i bildrutor)."
 
 msgctxt "#30059"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Emulatorhack"
 
 msgctxt "#30060"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Konfigurera processorns överklockning och emuleringsnoggrannhetsparametrar som påverkar prestanda och kompatibilitet på låg nivå."
 
 msgctxt "#30061"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr ""
+msgstr "Ta bort hårdvarubegränsningen på 16 sprites per skanningslinje. VARNING!: Kan orsaka grafikfel i vissa spel."
 
 msgctxt "#30062"
 msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
-msgstr ""
+msgstr "Högre värden kan minska inbromsningar i spel. VARNING!: Kan orsaka fel och krascher."
 
 msgctxt "#30063"
 msgid "Advanced Channel Volume Settings"
-msgstr ""
+msgstr "Avancerade inställningar för kanalvolym"
 
 msgctxt "#30064"
 msgid "Configure the volume of individual hardware audio channels."
-msgstr ""
+msgstr "Konfigurera volymen för enskilda hårdvaru-ljudkanaler."
 
 msgctxt "#30065"
 msgid "Modify the volume of PSG Sound Channel 0."
-msgstr ""
+msgstr "Justera volymen för PSG-ljudkanal 0."
 
 msgctxt "#30066"
 msgid "Modify the volume of PSG Sound Channel 1."
-msgstr ""
+msgstr "Justera volymen för PSG Ljudkanal 1."
 
 msgctxt "#30067"
 msgid "Modify the volume of PSG Sound Channel 2."
-msgstr ""
+msgstr "Justera volymen för PSG Ljudkanal 2."
 
 msgctxt "#30068"
 msgid "Modify the volume of PSG Sound Channel 3."
-msgstr ""
+msgstr "Justera volymen för PSG Ljudkanal 3."
 
 msgctxt "#30069"
 msgid "Modify the volume of PSG Sound Channel 4."
-msgstr ""
+msgstr "Justera volymen för PSG Ljudkanal 4."
 
 msgctxt "#30070"
 msgid "Modify the volume of PSG Sound Channel 5."
-msgstr ""
+msgstr "Justera volymen för PSG Ljudkanal 5."
 
 msgctxt "#30071"
 msgid "PC Engine CD"
@@ -311,19 +311,19 @@ msgstr ""
 
 msgctxt "#30072"
 msgid "Configure settings related to the PC Engine CD emulation."
-msgstr ""
+msgstr "Konfigurera inställningar relaterade till PC Engine CD-emulering."
 
 msgctxt "#30073"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "Läs in hela avbilden i minnet vid start. Kan potentiellt minska laddningstiderna till förmån för en ökad starttid."
 
 msgctxt "#30074"
 msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
-msgstr ""
+msgstr "De flesta spel kan köras på 'Systemkort 3'. 'Games Express' krävs för flera olicensierade spel."
 
 msgctxt "#30075"
 msgid "Higher values enable faster loading times but can cause issues with a couple of games."
-msgstr ""
+msgstr "Högre värden möjliggör snabbare laddningstider men kan orsaka problem med några spel."
 
 msgctxt "#30076"
 msgid "1x"
@@ -343,15 +343,15 @@ msgstr ""
 
 msgctxt "#30080"
 msgid "CD game only. Setting this volume control too high may cause sample clipping."
-msgstr ""
+msgstr "Endast CD-spel. Ifall du ställer in volymen för högt kan ljudkvaliteten försämras och leda till samplingsklippning."
 
 msgctxt "#30081"
 msgid "CD game only. Applies a low-pass filter to CD ADPCM sample playback, reducing high-frequency aliasing/harshness. The cutoff scales with the ADPCM sample rate."
-msgstr ""
+msgstr "Endast CD-spel. Lägger ett lågpassfilter på uppspelning av CD-ADPCM-samplingar, vilket minskar vikningsdistorsion och hårdhet vid höga frekvenser. Brytfrekvensen skalas med ADPCM-samplingsfrekvensen."
 
 msgctxt "#30082"
 msgid "Ignore EDC/L-EC errors. Needed for compatibility with some hacks."
-msgstr ""
+msgstr "Ignorera EDC/L-EC-fel. Krävs för kompatibilitet med vissa hack."
 
 msgctxt "#30083"
 msgid "15"

@@ -171,11 +171,11 @@ msgstr ""
 
 msgctxt "#30037"
 msgid "Auto"
-msgstr ""
+msgstr "Automatisch"
 
 msgctxt "#30038"
 msgid "Manual"
-msgstr ""
+msgstr "Handmatig"
 
 msgctxt "#30039"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
@@ -211,7 +211,7 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "Input"
-msgstr ""
+msgstr "Invoer"
 
 msgctxt "#30048"
 msgid "Configure light gun, mouse and NegCon input."

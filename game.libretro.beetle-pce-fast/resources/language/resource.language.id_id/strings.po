@@ -75,7 +75,7 @@ msgstr ""
 
 msgctxt "#30013"
 msgid "Mouse Sensitivity"
-msgstr "Sensitifitas Mouse"
+msgstr "Sensitivitas Mouse"
 
 msgctxt "#30014"
 msgid "Disable Soft Reset (RUN+SELECT)"
@@ -111,15 +111,15 @@ msgstr ""
 
 msgctxt "#30022"
 msgid "Turbo Delay"
-msgstr ""
+msgstr "Tundaan Turbo"
 
 msgctxt "#30023"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "Tembolok Citra CD (Perlu Mulai Ulang)"
 
 msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
-msgstr ""
+msgstr "BIOS CD (Perlu Mulai Ulang)"
 
 msgctxt "#30025"
 msgid "(CD) CD Speed"
@@ -143,7 +143,7 @@ msgstr ""
 
 msgctxt "#30030"
 msgid "CPU Overclock Multiplier (Restart Required)"
-msgstr ""
+msgstr "Pengali Overclock CPU (Perlu Mulai Ulang)"
 
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
@@ -171,7 +171,7 @@ msgstr ""
 
 msgctxt "#30037"
 msgid "Auto"
-msgstr ""
+msgstr "Otomatis"
 
 msgctxt "#30038"
 msgid "Manual"
@@ -179,7 +179,7 @@ msgstr ""
 
 msgctxt "#30039"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Saat 'Lewati Bingkai' diatur ke 'Manual', tentukan (persentase) ambang batas hunian dapar audio di bawah untuk melewati berapa bingkai. Nilai lebih tinggi akan mengurangi bunyi derak dengan cara membuat laju bingkai sering anjlok."
 
 msgctxt "#30040"
 msgid "33 (Default)"
@@ -211,7 +211,7 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "Input"
-msgstr ""
+msgstr "Masukan"
 
 msgctxt "#30048"
 msgid "Configure light gun, mouse and NegCon input."
@@ -219,7 +219,7 @@ msgstr ""
 
 msgctxt "#30049"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "Nilai yang lebih tinggi akan membuat kursor mouse bergerak lebih cepat."
 
 msgctxt "#30050"
 msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
@@ -255,11 +255,11 @@ msgstr ""
 
 msgctxt "#30058"
 msgid "Adjust the time between turbo fire (in frames)."
-msgstr ""
+msgstr "Menyesuaikan lat tekan turbo (dalam bingkai)."
 
 msgctxt "#30059"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Peretasan Emulasi"
 
 msgctxt "#30060"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
@@ -267,7 +267,7 @@ msgstr ""
 
 msgctxt "#30061"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr ""
+msgstr "Melepas batas 16 sprite tiap garis pindai peranti keras. PERINGATAN: Beberapa permainan akan kacau grafis."
 
 msgctxt "#30062"
 msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
@@ -279,7 +279,7 @@ msgstr ""
 
 msgctxt "#30064"
 msgid "Configure the volume of individual hardware audio channels."
-msgstr ""
+msgstr "Menyetel terpisah volume saluran audio peranti keras."
 
 msgctxt "#30065"
 msgid "Modify the volume of PSG Sound Channel 0."

@@ -27,59 +27,59 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Color Palette"
-msgstr ""
+msgstr "Väripaletti"
 
 msgctxt "#30002"
 msgid "Frameskip"
-msgstr "Kuvaohitus"
+msgstr "Kuvanohitus"
 
 msgctxt "#30003"
 msgid "Frameskip Threshold (%)"
-msgstr "Kuvaohituskynnys (%)"
+msgstr "Kuvienohituksen arvo (%)"
 
 msgctxt "#30004"
 msgid "Horizontal Overscan (352 Width Mode Only)"
-msgstr "Vaakasuuntainen yliskannaus (vain 352 leveystila)"
+msgstr "Vaakasuuntainen yliskannaus (Vain 352-leveystila)"
 
 msgctxt "#30005"
 msgid "Initial Scanline"
-msgstr ""
+msgstr "Ensimmäinen juova"
 
 msgctxt "#30006"
 msgid "Last Scanline"
-msgstr ""
+msgstr "Viimeinen juova"
 
 msgctxt "#30007"
 msgid "PSG Sound Channel 0 Volume %"
-msgstr ""
+msgstr "PSG Sound Channel 0 äänenvoimakkuus %"
 
 msgctxt "#30008"
 msgid "PSG Sound Channel 1 Volume %"
-msgstr ""
+msgstr "PSG Sound Channel 1 äänenvoimakkuus %"
 
 msgctxt "#30009"
 msgid "PSG Sound Channel 2 Volume %"
-msgstr ""
+msgstr "PSG Sound Channel 2 äänenvoimakkuus %"
 
 msgctxt "#30010"
 msgid "PSG Sound Channel 3 Volume %"
-msgstr ""
+msgstr "PSG Sound Channel 3 äänenvoimakkuus %"
 
 msgctxt "#30011"
 msgid "PSG Sound Channel 4 Volume %"
-msgstr ""
+msgstr "PSG Sound Channel 4 äänenvoimakkuus %"
 
 msgctxt "#30012"
 msgid "PSG Sound Channel 5 Volume %"
-msgstr ""
+msgstr "PSG Sound Channel 5 äänenvoimakkuus %"
 
 msgctxt "#30013"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Hiiren herkkyys"
 
 msgctxt "#30014"
 msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr ""
+msgstr "Poista soft reset käytöstä (RUN+SELECT)"
 
 msgctxt "#30015"
 msgid "P1 Default Joypad Type"
@@ -103,47 +103,47 @@ msgstr ""
 
 msgctxt "#30020"
 msgid "Turbo Toggle"
-msgstr ""
+msgstr "Vaihda turbo"
 
 msgctxt "#30021"
 msgid "Alternate Turbo Hotkey"
-msgstr ""
+msgstr "Vaihtoehtoinen turbo-pikanäppäin"
 
 msgctxt "#30022"
 msgid "Turbo Delay"
-msgstr ""
+msgstr "Turbon viive"
 
 msgctxt "#30023"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "CD-levykuvan välimuisti (Uudelleenkäynnistys vaaditaan)"
 
 msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
-msgstr ""
+msgstr "CD BIOS (Uudelleenkäynnistys vaaditaan)"
 
 msgctxt "#30025"
 msgid "(CD) CD Speed"
-msgstr ""
+msgstr "(CD) CD-nopeus"
 
 msgctxt "#30026"
 msgid "(CD) ADPCM Volume %"
-msgstr ""
+msgstr "(CD) ADPCM äänenvoimakkuus %"
 
 msgctxt "#30027"
 msgid "(CD) CDDA Volume %"
-msgstr ""
+msgstr "(CD) CDDA äänenvoimakkuus %"
 
 msgctxt "#30028"
 msgid "(CD) PSG Volume %"
-msgstr ""
+msgstr "(CD) PSG äänenvoimakkuus %"
 
 msgctxt "#30029"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "Poista sprite-rajoitus"
 
 msgctxt "#30030"
 msgid "CPU Overclock Multiplier (Restart Required)"
-msgstr ""
+msgstr "Prosessorin ylikellotuksen kerroin (Uudelleenkäynnistys vaaditaan)"
 
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
@@ -159,71 +159,71 @@ msgstr ""
 
 msgctxt "#30034"
 msgid "Configure display cropping, frame skipping and other image output parameters."
-msgstr ""
+msgstr "Määritä näytön rajaus, kuvanohitus ja muut kuvan ulostuloparametrit."
 
 msgctxt "#30035"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr ""
+msgstr "Komposiitti yrittää uudelleen luoda alkuperäisen konsolin ulostuloa ja saattaa näyttää enemmän yksityiskohtia joissakin peleissä."
 
 msgctxt "#30036"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Ohita kuvia välttääksesi äänipuskurin ali ajon (säröily). Parantaa suorituskykyä visuaalisen tasaisuuden kustannuksella. \"Automaatti\" ohittaa kehykset käyttöliittymän asetusten mukaan. \"Manuaalinen\" käyttää \"Kuvienohituksen arvo (%)\" -asetusta."
 
 msgctxt "#30037"
 msgid "Auto"
-msgstr ""
+msgstr "Automaattinen"
 
 msgctxt "#30038"
 msgid "Manual"
-msgstr ""
+msgstr "Manuaalinen"
 
 msgctxt "#30039"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Kun \"kehyksen ohitus\" on asetettu \"manuaaliksi\", määrittää äänipuskuri käyttökynnyksen (prosentteina), jonka alapuolella kehykset ohitetaan. Korkeammat arvot vähentävät särkymisen riskiä siten, että kehykset putoavat useammin."
 
 msgctxt "#30040"
 msgid "33 (Default)"
-msgstr ""
+msgstr "33 (Oletus)"
 
 msgctxt "#30041"
 msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
-msgstr ""
+msgstr "Valitse kuvan maksimileveys, joka näytetään. Alemmat arvot rajaavat kuvan oikeaa puolta (352 px leveyden peleille)."
 
 msgctxt "#30042"
 msgid "352 (Default)"
-msgstr ""
+msgstr "352 (Oletus)"
 
 msgctxt "#30043"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "Ensimmäinen renderöity juova. Suuremmat arvot rajaavat kuvan yläreunan."
 
 msgctxt "#30044"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (Oletus)"
 
 msgctxt "#30045"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "Viimeinen renderöity juova. pienemmät arvot rajaavat kuvan alareunan."
 
 msgctxt "#30046"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (Oletus)"
 
 msgctxt "#30047"
 msgid "Input"
-msgstr ""
+msgstr "Syöte"
 
 msgctxt "#30048"
 msgid "Configure light gun, mouse and NegCon input."
-msgstr ""
+msgstr "Määritä valoaseen, hiiren ja NegCon:in syöte."
 
 msgctxt "#30049"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "Korkeammat arvot saavat hiiren kursorin liikkumaan nopeammin."
 
 msgctxt "#30050"
 msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
-msgstr ""
+msgstr "Kun RUN ja SELECT painetaan samanaikaisesti, poistetaan tilapäisesti molemmat painikkeet käytöstä soft resettaamisen sijaan."
 
 msgctxt "#30051"
 msgid "Choose if port 1 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
@@ -255,55 +255,55 @@ msgstr ""
 
 msgctxt "#30058"
 msgid "Adjust the time between turbo fire (in frames)."
-msgstr ""
+msgstr "Säädä turbo-tulituksen välistä aikaa (kuvissa)."
 
 msgctxt "#30059"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Emulointikikat"
 
 msgctxt "#30060"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Määritä prosessorin ylikellotus- ja emuloinnin tarkkuuden asetukset, jotka vaikuttavat matalan tason suorituskykyyn ja yhteensopivuuteen."
 
 msgctxt "#30061"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr ""
+msgstr "Poista laitteiston 16-spriten-per-juova raja. VAROITUS: Saattaa aiheuttaa grafiikkaa virheitä joissakin peleissä."
 
 msgctxt "#30062"
 msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
-msgstr ""
+msgstr "Suuremmat arvot voivat vähentää pelien hidastumista. VAROITUS: Voi aiheuttaa virheitä ja kaatumisia."
 
 msgctxt "#30063"
 msgid "Advanced Channel Volume Settings"
-msgstr ""
+msgstr "Kanavan äänenvoimakkuuden lisäasetukset"
 
 msgctxt "#30064"
 msgid "Configure the volume of individual hardware audio channels."
-msgstr ""
+msgstr "Määritä yksittäisten laitteistojen äänikanavien äänenvoimakkuus."
 
 msgctxt "#30065"
 msgid "Modify the volume of PSG Sound Channel 0."
-msgstr ""
+msgstr "Muokkaa PSG Sound Channel 0 äänenvoimakkuutta."
 
 msgctxt "#30066"
 msgid "Modify the volume of PSG Sound Channel 1."
-msgstr ""
+msgstr "Muokkaa PSG Sound Channel 1 äänenvoimakkuutta."
 
 msgctxt "#30067"
 msgid "Modify the volume of PSG Sound Channel 2."
-msgstr ""
+msgstr "Muokkaa PSG Sound Channel 2 äänenvoimakkuutta."
 
 msgctxt "#30068"
 msgid "Modify the volume of PSG Sound Channel 3."
-msgstr ""
+msgstr "Muokkaa PSG Sound Channel 3 äänenvoimakkuutta."
 
 msgctxt "#30069"
 msgid "Modify the volume of PSG Sound Channel 4."
-msgstr ""
+msgstr "Muokkaa PSG Sound Channel 4 äänenvoimakkuutta."
 
 msgctxt "#30070"
 msgid "Modify the volume of PSG Sound Channel 5."
-msgstr ""
+msgstr "Muokkaa PSG Sound Channel 5 äänenvoimakkuutta."
 
 msgctxt "#30071"
 msgid "PC Engine CD"
@@ -311,19 +311,19 @@ msgstr ""
 
 msgctxt "#30072"
 msgid "Configure settings related to the PC Engine CD emulation."
-msgstr ""
+msgstr "Määritä PC Engine CD -emulointiin liittyvät asetukset."
 
 msgctxt "#30073"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "Lataa koko levykuva muistiin käynnistyksen yhteydessä. Voi mahdollisesti lyhentää latausaikoja kasvavan käynnistysajan kustannuksella."
 
 msgctxt "#30074"
 msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
-msgstr ""
+msgstr "Useimmat pelit voidaan ajaa \"System Card 3\". \"Games Express\" tarvitaan useille lisensoimattomille peleille."
 
 msgctxt "#30075"
 msgid "Higher values enable faster loading times but can cause issues with a couple of games."
-msgstr ""
+msgstr "Korkeammat arvot mahdollistavat nopeammat latausajat, mutta voivat aiheuttaa ongelmia muutaman pelin kanssa."
 
 msgctxt "#30076"
 msgid "1x"
@@ -343,7 +343,7 @@ msgstr ""
 
 msgctxt "#30080"
 msgid "CD game only. Setting this volume control too high may cause sample clipping."
-msgstr ""
+msgstr "Vain CD-peleille. Tämän äänenvoimakkuuden säädön asettaminen liian korkeaksi voi aiheuttaa näytteen pätkimistä."
 
 msgctxt "#30081"
 msgid "CD game only. Applies a low-pass filter to CD ADPCM sample playback, reducing high-frequency aliasing/harshness. The cutoff scales with the ADPCM sample rate."

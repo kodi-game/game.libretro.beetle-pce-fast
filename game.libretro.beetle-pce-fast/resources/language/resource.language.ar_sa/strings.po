@@ -155,7 +155,7 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Video"
-msgstr ""
+msgstr "فيديو"
 
 msgctxt "#30034"
 msgid "Configure display cropping, frame skipping and other image output parameters."
@@ -171,15 +171,15 @@ msgstr ""
 
 msgctxt "#30037"
 msgid "Auto"
-msgstr ""
+msgstr "تلقائي"
 
 msgctxt "#30038"
 msgid "Manual"
-msgstr ""
+msgstr "يدوي"
 
 msgctxt "#30039"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "عندما يتم تعيين 'Frameskip' إلى 'يدوي'، يحدد عتبة شغل التخزين المؤقت الصوتي (النسبة المئوية) التي سيتم تخطي الأطر أدناه. فارتفاع القيم يقلل من خطر التشويش بالتسبب في انخفاض الأطر بصورة أكثر تواترا."
 
 msgctxt "#30040"
 msgid "33 (Default)"
@@ -211,7 +211,7 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "Input"
-msgstr ""
+msgstr "الإدخال"
 
 msgctxt "#30048"
 msgid "Configure light gun, mouse and NegCon input."

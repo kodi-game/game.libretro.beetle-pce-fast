@@ -31,11 +31,11 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "Frameskip"
-msgstr ""
+msgstr "پرش فریم"
 
 msgctxt "#30003"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "آستانهٔ پرش فریم (٪)"
 
 msgctxt "#30004"
 msgid "Horizontal Overscan (352 Width Mode Only)"
@@ -155,7 +155,7 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Video"
-msgstr ""
+msgstr "ویدیو"
 
 msgctxt "#30034"
 msgid "Configure display cropping, frame skipping and other image output parameters."
@@ -167,19 +167,19 @@ msgstr ""
 
 msgctxt "#30036"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "برای جلوگیری از اجرا شدن بافر صوتی (ترق زدن) از فریم‌ها پرش کنید. عملکرد را در ازای صاف‌بودن تصویر بهبود می‌بخشد. حالت «خودکار»هنگام توصیهٔ پیشانه از روی فریم‌ها می‌پرد. حالت «دستی» تنظیم «آستانهٔ پرش فریم (٪)» را فعال می‌کند."
 
 msgctxt "#30037"
 msgid "Auto"
-msgstr ""
+msgstr "خودکار"
 
 msgctxt "#30038"
 msgid "Manual"
-msgstr ""
+msgstr "دستی"
 
 msgctxt "#30039"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "زمانی که «پرش فریم» روی «دستی» تنظیم شده باشد، آستانهٔ (درصد) اشغال بافر صوتی را برای پرش از روی فریم‌ها تنظیم می‌کند. مقادیر بالاتر احتمال ترق خوردن صدا را با رها کردن فریم‌های بیشتر، کاهش می‌دهد."
 
 msgctxt "#30040"
 msgid "33 (Default)"
@@ -211,7 +211,7 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "Input"
-msgstr ""
+msgstr "ورودی"
 
 msgctxt "#30048"
 msgid "Configure light gun, mouse and NegCon input."

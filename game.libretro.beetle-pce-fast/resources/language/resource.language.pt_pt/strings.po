@@ -75,7 +75,7 @@ msgstr ""
 
 msgctxt "#30013"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Sensibilidade do Rato"
 
 msgctxt "#30014"
 msgid "Disable Soft Reset (RUN+SELECT)"
@@ -103,7 +103,7 @@ msgstr ""
 
 msgctxt "#30020"
 msgid "Turbo Toggle"
-msgstr ""
+msgstr "Alternar Turbo"
 
 msgctxt "#30021"
 msgid "Alternate Turbo Hotkey"
@@ -115,15 +115,15 @@ msgstr ""
 
 msgctxt "#30023"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "Cache da Imagem do CD (Reinicialização necessária)"
 
 msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
-msgstr ""
+msgstr "BIOS do CD (Reinicialização necessária)"
 
 msgctxt "#30025"
 msgid "(CD) CD Speed"
-msgstr ""
+msgstr "(CD) Velocidade do CD"
 
 msgctxt "#30026"
 msgid "(CD) ADPCM Volume %"
@@ -155,7 +155,7 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 msgctxt "#30034"
 msgid "Configure display cropping, frame skipping and other image output parameters."
@@ -171,7 +171,7 @@ msgstr ""
 
 msgctxt "#30037"
 msgid "Auto"
-msgstr ""
+msgstr "Automático"
 
 msgctxt "#30038"
 msgid "Manual"
@@ -183,7 +183,7 @@ msgstr ""
 
 msgctxt "#30040"
 msgid "33 (Default)"
-msgstr ""
+msgstr "33 (Padrão)"
 
 msgctxt "#30041"
 msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
@@ -191,7 +191,7 @@ msgstr ""
 
 msgctxt "#30042"
 msgid "352 (Default)"
-msgstr ""
+msgstr "352 (Padrão)"
 
 msgctxt "#30043"
 msgid "First rendered scanline. Higher values will crop the top of the image."
@@ -199,7 +199,7 @@ msgstr ""
 
 msgctxt "#30044"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (Padrão)"
 
 msgctxt "#30045"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
@@ -207,11 +207,11 @@ msgstr ""
 
 msgctxt "#30046"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (Padrão)"
 
 msgctxt "#30047"
 msgid "Input"
-msgstr ""
+msgstr "Entrada"
 
 msgctxt "#30048"
 msgid "Configure light gun, mouse and NegCon input."
@@ -219,7 +219,7 @@ msgstr ""
 
 msgctxt "#30049"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "Valores mais alto farão o cursor do rato se mover mais rápido."
 
 msgctxt "#30050"
 msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."

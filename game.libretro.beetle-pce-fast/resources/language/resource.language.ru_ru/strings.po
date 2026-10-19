@@ -35,43 +35,43 @@ msgstr "Пропуск кадров"
 
 msgctxt "#30003"
 msgid "Frameskip Threshold (%)"
-msgstr "Пороговый уровень пропуска кадров (%)"
+msgstr "Граница пропуска кадров (%)"
 
 msgctxt "#30004"
 msgid "Horizontal Overscan (352 Width Mode Only)"
-msgstr "Горизонтальный вылет за края (только в режиме ширины 352)"
+msgstr "Горизонт. вылеты развёртки (только для режима ширины 352)"
 
 msgctxt "#30005"
 msgid "Initial Scanline"
-msgstr "Начальная строка развёртки"
+msgstr "Первая строка развёртки"
 
 msgctxt "#30006"
 msgid "Last Scanline"
-msgstr "Конечная строка развёртки"
+msgstr "Последняя строка развёртки"
 
 msgctxt "#30007"
 msgid "PSG Sound Channel 0 Volume %"
-msgstr "Громкость звукового канала 0 PSG, %"
+msgstr "Громкость звукового канала PSG 0 (%)"
 
 msgctxt "#30008"
 msgid "PSG Sound Channel 1 Volume %"
-msgstr "Громкость звукового канала 1 PSG, %"
+msgstr "Громкость звукового канала PSG 1 (%)"
 
 msgctxt "#30009"
 msgid "PSG Sound Channel 2 Volume %"
-msgstr "Громкость звукового канала 2 PSG, %"
+msgstr "Громкость звукового канала PSG 2 (%)"
 
 msgctxt "#30010"
 msgid "PSG Sound Channel 3 Volume %"
-msgstr "Громкость звукового канала 3 PSG, %"
+msgstr "Громкость звукового канала PSG 3 (%)"
 
 msgctxt "#30011"
 msgid "PSG Sound Channel 4 Volume %"
-msgstr "Громкость звукового канала 4 PSG, %"
+msgstr "Громкость звукового канала PSG 4 (%)"
 
 msgctxt "#30012"
 msgid "PSG Sound Channel 5 Volume %"
-msgstr "Громкость звукового канала 5 PSG, %"
+msgstr "Громкость звукового канала PSG 5 (%)"
 
 msgctxt "#30013"
 msgid "Mouse Sensitivity"
@@ -79,35 +79,35 @@ msgstr "Чувствительность мыши"
 
 msgctxt "#30014"
 msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr "Отключить мягкую перезагрузку (RUN+SELECT)"
+msgstr "Отключить мягкий сброс (RUN+SELECT)"
 
 msgctxt "#30015"
 msgid "P1 Default Joypad Type"
-msgstr "Тип джойпада по умолчанию для P1"
+msgstr "Тип джойстика Игрока 1"
 
 msgctxt "#30016"
 msgid "P2 Default Joypad Type"
-msgstr "Тип джойпада по умолчанию для P2"
+msgstr "Тип джойстика Игрока 2"
 
 msgctxt "#30017"
 msgid "P3 Default Joypad Type"
-msgstr "Тип джойпада по умолчанию для P3"
+msgstr "Тип джойстика Игрока 3"
 
 msgctxt "#30018"
 msgid "P4 Default Joypad Type"
-msgstr "Тип джойпада по умолчанию для P4"
+msgstr "Тип джойстика Игрока 4"
 
 msgctxt "#30019"
 msgid "P5 Default Joypad Type"
-msgstr "Тип джойпада по умолчанию для P5"
+msgstr "Тип джойстика Игрока 5"
 
 msgctxt "#30020"
 msgid "Turbo Toggle"
-msgstr "Переключение турбо"
+msgstr "Переключатель турбо"
 
 msgctxt "#30021"
 msgid "Alternate Turbo Hotkey"
-msgstr "Альтернативная турбо-горячая клавиша"
+msgstr "Альтернативное включение турбо"
 
 msgctxt "#30022"
 msgid "Turbo Delay"
@@ -115,7 +115,7 @@ msgstr "Задержка турбо"
 
 msgctxt "#30023"
 msgid "CD Image Cache (Restart Required)"
-msgstr "Кэш образов CD (требуется перезапуск)"
+msgstr "Кэшировать образ CD (требуется перезапуск)"
 
 msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
@@ -127,15 +127,15 @@ msgstr "(CD) Скорость CD"
 
 msgctxt "#30026"
 msgid "(CD) ADPCM Volume %"
-msgstr "(CD) Громкость ADPCM, %"
+msgstr "(CD) Громкость ADPCM"
 
 msgctxt "#30027"
 msgid "(CD) CDDA Volume %"
-msgstr "(CD) Громкость CDDA, %"
+msgstr "(CD) Громкость CDDA"
 
 msgctxt "#30028"
 msgid "(CD) PSG Volume %"
-msgstr "(CD) Громкость PSG, %"
+msgstr "(CD) Громкость PSG"
 
 msgctxt "#30029"
 msgid "No Sprite Limit"
@@ -143,15 +143,15 @@ msgstr "Без ограничения спрайтов"
 
 msgctxt "#30030"
 msgid "CPU Overclock Multiplier (Restart Required)"
-msgstr "Множитель разгона ЦП (требуется перезапуск)"
+msgstr "Множитель разгона CPU (требуется перезапуск)"
 
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
-msgstr "CD игнорировать ошибки EDC/L-EC"
+msgstr "Игнорировать ошибки EDC/L-EC"
 
 msgctxt "#30032"
 msgid "(CD) ADPCM Low-pass Filter"
-msgstr "Фильтр нижних частот ADPCM"
+msgstr "(CD) Фильтр нижних частот ADPCM"
 
 msgctxt "#30033"
 msgid "Video"
@@ -159,15 +159,15 @@ msgstr "Видео"
 
 msgctxt "#30034"
 msgid "Configure display cropping, frame skipping and other image output parameters."
-msgstr "Настройка обрезки изображения, пропуска кадров и других параметров вывода изображения."
+msgstr "Настройки кадрирования, пропуска кадров и других параметров изображения."
 
 msgctxt "#30035"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr "«Композитный» пытается воссоздать оригинальный вывод консоли и может показать больше деталей в некоторых играх."
+msgstr "Композитный режим имитирует оригинальное изображение с консоли и повышает детализацию для некоторых игр."
 
 msgctxt "#30036"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr "Пропускать кадры, чтобы избежать опустошения звукового буфера (треска). Повышает производительность за счёт визуальной плавности. «Авто» пропускает кадры, когда это рекомендует фронтенд. «Вручную» использует настройку «Порог пропуска кадров (%)»."
+msgstr "Пропускать кадры, чтобы избежать появления треска при опустошении аудиобуфера. Улучшает производительность, но снижает плавность изображения. В режиме 'Авто' пропуск кадров регулируется фронтендом. В режиме 'Вручную' используется значение опции 'Граница пропуска кадров (%)'."
 
 msgctxt "#30037"
 msgid "Auto"
@@ -179,7 +179,7 @@ msgstr "Вручную"
 
 msgctxt "#30039"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr "Когда «Пропуск кадров» установлен на «Вручную», задаёт порог заполненности звукового буфера (в процентах), ниже которого кадры будут пропускаться. Более высокие значения снижают риск треска, заставляя кадры отбрасываться чаще."
+msgstr "Устанавливает порог заполнения аудиобуфера (в процентах), ниже которого будет включаться пропуск кадров, если для параметра 'Пропуск кадров' выбран режим 'Вручную'. Большие значения снижают вероятность появления треска за счёт более частого пропуска кадров."
 
 msgctxt "#30040"
 msgid "33 (Default)"
@@ -187,7 +187,7 @@ msgstr "33 (по умолчанию)"
 
 msgctxt "#30041"
 msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
-msgstr "Выберите максимальную ширину отображаемого изображения. Меньшие значения обрежут правую сторону изображения (для игр шириной 352 пкс)."
+msgstr "Установка максимальной ширины изображения. Уменьшение значения обрезает правый край картинки (для игр с шириной в 352 пикселя)."
 
 msgctxt "#30042"
 msgid "352 (Default)"
@@ -195,7 +195,7 @@ msgstr "352 (по умолчанию)"
 
 msgctxt "#30043"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr "Первая отрисовываемая строка развёртки. Более высокие значения обрежут верх изображения."
+msgstr "Строка развёртки, отображаемая первой. Повышение значения обрезает верхний край картинки."
 
 msgctxt "#30044"
 msgid "3 (Default)"
@@ -203,7 +203,7 @@ msgstr "3 (по умолчанию)"
 
 msgctxt "#30045"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr "Последняя отрисовываемая строка развёртки. Меньшие значения обрежут низ изображения."
+msgstr "Строка развёртки, отображаемая последней. Уменьшение значения обрезает нижний край картинки."
 
 msgctxt "#30046"
 msgid "242 (Default)"
@@ -215,47 +215,47 @@ msgstr "Ввод"
 
 msgctxt "#30048"
 msgid "Configure light gun, mouse and NegCon input."
-msgstr "Настройка ввода светового пистолета, мыши и NegCon."
+msgstr "Настройки ввода для светового пистолета, мыши и NegCon."
 
 msgctxt "#30049"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr "Более высокие значения заставят курсор мыши двигаться быстрее."
+msgstr "Более высокие значения повышают скорость перемещения курсора мыши."
 
 msgctxt "#30050"
 msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
-msgstr "Когда RUN и SELECT нажаты одновременно, временно отключить обе кнопки вместо сброса."
+msgstr "Одновременное нажатие RUN и SELECT вместо сброса будет временно отключать обе кнопки."
 
 msgctxt "#30051"
 msgid "Choose if port 1 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr "Выберите, должен ли джойпад порта 1 по умолчанию иметь 2 или 6 кнопок. Этот параметр применяется только при запуске ядра; если вы хотите переключиться во время работы содержимого, используйте кнопку «Переключение режима». ПРИМЕЧАНИЕ: джойпад с 6 кнопками может вести себя странно в несовместимых играх."
+msgstr "Выбор 2- или 6-ти кнопочного контроллера по умолчанию для порта 1. Данная опция применяется только при запуске ядра. Для переключения на лету используйте кнопку 'Сменить режим'. ВНИМАНИЕ: в несовместимых играх 6-кнопочный геймпад может вызывать баги управления."
 
 msgctxt "#30052"
 msgid "Choose if port 2 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr "Выберите, должен ли джойпад порта 2 по умолчанию иметь 2 или 6 кнопок. Этот параметр применяется только при запуске ядра; если вы хотите переключиться во время работы содержимого, используйте кнопку «Переключение режима». ПРИМЕЧАНИЕ: джойпад с 6 кнопками может вести себя странно в несовместимых играх."
+msgstr "Выбор 2- или 6-ти кнопочного контроллера по умолчанию для порта 2. Данная опция применяется только при запуске ядра. Для переключения на лету используйте кнопку 'Сменить режим'. ВНИМАНИЕ: в несовместимых играх 6-кнопочный геймпад может вызывать баги управления."
 
 msgctxt "#30053"
 msgid "Choose if port 3 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr "Выберите, должен ли джойпад порта 3 по умолчанию иметь 2 или 6 кнопок. Этот параметр применяется только при запуске ядра; если вы хотите переключиться во время работы содержимого, используйте кнопку «Переключение режима». ПРИМЕЧАНИЕ: джойпад с 6 кнопками может вести себя странно в несовместимых играх."
+msgstr "Выбор 2- или 6-ти кнопочного контроллера по умолчанию для порта 3. Данная опция применяется только при запуске ядра. Для переключения на лету используйте кнопку 'Сменить режим'. ВНИМАНИЕ: в несовместимых играх 6-кнопочный геймпад может вызывать баги управления."
 
 msgctxt "#30054"
 msgid "Choose if port 4 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr "Выберите, должен ли джойпад порта 4 по умолчанию иметь 2 или 6 кнопок. Этот параметр применяется только при запуске ядра; если вы хотите переключиться во время работы содержимого, используйте кнопку «Переключение режима». ПРИМЕЧАНИЕ: джойпад с 6 кнопками может вести себя странно в несовместимых играх."
+msgstr "Выбор 2- или 6-ти кнопочного контроллера по умолчанию для порта 4. Данная опция применяется только при запуске ядра. Для переключения на лету используйте кнопку 'Сменить режим'. ВНИМАНИЕ: в несовместимых играх 6-кнопочный геймпад может вызывать баги управления."
 
 msgctxt "#30055"
 msgid "Choose if port 5 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr "Выберите, должен ли джойпад порта 5 по умолчанию иметь 2 или 6 кнопок. Этот параметр применяется только при запуске ядра; если вы хотите переключиться во время работы содержимого, используйте кнопку «Переключение режима». ПРИМЕЧАНИЕ: джойпад с 6 кнопками может вести себя странно в несовместимых играх."
+msgstr "Выбор 2- или 6-ти кнопочного контроллера по умолчанию для порта 5. Данная опция применяется только при запуске ядра. Для переключения на лету используйте кнопку 'Сменить режим'. ВНИМАНИЕ: в несовместимых играх 6-кнопочный геймпад может вызывать баги управления."
 
 msgctxt "#30056"
 msgid "Enable the turbo toggle hotkeys (buttons III and IV)."
-msgstr "Включить горячие клавиши переключения турбо (кнопки III и IV)."
+msgstr "Активирует горячие клавиши для включения турбо (кнопки III и IV)."
 
 msgctxt "#30057"
 msgid "Assign RetroPad's L3/R3 buttons as turbo toggle hotkeys instead of buttons III and IV. Works only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
-msgstr "Назначить кнопки L3/R3 RetroPad как горячие клавиши переключения турбо вместо кнопок III и IV. Работает только пока на кнопки L3/R3 ничего не назначено. Это позволяет избежать переназначения кнопок III и IV при переключении в режим контроллера с 6 кнопками."
+msgstr "Назначает кнопки RetroPad'а L3/R3 в качестве горячих клавиш для включения турбо вместо кнопок III и IV. Работает только при отсутствии привязок к кнопкам L3/R3. Позволяет избежать переназначения кнопок III и IV в режиме 6-кнопочного контроллера."
 
 msgctxt "#30058"
 msgid "Adjust the time between turbo fire (in frames)."
-msgstr "Настроить время между турбо-выстрелами (в кадрах)."
+msgstr "Настраивает промежуток между повторами нажатий (в кадрах)."
 
 msgctxt "#30059"
 msgid "Emulation Hacks"
@@ -263,47 +263,47 @@ msgstr "Хаки эмуляции"
 
 msgctxt "#30060"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr "Настройка разгона процессора и параметров точности эмуляции, влияющих на низкоуровневую производительность и совместимость."
+msgstr "Настройка разгона процессора и параметров точности эмуляции, влияющих на производительность и совместимость."
 
 msgctxt "#30061"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr "Снять аппаратное ограничение в 16 спрайтов на строку развёртки. ВНИМАНИЕ: может вызвать графические сбои в некоторых играх."
+msgstr "Снимает аппаратное ограничение в 16 спрайтов на линии развёртки. ВНИМАНИЕ: в некоторых играх может вызывать графические баги."
 
 msgctxt "#30062"
 msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
-msgstr "Более высокие значения могут уменьшить замедления в играх. ВНИМАНИЕ: может вызвать сбои и аварийные завершения."
+msgstr "Более высокие значения уменьшают замедления в играх. ВНИМАНИЕ: может приводить к багам и вылетам."
 
 msgctxt "#30063"
 msgid "Advanced Channel Volume Settings"
-msgstr "Расширенные настройки громкости каналов"
+msgstr "Расширенные настройки громкости"
 
 msgctxt "#30064"
 msgid "Configure the volume of individual hardware audio channels."
-msgstr "Настройка громкости отдельных аппаратных звуковых каналов."
+msgstr "Индивидуальная настройка громкости аудиоканалов."
 
 msgctxt "#30065"
 msgid "Modify the volume of PSG Sound Channel 0."
-msgstr "Изменить громкость звукового канала PSG 0."
+msgstr "Изменение громкости звукового канала PSG 0."
 
 msgctxt "#30066"
 msgid "Modify the volume of PSG Sound Channel 1."
-msgstr "Изменить громкость звукового канала PSG 1."
+msgstr "Изменение громкости звукового канала PSG 1."
 
 msgctxt "#30067"
 msgid "Modify the volume of PSG Sound Channel 2."
-msgstr "Изменить громкость звукового канала PSG 2."
+msgstr "Изменение громкости звукового канала PSG 2."
 
 msgctxt "#30068"
 msgid "Modify the volume of PSG Sound Channel 3."
-msgstr "Изменить громкость звукового канала PSG 3."
+msgstr "Изменение громкости звукового канала PSG 3."
 
 msgctxt "#30069"
 msgid "Modify the volume of PSG Sound Channel 4."
-msgstr "Изменить громкость звукового канала PSG 4."
+msgstr "Изменение громкости звукового канала PSG 4."
 
 msgctxt "#30070"
 msgid "Modify the volume of PSG Sound Channel 5."
-msgstr "Изменить громкость звукового канала PSG 5."
+msgstr "Изменение громкости звукового канала PSG 5."
 
 msgctxt "#30071"
 msgid "PC Engine CD"
@@ -311,19 +311,19 @@ msgstr "PC Engine CD"
 
 msgctxt "#30072"
 msgid "Configure settings related to the PC Engine CD emulation."
-msgstr "Настройка параметров, связанных с эмуляцией PC Engine CD."
+msgstr "Настройка параметров, относящихся к эмуляции PC Engine CD."
 
 msgctxt "#30073"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr "Загружать полный образ в память при запуске. Может сократить время загрузки за счёт увеличения времени запуска."
+msgstr "При запуске образ диска полностью загружается в память. Ускоряет загрузки, но увеличивает время запуска."
 
 msgctxt "#30074"
 msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
-msgstr "Большинство игр может работать на «System Card 3». «Games Express» требуется для нескольких нелицензионных игр."
+msgstr "Большинство игр запускаются с 'System Card 3'. 'Games Express' требуется для некоторых нелицензированных игр."
 
 msgctxt "#30075"
 msgid "Higher values enable faster loading times but can cause issues with a couple of games."
-msgstr "Более высокие значения обеспечивают более быстрое время загрузки, но могут вызвать проблемы в некоторых играх."
+msgstr "Более высокие значения ускоряют загрузки, но могут вызывать проблемы в отдельных играх."
 
 msgctxt "#30076"
 msgid "1x"
@@ -343,15 +343,15 @@ msgstr "8x"
 
 msgctxt "#30080"
 msgid "CD game only. Setting this volume control too high may cause sample clipping."
-msgstr "Только для игр на CD. Установка этого регулятора громкости слишком высокой может вызвать клиппинг сэмплов."
+msgstr "Только для CD-игр. Слишком высокие значения могут приводить к искажениям звука."
 
 msgctxt "#30081"
 msgid "CD game only. Applies a low-pass filter to CD ADPCM sample playback, reducing high-frequency aliasing/harshness. The cutoff scales with the ADPCM sample rate."
-msgstr "Только для игр на CD. Применяет фильтр нижних частот к воспроизведению сэмплов ADPCM CD, уменьшая высокочастотный алиасинг/резкость. Частота среза масштабируется с частотой дискретизации ADPCM."
+msgstr "Только для игр на CD. Применяет фильтр нижних частот для сэмплов CD ADPCM, уменьшая высокочастотные искажения. Частота среза масштабируется согласно частоте ADPCM."
 
 msgctxt "#30082"
 msgid "Ignore EDC/L-EC errors. Needed for compatibility with some hacks."
-msgstr "Игнорировать ошибки EDC/L-EC. Требуется для совместимости с некоторыми хаками."
+msgstr "Игнорировать ошибки EDC/L-EC. Требуется для совместимости с отдельными хаками."
 
 msgctxt "#30083"
 msgid "15"

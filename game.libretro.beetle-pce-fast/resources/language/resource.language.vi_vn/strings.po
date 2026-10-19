@@ -27,131 +27,131 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Color Palette"
-msgstr ""
+msgstr "Bảng màu"
 
 msgctxt "#30002"
 msgid "Frameskip"
-msgstr ""
+msgstr "Bỏ qua khung hình"
 
 msgctxt "#30003"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Ngưỡng bỏ qua khung hình (%)"
 
 msgctxt "#30004"
 msgid "Horizontal Overscan (352 Width Mode Only)"
-msgstr ""
+msgstr "Quét theo chiều ngang (Chỉ dành cho chế độ chiều rộng 352)"
 
 msgctxt "#30005"
 msgid "Initial Scanline"
-msgstr ""
+msgstr "Dòng quét ban đầu"
 
 msgctxt "#30006"
 msgid "Last Scanline"
-msgstr ""
+msgstr "Dòng quét cuối cùng"
 
 msgctxt "#30007"
 msgid "PSG Sound Channel 0 Volume %"
-msgstr ""
+msgstr "Âm lượng kênh âm thanh PSG 0 %"
 
 msgctxt "#30008"
 msgid "PSG Sound Channel 1 Volume %"
-msgstr ""
+msgstr "Âm lượng kênh âm thanh PSG 1 %"
 
 msgctxt "#30009"
 msgid "PSG Sound Channel 2 Volume %"
-msgstr ""
+msgstr "Âm lượng kênh âm thanh PSG 2 %"
 
 msgctxt "#30010"
 msgid "PSG Sound Channel 3 Volume %"
-msgstr ""
+msgstr "Âm lượng kênh âm thanh PSG 3 %"
 
 msgctxt "#30011"
 msgid "PSG Sound Channel 4 Volume %"
-msgstr ""
+msgstr "Âm lượng kênh âm thanh PSG 4 %"
 
 msgctxt "#30012"
 msgid "PSG Sound Channel 5 Volume %"
-msgstr ""
+msgstr "Âm lượng kênh âm thanh PSG 5 %"
 
 msgctxt "#30013"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Độ nhạy chuột"
 
 msgctxt "#30014"
 msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr ""
+msgstr "Tắt khởi động lại nhanh (RUN+SELECT)"
 
 msgctxt "#30015"
 msgid "P1 Default Joypad Type"
-msgstr ""
+msgstr "Loại tay cầm mặc định P1"
 
 msgctxt "#30016"
 msgid "P2 Default Joypad Type"
-msgstr ""
+msgstr "Loại tay cầm mặc định P2"
 
 msgctxt "#30017"
 msgid "P3 Default Joypad Type"
-msgstr ""
+msgstr "Loại tay cầm mặc định P3"
 
 msgctxt "#30018"
 msgid "P4 Default Joypad Type"
-msgstr ""
+msgstr "Loại tay cầm mặc định P4"
 
 msgctxt "#30019"
 msgid "P5 Default Joypad Type"
-msgstr ""
+msgstr "Loại tay cầm mặc định cho cổng 5"
 
 msgctxt "#30020"
 msgid "Turbo Toggle"
-msgstr ""
+msgstr "Bật/Tắt tự động nhấn"
 
 msgctxt "#30021"
 msgid "Alternate Turbo Hotkey"
-msgstr ""
+msgstr "Phím tắt tự động nhấn thay thế"
 
 msgctxt "#30022"
 msgid "Turbo Delay"
-msgstr ""
+msgstr "Độ trễ tự động nhấn"
 
 msgctxt "#30023"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "Bộ nhớ đệm ảnh CD (Cần khởi động lại)"
 
 msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
-msgstr ""
+msgstr "BIOS CD (Cần khởi động lại)"
 
 msgctxt "#30025"
 msgid "(CD) CD Speed"
-msgstr ""
+msgstr "(CD) Tốc độ CD"
 
 msgctxt "#30026"
 msgid "(CD) ADPCM Volume %"
-msgstr ""
+msgstr "(CD) Âm lượng ADPCM %"
 
 msgctxt "#30027"
 msgid "(CD) CDDA Volume %"
-msgstr ""
+msgstr "(CD) Âm lượng CDDA %"
 
 msgctxt "#30028"
 msgid "(CD) PSG Volume %"
-msgstr ""
+msgstr "(CD) Âm lượng PSG %"
 
 msgctxt "#30029"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "Không giới hạn Sprite"
 
 msgctxt "#30030"
 msgid "CPU Overclock Multiplier (Restart Required)"
-msgstr ""
+msgstr "Hệ số ép xung CPU (Cần khởi động lại)"
 
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
-msgstr ""
+msgstr "CD: Bỏ qua lỗi EDC/L-EC"
 
 msgctxt "#30032"
 msgid "(CD) ADPCM Low-pass Filter"
-msgstr ""
+msgstr "(CD) Bộ lọc thông thấp ADPCM"
 
 msgctxt "#30033"
 msgid "Video"
@@ -159,171 +159,171 @@ msgstr ""
 
 msgctxt "#30034"
 msgid "Configure display cropping, frame skipping and other image output parameters."
-msgstr ""
+msgstr "Cấu hình cắt hiển thị, bỏ khung hình và các thông số xuất hình khác."
 
 msgctxt "#30035"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr ""
+msgstr "Tổng hợp các cố gắng để tạo lại đầu ra bảng điều khiển ban đầu và có thể hiển thị thêm chi tiết trong một số trò chơi."
 
 msgctxt "#30036"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Bỏ qua khung hình để tránh bộ đệm âm thanh chạy dưới mức (tiếng kêu lách tách). Cải thiện hiệu suất với độ mượt mà của hình ảnh. 'Tự động' bỏ qua khung khi giao diện người dùng thông báo. 'Thủ công' sử dụng cài đặt 'Ngưỡng khung hình (%)'."
 
 msgctxt "#30037"
 msgid "Auto"
-msgstr ""
+msgstr "Tự động"
 
 msgctxt "#30038"
 msgid "Manual"
-msgstr ""
+msgstr "Thủ công"
 
 msgctxt "#30039"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Khi 'Bỏ khung hình' được đặt thành 'Thủ công', chỉ định ngưỡng sử dụng bộ đệm âm thanh (theo phần trăm) dưới mức đó sẽ bỏ qua khung hình. Giá trị cao hơn giảm nguy cơ rè âm bằng cách bỏ khung hình thường xuyên hơn."
 
 msgctxt "#30040"
 msgid "33 (Default)"
-msgstr ""
+msgstr "33 (Mặc định)"
 
 msgctxt "#30041"
 msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
-msgstr ""
+msgstr "Chọn chiều rộng tối đa của hình ảnh để hiển thị. Giá trị thấp hơn sẽ cắt bớt phần bên phải của hình (dành cho game có độ rộng 352 px)."
 
 msgctxt "#30042"
 msgid "352 (Default)"
-msgstr ""
+msgstr "352 (Mặc định)"
 
 msgctxt "#30043"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "Dòng quét đầu tiên được hiển thị. Giá trị cao hơn sẽ cắt phần trên của hình ảnh."
 
 msgctxt "#30044"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (Mặc định)"
 
 msgctxt "#30045"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "Dòng quét cuối cùng được hiển thị. Giá trị thấp hơn sẽ cắt phần dưới của hình ảnh."
 
 msgctxt "#30046"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (Mặc định)"
 
 msgctxt "#30047"
 msgid "Input"
-msgstr ""
+msgstr "Điều khiển"
 
 msgctxt "#30048"
 msgid "Configure light gun, mouse and NegCon input."
-msgstr ""
+msgstr "Định cấu hình điều khiển của súng, chuột và NegCon."
 
 msgctxt "#30049"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "Giá trị cao hơn sẽ làm con trỏ chuột di chuyển nhanh hơn."
 
 msgctxt "#30050"
 msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
-msgstr ""
+msgstr "Khi nhấn RUN và SELECT cùng lúc, tạm thời vô hiệu cả hai Phím thay vì đặt lại."
 
 msgctxt "#30051"
 msgid "Choose if port 1 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Chọn tay cầm cổng 1 mặc định là 2 hay 6 nút. Tùy chọn này chỉ áp dụng khi trình giả lập khởi động. Nếu muốn đổi khi nội dung đang chạy, hãy dùng Phím \"Chuyển chế độ\".LƯU Ý: Tay cầm 6 Phím có thể gặp hành vi bất thường trong các trò chơi không tương thích."
 
 msgctxt "#30052"
 msgid "Choose if port 2 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Chọn tay cầm cổng 2 mặc định là 2 hay 6 nút. Tùy chọn này chỉ áp dụng khi trình giả lập khởi động. Nếu muốn đổi khi nội dung đang chạy, hãy dùng Phím \"Chuyển chế độ\".LƯU Ý: Tay cầm 6 Phím có thể gặp hành vi bất thường trong các trò chơi không tương thích."
 
 msgctxt "#30053"
 msgid "Choose if port 3 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Chọn tay cầm cổng 3 mặc định là 2 hay 6 nút. Tùy chọn này chỉ áp dụng khi trình giả lập khởi động. Nếu muốn đổi khi nội dung đang chạy, hãy dùng Phím \"Chuyển chế độ\".LƯU Ý: Tay cầm 6 Phím có thể gặp hành vi bất thường trong các trò chơi không tương thích."
 
 msgctxt "#30054"
 msgid "Choose if port 4 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Chọn mặc định tay cầm cổng 4 sẽ là 2 hay 6 nút. Tùy chọn này chỉ áp dụng khi trình giả lập khởi động, nếu muốn chuyển đổi trong lúc nội dung đang chạy, hãy dùng Phím “Chuyển chế độ”. LƯU Ý: Tay cầm 6 Phím có thể hoạt động bất thường trong các trò chơi không tương thích."
 
 msgctxt "#30055"
 msgid "Choose if port 5 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Chọn mặc định tay cầm cổng 5 sẽ là 2 hay 6 nút. Tùy chọn này chỉ áp dụng khi trình giả lập khởi động, nếu muốn chuyển đổi trong lúc nội dung đang chạy, hãy dùng Phím “Chuyển chế độ”. LƯU Ý: Tay cầm 6 Phím có thể hoạt động bất thường trong các trò chơi không tương thích."
 
 msgctxt "#30056"
 msgid "Enable the turbo toggle hotkeys (buttons III and IV)."
-msgstr ""
+msgstr "Bật phím tắt chuyển đổi chế độ tự động nhấn (Phím III và IV)."
 
 msgctxt "#30057"
 msgid "Assign RetroPad's L3/R3 buttons as turbo toggle hotkeys instead of buttons III and IV. Works only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
-msgstr ""
+msgstr "Gán Phím L3/R3 của tay cầm làm phím tắt chuyển đổi tự động nhấn thay vì Phím III và IV. Chỉ hoạt động nếu L3/R3 chưa được gán chức năng khác. Bạn có thể tránh việc phải gán lại Phím III và IV khi chuyển sang chế độ tay cầm 6 Phím bằng tùy chọn này."
 
 msgctxt "#30058"
 msgid "Adjust the time between turbo fire (in frames)."
-msgstr ""
+msgstr "Điều chỉnh khoảng thời gian giữa các lần tự động nhấn (tính theo khung hình)."
 
 msgctxt "#30059"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Thủ thuật giả lập"
 
 msgctxt "#30060"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Định cấu hình các thông số độ chính xác của việc ép xung và mô phỏng bộ xử lý ảnh hưởng đến hiệu suất và khả năng tương thích ở mức thấp."
 
 msgctxt "#30061"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr ""
+msgstr "Gỡ bỏ giới hạn phần cứng 16 sprite mỗi dòng quét. CẢNH BÁO: Có thể gây lỗi hiển thị trong một số trò chơi."
 
 msgctxt "#30062"
 msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
-msgstr ""
+msgstr "Giá trị cao hơn có thể giảm tình trạng chậm trong game. CẢNH BÁO: Có thể gây lỗi đồ họa và treo máy."
 
 msgctxt "#30063"
 msgid "Advanced Channel Volume Settings"
-msgstr ""
+msgstr "Tùy chỉnh cài đặt kênh âm thanh"
 
 msgctxt "#30064"
 msgid "Configure the volume of individual hardware audio channels."
-msgstr ""
+msgstr "Chỉnh sửa âm thanh của phần cứng riêng lẻ."
 
 msgctxt "#30065"
 msgid "Modify the volume of PSG Sound Channel 0."
-msgstr ""
+msgstr "Thay đổi âm lượng của kênh âm thanh PSG 0."
 
 msgctxt "#30066"
 msgid "Modify the volume of PSG Sound Channel 1."
-msgstr ""
+msgstr "Thay đổi âm lượng của kênh âm thanh PSG 1."
 
 msgctxt "#30067"
 msgid "Modify the volume of PSG Sound Channel 2."
-msgstr ""
+msgstr "Thay đổi âm lượng của kênh âm thanh PSG 2."
 
 msgctxt "#30068"
 msgid "Modify the volume of PSG Sound Channel 3."
-msgstr ""
+msgstr "Thay đổi âm lượng của kênh âm thanh PSG 3."
 
 msgctxt "#30069"
 msgid "Modify the volume of PSG Sound Channel 4."
-msgstr ""
+msgstr "Thay đổi âm lượng của kênh âm thanh PSG 4."
 
 msgctxt "#30070"
 msgid "Modify the volume of PSG Sound Channel 5."
-msgstr ""
+msgstr "Thay đổi âm lượng của kênh âm thanh PSG 5."
 
 msgctxt "#30071"
 msgid "PC Engine CD"
-msgstr ""
+msgstr "CD động cơ PC"
 
 msgctxt "#30072"
 msgid "Configure settings related to the PC Engine CD emulation."
-msgstr ""
+msgstr "Định cấu hình cài đặt liên quan đến trình mô phỏng PC Engine CD."
 
 msgctxt "#30073"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "Tải toàn bộ hình ảnh vào bộ nhớ khi khởi động. Có khả năng giảm thời gian tải nhưng phải trả giá bằng thời gian khởi động lâu hơn."
 
 msgctxt "#30074"
 msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
-msgstr ""
+msgstr "Hầu hết trò chơi có thể chạy bằng “System Card 3”. “Games Express” cần cho một số trò chơi không được cấp phép."
 
 msgctxt "#30075"
 msgid "Higher values enable faster loading times but can cause issues with a couple of games."
-msgstr ""
+msgstr "Giá trị cao hơn cho phép thời gian tải nhanh hơn nhưng có thể gây ra sự cố với một số trò chơi."
 
 msgctxt "#30076"
 msgid "1x"
@@ -343,15 +343,15 @@ msgstr ""
 
 msgctxt "#30080"
 msgid "CD game only. Setting this volume control too high may cause sample clipping."
-msgstr ""
+msgstr "Chỉ áp dụng cho game CD. Đặt âm lượng này quá cao có thể gây méo tiếng mẫu."
 
 msgctxt "#30081"
 msgid "CD game only. Applies a low-pass filter to CD ADPCM sample playback, reducing high-frequency aliasing/harshness. The cutoff scales with the ADPCM sample rate."
-msgstr ""
+msgstr "Chỉ dành cho game CD. Áp dụng bộ lọc thông thấp lên quá trình phát lại mẫu ADPCM từ CD, giúp giảm hiện tượng răng cưa/âm gắt ở dải tần cao. Tần số cắt sẽ thay đổi theo tốc độ lấy mẫu ADPCM."
 
 msgctxt "#30082"
 msgid "Ignore EDC/L-EC errors. Needed for compatibility with some hacks."
-msgstr ""
+msgstr "Bỏ qua lỗi EDC/L-EC. Cần thiết để tương thích với một số bản hack."
 
 msgctxt "#30083"
 msgid "15"

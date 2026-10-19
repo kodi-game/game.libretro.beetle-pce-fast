@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Color Palette"
-msgstr ""
+msgstr "Παλέτα Χρωμάτων"
 
 msgctxt "#30002"
 msgid "Frameskip"
@@ -75,7 +75,7 @@ msgstr ""
 
 msgctxt "#30013"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Ευαισθησία Ποντικιού"
 
 msgctxt "#30014"
 msgid "Disable Soft Reset (RUN+SELECT)"
@@ -111,7 +111,7 @@ msgstr ""
 
 msgctxt "#30022"
 msgid "Turbo Delay"
-msgstr ""
+msgstr "Καθυστέρηση Τούρμπο"
 
 msgctxt "#30023"
 msgid "CD Image Cache (Restart Required)"
@@ -155,7 +155,7 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Video"
-msgstr ""
+msgstr "Οδηγός Βίντεο"
 
 msgctxt "#30034"
 msgid "Configure display cropping, frame skipping and other image output parameters."
@@ -171,11 +171,11 @@ msgstr ""
 
 msgctxt "#30037"
 msgid "Auto"
-msgstr ""
+msgstr "Αυτόματο"
 
 msgctxt "#30038"
 msgid "Manual"
-msgstr ""
+msgstr "Χειροκίνητο"
 
 msgctxt "#30039"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
@@ -183,7 +183,7 @@ msgstr ""
 
 msgctxt "#30040"
 msgid "33 (Default)"
-msgstr ""
+msgstr "33 (Προεπιλογή)"
 
 msgctxt "#30041"
 msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
@@ -191,7 +191,7 @@ msgstr ""
 
 msgctxt "#30042"
 msgid "352 (Default)"
-msgstr ""
+msgstr "352 (Προεπιλογή)"
 
 msgctxt "#30043"
 msgid "First rendered scanline. Higher values will crop the top of the image."
@@ -199,7 +199,7 @@ msgstr ""
 
 msgctxt "#30044"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (Προεπιλογή)"
 
 msgctxt "#30045"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
@@ -207,11 +207,11 @@ msgstr ""
 
 msgctxt "#30046"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (Προεπιλογή)"
 
 msgctxt "#30047"
 msgid "Input"
-msgstr ""
+msgstr "Οδηγός Εισαγωγής"
 
 msgctxt "#30048"
 msgid "Configure light gun, mouse and NegCon input."

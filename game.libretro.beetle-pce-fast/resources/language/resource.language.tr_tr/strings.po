@@ -27,123 +27,123 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Color Palette"
-msgstr ""
+msgstr "Renk Paleti"
 
 msgctxt "#30002"
 msgid "Frameskip"
-msgstr ""
+msgstr "Kare Atlama"
 
 msgctxt "#30003"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Kare Atlama Eşiği (%)"
 
 msgctxt "#30004"
 msgid "Horizontal Overscan (352 Width Mode Only)"
-msgstr ""
+msgstr "Yatay Aşırı Tarama (Yalnızca 352 Genişlik Kipi)"
 
 msgctxt "#30005"
 msgid "Initial Scanline"
-msgstr ""
+msgstr "İlk Tarama Çizgisi"
 
 msgctxt "#30006"
 msgid "Last Scanline"
-msgstr ""
+msgstr "Son Tarama Çizgisi"
 
 msgctxt "#30007"
 msgid "PSG Sound Channel 0 Volume %"
-msgstr ""
+msgstr "PSG Ses Kanalı 0 Ses Seviyesi %"
 
 msgctxt "#30008"
 msgid "PSG Sound Channel 1 Volume %"
-msgstr ""
+msgstr "PSG Ses Kanalı 1 Ses Seviyesi %"
 
 msgctxt "#30009"
 msgid "PSG Sound Channel 2 Volume %"
-msgstr ""
+msgstr "PSG Ses Kanalı 2 Ses Seviyesi %"
 
 msgctxt "#30010"
 msgid "PSG Sound Channel 3 Volume %"
-msgstr ""
+msgstr "PSG Ses Kanalı 3 Ses Seviyesi %"
 
 msgctxt "#30011"
 msgid "PSG Sound Channel 4 Volume %"
-msgstr ""
+msgstr "PSG Ses Kanalı 4 Ses Seviyesi %"
 
 msgctxt "#30012"
 msgid "PSG Sound Channel 5 Volume %"
-msgstr ""
+msgstr "PSG Ses Kanalı 5 Ses Seviyesi %"
 
 msgctxt "#30013"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Fare Hassasiyeti"
 
 msgctxt "#30014"
 msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr ""
+msgstr "Yazılımdan Sıfırlama Devre Dışı (RUN+SELECT)"
 
 msgctxt "#30015"
 msgid "P1 Default Joypad Type"
-msgstr ""
+msgstr "P1 Varsayılan Joypad Tipi"
 
 msgctxt "#30016"
 msgid "P2 Default Joypad Type"
-msgstr ""
+msgstr "P2 Varsayılan Joypad Tipi"
 
 msgctxt "#30017"
 msgid "P3 Default Joypad Type"
-msgstr ""
+msgstr "P3 Varsayılan Joypad Tipi"
 
 msgctxt "#30018"
 msgid "P4 Default Joypad Type"
-msgstr ""
+msgstr "P4 Varsayılan Joypad Tipi"
 
 msgctxt "#30019"
 msgid "P5 Default Joypad Type"
-msgstr ""
+msgstr "P5 Varsayılan Joypad Tipi"
 
 msgctxt "#30020"
 msgid "Turbo Toggle"
-msgstr ""
+msgstr "Turbo Değiştir"
 
 msgctxt "#30021"
 msgid "Alternate Turbo Hotkey"
-msgstr ""
+msgstr "Alternatif Turbo Kısayol Tuşu"
 
 msgctxt "#30022"
 msgid "Turbo Delay"
-msgstr ""
+msgstr "Turbo Gecikmesi"
 
 msgctxt "#30023"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "CD Kalıbı Önbelleği (Yeniden Başlatılmalı)"
 
 msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
-msgstr ""
+msgstr "CD BIOS (Yeniden Başlatılmalı)"
 
 msgctxt "#30025"
 msgid "(CD) CD Speed"
-msgstr ""
+msgstr "(CD) CD Hızı"
 
 msgctxt "#30026"
 msgid "(CD) ADPCM Volume %"
-msgstr ""
+msgstr "(CD) ADPCM Ses Seviyesi %"
 
 msgctxt "#30027"
 msgid "(CD) CDDA Volume %"
-msgstr ""
+msgstr "(CD) CDDA Ses Seviyesi %"
 
 msgctxt "#30028"
 msgid "(CD) PSG Volume %"
-msgstr ""
+msgstr "(CD) PSG Ses Seviyesi %"
 
 msgctxt "#30029"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "Hareket Sınırını Kaldır"
 
 msgctxt "#30030"
 msgid "CPU Overclock Multiplier (Restart Required)"
-msgstr ""
+msgstr "CPU Hız Aşırtma Çarpanı (Yeniden Başlatılmalı)"
 
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
@@ -159,151 +159,151 @@ msgstr ""
 
 msgctxt "#30034"
 msgid "Configure display cropping, frame skipping and other image output parameters."
-msgstr ""
+msgstr "Görüntü kırpma, kare atlama ve diğer görüntü çıktı parametrelerini yapılandırın."
 
 msgctxt "#30035"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr ""
+msgstr "Kompozit video ayarı orjinal konsolun video çıkışını taklit etmeye çalışır ve bazı oyunlarda daha fazla ayrıntı sunabilir."
 
 msgctxt "#30036"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Ses ara belleğinin yetersiz çalışmasını (çatırtı) önlemek için kareleri atlayın. Görsel pürüzsüzlük pahasına performansı artırır. 'Otomatik', ön uç tarafından önerildiğinde çerçeveleri atlar. 'El ile', 'Kare Atlama Eşiği (%)' ayarını kullanır."
 
 msgctxt "#30037"
 msgid "Auto"
-msgstr ""
+msgstr "Otomatik"
 
 msgctxt "#30038"
 msgid "Manual"
-msgstr ""
+msgstr "El İle"
 
 msgctxt "#30039"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "'Kare Atlama', 'El ile' olarak ayarlandığında, altındaki karelerin atlanacağı ses arabelleği doluluk eşiğini (yüzde) belirtir. Daha yüksek değerler, çerçevelerin daha sık düşmesine neden olarak çatlama riskini azaltır."
 
 msgctxt "#30040"
 msgid "33 (Default)"
-msgstr ""
+msgstr "33 (Varsayılan)"
 
 msgctxt "#30041"
 msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
-msgstr ""
+msgstr "Gösterilecek azami görüntü genişliği. Düşürülen değerler görüntünün sağ tarafını kırpacaktır. (352 pk genişliğindeki oyunlar)."
 
 msgctxt "#30042"
 msgid "352 (Default)"
-msgstr ""
+msgstr "352 (Varsayılan)"
 
 msgctxt "#30043"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "İlk işlenen tarama çizgisi. Yükseltilen değerler görüntünün üstünü kırpacaktır."
 
 msgctxt "#30044"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (Varsayılan)"
 
 msgctxt "#30045"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "Son işlenen tarama çizgisi. Düşürülen değerler görüntünün alt kısmını kırpacaktır."
 
 msgctxt "#30046"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (Varsayılan)"
 
 msgctxt "#30047"
 msgid "Input"
-msgstr ""
+msgstr "Giriş"
 
 msgctxt "#30048"
 msgid "Configure light gun, mouse and NegCon input."
-msgstr ""
+msgstr "Light gun, fare ve NegCon girişini yapılandırın."
 
 msgctxt "#30049"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "Daha yüksek değerler, fare imlecinin daha hızlı hareket etmesini sağlar."
 
 msgctxt "#30050"
 msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
-msgstr ""
+msgstr "RUN ve SELECT tuşlarına aynı anda basıldığında, yeniden başlatmak yerine iki tuşu da geçici olarak devre dışı bırak."
 
 msgctxt "#30051"
 msgid "Choose if port 1 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Port 1 joypad varsayılan olarak 2 veya 6 düğme olması gerekip gerekmediğini seçin. Bu seçenek yalnızca çekirdek başladığında uygulanır, içerik çalışırken geçiş yapmak istiyorsanız, 'Mod Değiştir' düğmesini kullanın. NOT: 6 düğmeli joypad, uyumlu olmayan oyunlarda garip davranışlara sahip olabilir."
 
 msgctxt "#30052"
 msgid "Choose if port 2 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Port 2 joypad varsayılan olarak 2 veya 6 düğme olması gerekip gerekmediğini seçin. Bu seçenek yalnızca çekirdek başladığında uygulanır, içerik çalışırken geçiş yapmak istiyorsanız, 'Mod Değiştir' düğmesini kullanın. NOT: 6 düğmeli joypad, uyumlu olmayan oyunlarda garip davranışlara sahip olabilir."
 
 msgctxt "#30053"
 msgid "Choose if port 3 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Port 3 joypad varsayılan olarak 2 veya 6 düğme olması gerekip gerekmediğini seçin. Bu seçenek yalnızca çekirdek başladığında uygulanır, içerik çalışırken geçiş yapmak istiyorsanız, 'Mod Değiştir' düğmesini kullanın. NOT: 6 düğmeli joypad, uyumlu olmayan oyunlarda garip davranışlara sahip olabilir."
 
 msgctxt "#30054"
 msgid "Choose if port 4 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Port 4 joypad varsayılan olarak 2 veya 6 düğme olması gerekip gerekmediğini seçin. Bu seçenek yalnızca çekirdek başladığında uygulanır, içerik çalışırken geçiş yapmak istiyorsanız, 'Mod Değiştir' düğmesini kullanın. NOT: 6 düğmeli joypad, uyumlu olmayan oyunlarda garip davranışlara sahip olabilir."
 
 msgctxt "#30055"
 msgid "Choose if port 5 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Port 5 joypad varsayılan olarak 2 veya 6 düğme olması gerekip gerekmediğini seçin. Bu seçenek yalnızca çekirdek başladığında uygulanır, içerik çalışırken geçiş yapmak istiyorsanız, 'Mod Değiştir' düğmesini kullanın. NOT: 6 düğmeli joypad, uyumlu olmayan oyunlarda garip davranışlara sahip olabilir."
 
 msgctxt "#30056"
 msgid "Enable the turbo toggle hotkeys (buttons III and IV)."
-msgstr ""
+msgstr "Turbo geçiş tuşlarını etkinleştir (III ve IV tuşları)."
 
 msgctxt "#30057"
 msgid "Assign RetroPad's L3/R3 buttons as turbo toggle hotkeys instead of buttons III and IV. Works only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
-msgstr ""
+msgstr "Retropad L3/R3 tuşlarını, III ve IV tuşlarının yerine turbo geçişi için ata. L3/R3 tuşlarına başka bir şey atanmadığı sürece çalışır. Bununla 6-tuşlu kontrolcü kipine geçerken III ve IV tuşlarını yapılandırmayabilirsiniz."
 
 msgctxt "#30058"
 msgid "Adjust the time between turbo fire (in frames)."
-msgstr ""
+msgstr "Turbo sinyallerinin zamanlamasını ayarla. (kare başına)."
 
 msgctxt "#30059"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Emülatör Geliştirmeleri"
 
 msgctxt "#30060"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Düşük seviyeli performans ve uyumluluğu etkileyen işlemci hız aşırtma ve emulatör doğruluğu parametrelerini yapılandırın."
 
 msgctxt "#30061"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr ""
+msgstr "Tarama çizgisi başına 16 hareket donanım sınırını kaldırır. UYARI: Bazı oyunlarda bozulmlara sebep olabilir."
 
 msgctxt "#30062"
 msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
-msgstr ""
+msgstr "Yükseltilen değer bazı oyunlardaki yavaşlamaları düşürebilir. UYARI: Bozulmalara ve çökmelere sebep olabilir."
 
 msgctxt "#30063"
 msgid "Advanced Channel Volume Settings"
-msgstr ""
+msgstr "Gelişmiş Ses Kanalı Ayarları"
 
 msgctxt "#30064"
 msgid "Configure the volume of individual hardware audio channels."
-msgstr ""
+msgstr "Farklı donanım ses kanallarının ses düzeyini yapılandırın."
 
 msgctxt "#30065"
 msgid "Modify the volume of PSG Sound Channel 0."
-msgstr ""
+msgstr "PSG Ses Kanalı 0'ın ses seviyesini değiştirir."
 
 msgctxt "#30066"
 msgid "Modify the volume of PSG Sound Channel 1."
-msgstr ""
+msgstr "PSG Ses Kanalı 1'in ses seviyesini değiştirir."
 
 msgctxt "#30067"
 msgid "Modify the volume of PSG Sound Channel 2."
-msgstr ""
+msgstr "PSG Ses Kanalı 2'nin ses seviyesini değiştirir."
 
 msgctxt "#30068"
 msgid "Modify the volume of PSG Sound Channel 3."
-msgstr ""
+msgstr "PSG Ses Kanalı 3'ün ses seviyesini değiştirir."
 
 msgctxt "#30069"
 msgid "Modify the volume of PSG Sound Channel 4."
-msgstr ""
+msgstr "PSG Ses Kanalı 4'ün ses seviyesini değiştirir."
 
 msgctxt "#30070"
 msgid "Modify the volume of PSG Sound Channel 5."
-msgstr ""
+msgstr "PSG Ses Kanalı 5'in ses seviyesini değiştirir."
 
 msgctxt "#30071"
 msgid "PC Engine CD"
@@ -311,19 +311,19 @@ msgstr ""
 
 msgctxt "#30072"
 msgid "Configure settings related to the PC Engine CD emulation."
-msgstr ""
+msgstr "PC Engine CD emulatörü ilgili ayarları yapılandırın."
 
 msgctxt "#30073"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "Başlangıç sırasında bütün kalıbı hafızaya yükler. Başlangıç sürecini uzatmak pahasına oyundaki yüklenme sürelerini kısaltabilir."
 
 msgctxt "#30074"
 msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
-msgstr ""
+msgstr "Oyunların çoğu \"System Card 3\" üzerinde çalışabilir. Birkaç lisanssız oyun, Game Express'e ihtiyaç duyar."
 
 msgctxt "#30075"
 msgid "Higher values enable faster loading times but can cause issues with a couple of games."
-msgstr ""
+msgstr "Yükseltilen değerler daha hızlı yüklenmeyi etkinleştiririr, birkaç oyunda sorunlara sebep olabilir."
 
 msgctxt "#30076"
 msgid "1x"
@@ -343,7 +343,7 @@ msgstr ""
 
 msgctxt "#30080"
 msgid "CD game only. Setting this volume control too high may cause sample clipping."
-msgstr ""
+msgstr "Sadece CD oyunları için. Bu ses ayarını aşırı yükseltmek seste yırtılmalara sebep olabilir."
 
 msgctxt "#30081"
 msgid "CD game only. Applies a low-pass filter to CD ADPCM sample playback, reducing high-frequency aliasing/harshness. The cutoff scales with the ADPCM sample rate."

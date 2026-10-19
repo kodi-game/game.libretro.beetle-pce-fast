@@ -27,303 +27,303 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Color Palette"
-msgstr ""
+msgstr "Кольорова палітра"
 
 msgctxt "#30002"
 msgid "Frameskip"
-msgstr ""
+msgstr "Пропуск кадру"
 
 msgctxt "#30003"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Межа пропуску кадрів (%)"
 
 msgctxt "#30004"
 msgid "Horizontal Overscan (352 Width Mode Only)"
-msgstr ""
+msgstr "Горизонтальна розгортка (тільки в режимі ширини 352)"
 
 msgctxt "#30005"
 msgid "Initial Scanline"
-msgstr ""
+msgstr "Початковий аналіз"
 
 msgctxt "#30006"
 msgid "Last Scanline"
-msgstr ""
+msgstr "Останній рядок сканування"
 
 msgctxt "#30007"
 msgid "PSG Sound Channel 0 Volume %"
-msgstr ""
+msgstr "Гучність PSG звукового каналу 0 %"
 
 msgctxt "#30008"
 msgid "PSG Sound Channel 1 Volume %"
-msgstr ""
+msgstr "Гучність PSG звукового каналу 1 %"
 
 msgctxt "#30009"
 msgid "PSG Sound Channel 2 Volume %"
-msgstr ""
+msgstr "Гучність PSG звукового каналу 2 %"
 
 msgctxt "#30010"
 msgid "PSG Sound Channel 3 Volume %"
-msgstr ""
+msgstr "Гучність PSG звукового каналу 3 %"
 
 msgctxt "#30011"
 msgid "PSG Sound Channel 4 Volume %"
-msgstr ""
+msgstr "Гучність PSG звукового каналу 4 %"
 
 msgctxt "#30012"
 msgid "PSG Sound Channel 5 Volume %"
-msgstr ""
+msgstr "Гучність PSG звукового каналу 5 %"
 
 msgctxt "#30013"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Чутливість миші"
 
 msgctxt "#30014"
 msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr ""
+msgstr "Вимкнути програмне скидання (РУХ+ВИБІР)"
 
 msgctxt "#30015"
 msgid "P1 Default Joypad Type"
-msgstr ""
+msgstr "P1 типовий тип Jypad"
 
 msgctxt "#30016"
 msgid "P2 Default Joypad Type"
-msgstr ""
+msgstr "P2 за замовчуванням Jypad тип"
 
 msgctxt "#30017"
 msgid "P3 Default Joypad Type"
-msgstr ""
+msgstr "P3 за замовчуванням Jypad тип"
 
 msgctxt "#30018"
 msgid "P4 Default Joypad Type"
-msgstr ""
+msgstr "Тип Jypad P4 за замовчуванням"
 
 msgctxt "#30019"
 msgid "P5 Default Joypad Type"
-msgstr ""
+msgstr "P5 за замовчуванням Jypad тип"
 
 msgctxt "#30020"
 msgid "Turbo Toggle"
-msgstr ""
+msgstr "Турбо"
 
 msgctxt "#30021"
 msgid "Alternate Turbo Hotkey"
-msgstr ""
+msgstr "Альтернативні турбокнопки"
 
 msgctxt "#30022"
 msgid "Turbo Delay"
-msgstr ""
+msgstr "Затримка Турбо"
 
 msgctxt "#30023"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "Кеш образу CD (потрібен перезапуск)"
 
 msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
-msgstr ""
+msgstr "CD BIOS (потрібен перезапуск)"
 
 msgctxt "#30025"
 msgid "(CD) CD Speed"
-msgstr ""
+msgstr "(CD) Швидкість CD"
 
 msgctxt "#30026"
 msgid "(CD) ADPCM Volume %"
-msgstr ""
+msgstr "(CD) Гучність ADPCM %"
 
 msgctxt "#30027"
 msgid "(CD) CDDA Volume %"
-msgstr ""
+msgstr "(CD) Гучність CDDA %"
 
 msgctxt "#30028"
 msgid "(CD) PSG Volume %"
-msgstr ""
+msgstr "(CD) Гучність PSG %"
 
 msgctxt "#30029"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "Ліміт спрайтів немає"
 
 msgctxt "#30030"
 msgid "CPU Overclock Multiplier (Restart Required)"
-msgstr ""
+msgstr "Мультиплікатор процесора (потрібен перезапуск)"
 
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
-msgstr ""
+msgstr "CD: Ігнорувати помилки EDC/L-EC"
 
 msgctxt "#30032"
 msgid "(CD) ADPCM Low-pass Filter"
-msgstr ""
+msgstr "(CD) Низькочастотний фільтр ADPCM"
 
 msgctxt "#30033"
 msgid "Video"
-msgstr ""
+msgstr "Відео"
 
 msgctxt "#30034"
 msgid "Configure display cropping, frame skipping and other image output parameters."
-msgstr ""
+msgstr "Налаштувати обрізання екрану, пропуску кадрів та інших параметрів зображення."
 
 msgctxt "#30035"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr ""
+msgstr "Композитний намагається відтворити оригінальний вивід консолі та може показати більше деталей у деяких іграх."
 
 msgctxt "#30036"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Пропускати кадри, щоб уникнути спустошення буферу (тріскіт). Покращує швидкодію, погіршуючи плавність зображення. 'Авто' пропускає кадри, керуючись командами зовнішньої оболонки. 'Ручний' використовує налаштування 'Межа пропуску кадрів (%)'."
 
 msgctxt "#30037"
 msgid "Auto"
-msgstr ""
+msgstr "Авто"
 
 msgctxt "#30038"
 msgid "Manual"
-msgstr ""
+msgstr "Ручний"
 
 msgctxt "#30039"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Якщо 'Пропус кадрів' встановлено у 'Вручну', зазначає граничне значення оточення аудіо-буферу (відсоток), нижчі за які кадри будуть пропущені. Більш високі значення зменшують ризик зломування, викликаючи зменшення кадрів частіше."
 
 msgctxt "#30040"
 msgid "33 (Default)"
-msgstr ""
+msgstr "33 (за замовчуванням)"
 
 msgctxt "#30041"
 msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
-msgstr ""
+msgstr "Виберіть максимальну ширину зображення, яку слід показувати. Менші значення будуть обрізати праву частину зображення (для ігор шириною 352 пікселі)."
 
 msgctxt "#30042"
 msgid "352 (Default)"
-msgstr ""
+msgstr "352 (за замовчуванням)"
 
 msgctxt "#30043"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "Перший рендеринговий сканер. Вищі значення будуть обрізати верхній частині зображення."
 
 msgctxt "#30044"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (за замовчуванням)"
 
 msgctxt "#30045"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "Остання візуальна сканера. Менші значення будуть обрізати нижній частині зображення."
 
 msgctxt "#30046"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (за замовчуванням)"
 
 msgctxt "#30047"
 msgid "Input"
-msgstr ""
+msgstr "Ввід"
 
 msgctxt "#30048"
 msgid "Configure light gun, mouse and NegCon input."
-msgstr ""
+msgstr "Налаштування світлового пістолета, миші та NegCon."
 
 msgctxt "#30049"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "Великі значення змусять курсор миші рухатися швидше."
 
 msgctxt "#30050"
 msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
-msgstr ""
+msgstr "Коли РУХ та ВИБІР одночасно натиснуто, тимчасово вимкнуться обидві кнопки замість скидання."
 
 msgctxt "#30051"
 msgid "Choose if port 1 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Виберіть, якщо порт 1 joypad має бути 2 або 6 кнопок за замовчуванням. Цей параметр застосовується тільки тоді, коли запущено ядро, якщо ви хочете перемкнутися під час роботи вмісту, використовуйте кнопку 'Перемикач режиму'. ПРИМІТКА: 6 кнопок joypad може мати дивну поведінку в несумісних іграх."
 
 msgctxt "#30052"
 msgid "Choose if port 2 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Виберіть, якщо порт 2 joypad має бути 2 або 6 кнопок за замовчуванням. Цей параметр застосовується тільки тоді, коли запущено ядро, якщо ви хочете перемкнутися під час роботи вмісту, використовуйте кнопку 'Перемикач режиму'. ПРИМІТКА: 6 кнопок joypad може мати дивну поведінку в несумісних іграх."
 
 msgctxt "#30053"
 msgid "Choose if port 3 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Виберіть, якщо порт 3 joypad має бути 2 або 6 кнопок за замовчуванням. Цей параметр застосовується тільки тоді, коли запущено ядро, якщо ви хочете перемкнутися під час роботи вмісту, використовуйте кнопку 'Перемикач режиму'. ПРИМІТКА: 6 кнопок joypad може мати дивну поведінку в несумісних іграх."
 
 msgctxt "#30054"
 msgid "Choose if port 4 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Оберіть, якщо порт 4 джойпада має бути 2 або 6 кнопок за замовчуванням. Цей параметр застосовується тільки тоді, коли запущено ядро, якщо ви хочете перемкнутися під час роботи вмісту, використовуйте кнопку 'Перемикач режиму'. ПРИМІТКА: 6 кнопок joypad може мати дивну поведінку в несумісних іграх."
 
 msgctxt "#30055"
 msgid "Choose if port 5 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Виберіть, якщо порт 5 joypad має бути 2 або 6 кнопок за замовчуванням. Цей параметр застосовується тільки тоді, коли запущено ядро, якщо ви хочете перемкнутися під час роботи вмісту, використовуйте кнопку 'Перемикач режиму'. ПРИМІТКА: 6 кнопок joypad може мати дивну поведінку в несумісних іграх."
 
 msgctxt "#30056"
 msgid "Enable the turbo toggle hotkeys (buttons III and IV)."
-msgstr ""
+msgstr "Увімкніть перемикач тюрбо (кнопки ІІ та IV)."
 
 msgctxt "#30057"
 msgid "Assign RetroPad's L3/R3 buttons as turbo toggle hotkeys instead of buttons III and IV. Works only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
-msgstr ""
+msgstr "Призначити кнопки RetroPad's L3/R3 як перемикач турбо-перемикачів замість кнопок III і IV. Працює тільки до тих пір, поки нічого не призначається на L3/R3. Ви можете уникнути перерахування кнопок III і IV при перемиканні в режим контролю 6-кнопки."
 
 msgctxt "#30058"
 msgid "Adjust the time between turbo fire (in frames)."
-msgstr ""
+msgstr "Налаштуйте час між заводовим вогнем (у кадрах)."
 
 msgctxt "#30059"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Гаки емуляції"
 
 msgctxt "#30060"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Налаштування розгону процесора та точності емуляції, що впливають на низькорівневу продуктивність та сумісність."
 
 msgctxt "#30061"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr ""
+msgstr "Видалення апаратного обмеження 16-спрайтів по сканеру. УВАГА: Може призвести до зміщення графіки в деяких іграх."
 
 msgctxt "#30062"
 msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
-msgstr ""
+msgstr "Вищі значення можуть зменшити уповільнення ігор. УВАГА: можуть призвести до збоїв та аварій."
 
 msgctxt "#30063"
 msgid "Advanced Channel Volume Settings"
-msgstr ""
+msgstr "Розширені налаштування гучності"
 
 msgctxt "#30064"
 msgid "Configure the volume of individual hardware audio channels."
-msgstr ""
+msgstr "Індивідуальні налаштування гучності аудіоканалів системи."
 
 msgctxt "#30065"
 msgid "Modify the volume of PSG Sound Channel 0."
-msgstr ""
+msgstr "Змінити гучність PSG звукового каналу 0."
 
 msgctxt "#30066"
 msgid "Modify the volume of PSG Sound Channel 1."
-msgstr ""
+msgstr "Змінити гучність PSG звукового каналу 1."
 
 msgctxt "#30067"
 msgid "Modify the volume of PSG Sound Channel 2."
-msgstr ""
+msgstr "Змінити гучність PSG звукового каналу 2."
 
 msgctxt "#30068"
 msgid "Modify the volume of PSG Sound Channel 3."
-msgstr ""
+msgstr "Змінити гучність PSG звукового каналу 3."
 
 msgctxt "#30069"
 msgid "Modify the volume of PSG Sound Channel 4."
-msgstr ""
+msgstr "Змінити гучність PSG звукового каналу 4."
 
 msgctxt "#30070"
 msgid "Modify the volume of PSG Sound Channel 5."
-msgstr ""
+msgstr "Змініть гучність PSG звукового каналу 5."
 
 msgctxt "#30071"
 msgid "PC Engine CD"
-msgstr ""
+msgstr "CD комп'ютерних двигунів"
 
 msgctxt "#30072"
 msgid "Configure settings related to the PC Engine CD emulation."
-msgstr ""
+msgstr "Налаштувати параметри, пов'язані з емуляцією CD двигуна ПК."
 
 msgctxt "#30073"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "Завантажувати повне зображення в пам'ять під час запуску. Може зменшувати час завантаження за рахунок збільшення часу запуску."
 
 msgctxt "#30074"
 msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
-msgstr ""
+msgstr "Більшість ігор може складатися на 'Системній карті 3'. 'Ігри Express' потрібно для декількох неліцензійних ігор."
 
 msgctxt "#30075"
 msgid "Higher values enable faster loading times but can cause issues with a couple of games."
-msgstr ""
+msgstr "Більші значення активують швидше завантаження, але можуть викликати проблеми з кількома іграми."
 
 msgctxt "#30076"
 msgid "1x"
@@ -343,15 +343,15 @@ msgstr ""
 
 msgctxt "#30080"
 msgid "CD game only. Setting this volume control too high may cause sample clipping."
-msgstr ""
+msgstr "Гра CD тільки встановили цей контроль гучності занадто високо може викликати обрізання вибірки."
 
 msgctxt "#30081"
 msgid "CD game only. Applies a low-pass filter to CD ADPCM sample playback, reducing high-frequency aliasing/harshness. The cutoff scales with the ADPCM sample rate."
-msgstr ""
+msgstr "Тільки для ігор на CD. Застосовує фільтр нижніх частот до відтворення зразків ADPCM з CD, зменшуючи ефекти аліасингу та різкість у високих частотах. Частота зрізу змінюється пропорційно до частоти дискретизації зразків ADPCM."
 
 msgctxt "#30082"
 msgid "Ignore EDC/L-EC errors. Needed for compatibility with some hacks."
-msgstr ""
+msgstr "Ігнорувати помилки EDC/L-EC. Це необхідно для сумісності з деякими гаками."
 
 msgctxt "#30083"
 msgid "15"

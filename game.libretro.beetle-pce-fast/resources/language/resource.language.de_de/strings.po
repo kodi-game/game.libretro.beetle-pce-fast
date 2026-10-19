@@ -35,43 +35,43 @@ msgstr "Frameskip"
 
 msgctxt "#30003"
 msgid "Frameskip Threshold (%)"
-msgstr "Frameskip-Schwellenwert (%)"
+msgstr "Frameskip-Grenzwert (%)"
 
 msgctxt "#30004"
 msgid "Horizontal Overscan (352 Width Mode Only)"
-msgstr "Horizontaler Overscan (nur 352 Breitmodus)"
+msgstr "Horizontaler Overscan (nur 352 Breitbildmodus)"
 
 msgctxt "#30005"
 msgid "Initial Scanline"
-msgstr "Erste Abtastzeile"
+msgstr "Erste Scanline"
 
 msgctxt "#30006"
 msgid "Last Scanline"
-msgstr "Letzte Abtastzeile"
+msgstr "Letzte Scanline"
 
 msgctxt "#30007"
 msgid "PSG Sound Channel 0 Volume %"
-msgstr "Lautstärke % für PSG-Tonkanal 0"
+msgstr "PSG-Audiokanal 0 Lautstärke %"
 
 msgctxt "#30008"
 msgid "PSG Sound Channel 1 Volume %"
-msgstr "Lautstärke % für PSG-Tonkanal 1"
+msgstr "PSG-Audiokanal 1 Lautstärke %"
 
 msgctxt "#30009"
 msgid "PSG Sound Channel 2 Volume %"
-msgstr "Lautstärke % für PSG-Tonkanal 2"
+msgstr "PSG-Audiokanal 2 Lautstärke %"
 
 msgctxt "#30010"
 msgid "PSG Sound Channel 3 Volume %"
-msgstr "Lautstärke % für PSG-Tonkanal 3"
+msgstr "PSG-Audiokanal 3 Lautstärke %"
 
 msgctxt "#30011"
 msgid "PSG Sound Channel 4 Volume %"
-msgstr "Lautstärke % für PSG-Tonkanal 4"
+msgstr "PSG-Audiokanal 4 Lautstärke %"
 
 msgctxt "#30012"
 msgid "PSG Sound Channel 5 Volume %"
-msgstr "Lautstärke % für PSG-Tonkanal 5"
+msgstr "PSG-Audiokanal 5 Lautstärke %"
 
 msgctxt "#30013"
 msgid "Mouse Sensitivity"
@@ -79,7 +79,7 @@ msgstr "Mausempfindlichkeit"
 
 msgctxt "#30014"
 msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr "Softreset (RUN+SELECT) deaktivieren"
+msgstr "Neustart-Kombination (RUN+SELECT) deaktivieren"
 
 msgctxt "#30015"
 msgid "P1 Default Joypad Type"
@@ -127,31 +127,31 @@ msgstr ""
 
 msgctxt "#30026"
 msgid "(CD) ADPCM Volume %"
-msgstr ""
+msgstr "(CD) ADPCM Lautstärke %"
 
 msgctxt "#30027"
 msgid "(CD) CDDA Volume %"
-msgstr ""
+msgstr "(CD) CDDA Lautstärke %"
 
 msgctxt "#30028"
 msgid "(CD) PSG Volume %"
-msgstr ""
+msgstr "(CD) PSG Lautstärke %"
 
 msgctxt "#30029"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "Kein Sprite-Limit"
 
 msgctxt "#30030"
 msgid "CPU Overclock Multiplier (Restart Required)"
-msgstr ""
+msgstr "CPU-Übertaktungsmultiplikator (Neustart erforderlich)"
 
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
-msgstr ""
+msgstr "CD: EDC-/L-EC-Fehler ignorieren"
 
 msgctxt "#30032"
 msgid "(CD) ADPCM Low-pass Filter"
-msgstr ""
+msgstr "(CD) ADPCM-Tiefpassfilter"
 
 msgctxt "#30033"
 msgid "Video"
@@ -159,171 +159,171 @@ msgstr ""
 
 msgctxt "#30034"
 msgid "Configure display cropping, frame skipping and other image output parameters."
-msgstr ""
+msgstr "Bildausschnitt, Frameskipping und andere Parameter für die Bildausgabe anpassen."
 
 msgctxt "#30035"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr ""
+msgstr "\"Composite\" versucht, die Originalausgabe der Konsole nachzubilden und kann in einigen Spielen mehr Details darstellen."
 
 msgctxt "#30036"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Frames überspringen, um ein Unterlaufen des Audiopuffers (Knistern) zu vermeiden. Verbessert die Leistung auf Kosten der visuellen Glätte. 'Auto' überspringt Frames, wenn vom Frontend empfohlen. 'Manual' verwendet die Einstellung 'Frameskip Grenzwert (%)'."
 
 msgctxt "#30037"
 msgid "Auto"
-msgstr ""
+msgstr "Automatisch"
 
 msgctxt "#30038"
 msgid "Manual"
-msgstr ""
+msgstr "Manuell"
 
 msgctxt "#30039"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Gibt den Audiopuffer-Belegungsschwellenwert (Prozent) an, unter dem Frames übersprungen werden, wenn 'Frameskip' auf \"Manuell\" eingestellt ist. Höhere Werte verringern das Risiko von Knistern, da Frames häufiger weggelassen werden."
 
 msgctxt "#30040"
 msgid "33 (Default)"
-msgstr ""
+msgstr "33 (Standard)"
 
 msgctxt "#30041"
 msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
-msgstr ""
+msgstr "Die maximale Bildbreite, die angezeigt werden soll. Bei niedrigeren Werten wird die rechte Seite des Bildes abgeschnitten (bei Spielen mit 352 px Bildbreite)."
 
 msgctxt "#30042"
 msgid "352 (Default)"
-msgstr ""
+msgstr "352 (Standard)"
 
 msgctxt "#30043"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "Erste gerenderte Scanline. Höhere Werte schneiden den oberen Teil des Bildes ab."
 
 msgctxt "#30044"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (Standard)"
 
 msgctxt "#30045"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "Letzte gerenderte Scanline. Niedrigere Werte schneiden den unteren Teil des Bildes ab."
 
 msgctxt "#30046"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (Standard)"
 
 msgctxt "#30047"
 msgid "Input"
-msgstr ""
+msgstr "Eingabe"
 
 msgctxt "#30048"
 msgid "Configure light gun, mouse and NegCon input."
-msgstr ""
+msgstr "Lightgun-, Maus- und NegCon-Eingabe anpassen."
 
 msgctxt "#30049"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "Höhere Werte erhöhen die Geschwindigkeit des Mauszeigers."
 
 msgctxt "#30050"
 msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
-msgstr ""
+msgstr "Wenn RUN und SELECT gleichzeitig gedrückt werden, werden beide Tasten vorübergehend deaktiviert, anstatt den Inhalt neu zu starten."
 
 msgctxt "#30051"
 msgid "Choose if port 1 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Hier wählen, ob Joypad von Port 1 standardmäßig 2 oder 6 Tasten besitzen soll. Diese Option wird nur beim Start des Cores ausgeführt. Wenn umgeschaltet werden soll, während der Inhalt läuft, bitte den „Moduswechsel“ verwenden. HINWEIS: Ein 6-Tasten-Joypad kann sich in nicht kompatiblen Spielen seltsam verhalten."
 
 msgctxt "#30052"
 msgid "Choose if port 2 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Hier wählen, ob Joypad von Port 2 standardmäßig 2 oder 6 Tasten besitzen soll. Diese Option wird nur beim Start des Cores ausgeführt. Wenn umgeschaltet werden soll, während der Inhalt läuft, bitte den „Moduswechsel“ verwenden. HINWEIS: Ein 6-Tasten-Joypad kann sich in nicht kompatiblen Spielen seltsam verhalten."
 
 msgctxt "#30053"
 msgid "Choose if port 3 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Hier wählen, ob Joypad von Port 3 standardmäßig 2 oder 6 Tasten besitzen soll. Diese Option wird nur beim Start des Cores ausgeführt. Wenn umgeschaltet werden soll, während der Inhalt läuft, bitte den „Moduswechsel“ verwenden. HINWEIS: Ein 6-Tasten-Joypad kann sich in nicht kompatiblen Spielen seltsam verhalten."
 
 msgctxt "#30054"
 msgid "Choose if port 4 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Hier wählen, ob Joypad von Port 4 standardmäßig 2 oder 6 Tasten besitzen soll. Diese Option wird nur beim Start des Cores ausgeführt. Wenn umgeschaltet werden soll, während der Inhalt läuft, bitte den „Moduswechsel“ verwenden. HINWEIS: Ein 6-Tasten-Joypad kann sich in nicht kompatiblen Spielen seltsam verhalten."
 
 msgctxt "#30055"
 msgid "Choose if port 5 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Hier wählen, ob Joypad von Port 5 standardmäßig 2 oder 6 Tasten besitzen soll. Diese Option wird nur beim Start des Cores ausgeführt. Wenn umgeschaltet werden soll, während der Inhalt läuft, bitte den „Moduswechsel“ verwenden. HINWEIS: Ein 6-Tasten-Joypad kann sich in nicht kompatiblen Spielen seltsam verhalten."
 
 msgctxt "#30056"
 msgid "Enable the turbo toggle hotkeys (buttons III and IV)."
-msgstr ""
+msgstr "Turbo-Umschalt-Hotkeys (Tasten III und IV) aktivieren."
 
 msgctxt "#30057"
 msgid "Assign RetroPad's L3/R3 buttons as turbo toggle hotkeys instead of buttons III and IV. Works only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
-msgstr ""
+msgstr "Die L3/R3-Tasten des RetroPads als Turbo-Umschalt-Hotkeys anstelle der Tasten III und IV verwenden. Funktioniert nur, solange den L3/R3-Tasten nichts zugewiesen wird. Hiermit kann die Umbelegung der Tasten III und IV vermieden werden, wenn zum 6-Tasten-Controller-Modus gewechselt wird."
 
 msgctxt "#30058"
 msgid "Adjust the time between turbo fire (in frames)."
-msgstr ""
+msgstr "Die Zeit zwischen den Turbo-Signalen (in Frames) einstellen."
 
 msgctxt "#30059"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Emulations-Hacks"
 
 msgctxt "#30060"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Parameter für Prozessorübertaktung und Emulationsgenauigkeit, die sich auf die Low-Level-Leistung und Kompatibilität auswirken, anpassen."
 
 msgctxt "#30061"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr ""
+msgstr "Die Hardware-Beschränkung von 16 Sprites pro Scanline entfernen. WARNUNG: Kann bei einigen Spielen zu Grafikfehlern führen."
 
 msgctxt "#30062"
 msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
-msgstr ""
+msgstr "Höhere Werte können Slowdowns in Spielen reduzieren. WARNUNG: Kann Grafikfehler und Abstürze verursachen."
 
 msgctxt "#30063"
 msgid "Advanced Channel Volume Settings"
-msgstr ""
+msgstr "Erweiterte Lautstärkeeinstellungen"
 
 msgctxt "#30064"
 msgid "Configure the volume of individual hardware audio channels."
-msgstr ""
+msgstr "Die Lautstärke der einzelnen Hardware-Audiokanäle anpassen."
 
 msgctxt "#30065"
 msgid "Modify the volume of PSG Sound Channel 0."
-msgstr ""
+msgstr "Die Lautstärke des PSG-Audiokanals 0 anpassen."
 
 msgctxt "#30066"
 msgid "Modify the volume of PSG Sound Channel 1."
-msgstr ""
+msgstr "Die Lautstärke des PSG-Audiokanals 1 anpassen."
 
 msgctxt "#30067"
 msgid "Modify the volume of PSG Sound Channel 2."
-msgstr ""
+msgstr "Die Lautstärke des PSG-Audiokanals 2 anpassen."
 
 msgctxt "#30068"
 msgid "Modify the volume of PSG Sound Channel 3."
-msgstr ""
+msgstr "Die Lautstärke des PSG-Audiokanals 3 anpassen."
 
 msgctxt "#30069"
 msgid "Modify the volume of PSG Sound Channel 4."
-msgstr ""
+msgstr "Die Lautstärke des PSG-Audiokanals 4 anpassen."
 
 msgctxt "#30070"
 msgid "Modify the volume of PSG Sound Channel 5."
-msgstr ""
+msgstr "Die Lautstärke des PSG-Audiokanals 5 anpassen."
 
 msgctxt "#30071"
 msgid "PC Engine CD"
-msgstr ""
+msgstr "PC-Engine-CD"
 
 msgctxt "#30072"
 msgid "Configure settings related to the PC Engine CD emulation."
-msgstr ""
+msgstr "Einstellungen der PC-Engine-CD-Emulation anpassen."
 
 msgctxt "#30073"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "Das komplette Abbild beim Start in den Arbeitsspeicher laden. Kann die Ladezeiten auf Kosten einer längeren Startzeit verkürzen."
 
 msgctxt "#30074"
 msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
-msgstr ""
+msgstr "Die meisten Spiele können auf \"System Card 3\" laufen. \"Games Express\" wird für einige nicht lizenzierte Spiele benötigt."
 
 msgctxt "#30075"
 msgid "Higher values enable faster loading times but can cause issues with a couple of games."
-msgstr ""
+msgstr "Höhere Werte ermöglichen schnellere Ladezeiten, können aber Probleme mit einigen Spielen verursachen."
 
 msgctxt "#30076"
 msgid "1x"
@@ -343,15 +343,15 @@ msgstr ""
 
 msgctxt "#30080"
 msgid "CD game only. Setting this volume control too high may cause sample clipping."
-msgstr ""
+msgstr "Nur für CD-Spiele. Diese Lautstärke zu hoch einzustellen kann zu Übersteuerung führen."
 
 msgctxt "#30081"
 msgid "CD game only. Applies a low-pass filter to CD ADPCM sample playback, reducing high-frequency aliasing/harshness. The cutoff scales with the ADPCM sample rate."
-msgstr ""
+msgstr "Nur für CD-Spiele. Wendet einen Tiefpassfilter auf die Wiedergabe von CD-ADPCM-Samples an, wodurch hochfrequentes Aliasing bzw. ein harter Klang reduziert wird. Die Grenzfrequenz skaliert mit der ADPCM-Abtastrate."
 
 msgctxt "#30082"
 msgid "Ignore EDC/L-EC errors. Needed for compatibility with some hacks."
-msgstr ""
+msgstr "EDC/L-EC-Fehler ignorieren. Dies ist für die Kompatibilität mit einigen Hacks erforderlich."
 
 msgctxt "#30083"
 msgid "15"
@@ -786,45 +786,45 @@ msgstr ""
 #~ msgstr "Einstellungen"
 
 #~ msgctxt "#30015"
-#~ msgid "Turbo Toggle"
-#~ msgstr "Turbo umschalten"
+#~ msgid "P1 Default Joypad Type"
+#~ msgstr "P1 Standard-Joypad-Typ"
 
 #~ msgctxt "#30016"
-#~ msgid "Alternate Turbo Hotkey"
-#~ msgstr "Alternativer Turbo-Hotkey"
+#~ msgid "P2 Default Joypad Type"
+#~ msgstr "P2 Standard-Joypad-Typ"
 
 #~ msgctxt "#30017"
-#~ msgid "Turbo Delay"
-#~ msgstr "Turboverzögerung"
+#~ msgid "P3 Default Joypad Type"
+#~ msgstr "P3 Standard-Joypad-Typ"
 
 #~ msgctxt "#30018"
-#~ msgid "CD Image Cache (Restart Required)"
-#~ msgstr "CD-Abbild-Cache (Neustart erfordelich)"
+#~ msgid "P4 Default Joypad Type"
+#~ msgstr "P4 Standard-Joypad-Typ"
 
 #~ msgctxt "#30019"
+#~ msgid "P5 Default Joypad Type"
+#~ msgstr "P5 Standard-Joypad-Typ"
+
+#~ msgctxt "#30020"
+#~ msgid "Turbo Toggle"
+#~ msgstr "Turbo-Umschalter"
+
+#~ msgctxt "#30021"
+#~ msgid "Alternate Turbo Hotkey"
+#~ msgstr "Alternative Turbo-Hotkeys"
+
+#~ msgctxt "#30022"
+#~ msgid "Turbo Delay"
+#~ msgstr "Turbo-Verzögerung"
+
+#~ msgctxt "#30023"
+#~ msgid "CD Image Cache (Restart Required)"
+#~ msgstr "CD-Abbild-Cache (Neustart erforderlich)"
+
+#~ msgctxt "#30024"
 #~ msgid "CD BIOS (Restart Required)"
 #~ msgstr "CD-BIOS (Neustart erforderlich)"
 
-#~ msgctxt "#30020"
+#~ msgctxt "#30025"
 #~ msgid "(CD) CD Speed"
 #~ msgstr "(CD) CD-Geschwindigkeit"
-
-#~ msgctxt "#30021"
-#~ msgid "(CD) ADPCM Volume %"
-#~ msgstr "(CD) ADPCM-Lautstärke %"
-
-#~ msgctxt "#30022"
-#~ msgid "(CD) CDDA Volume %"
-#~ msgstr "(CD) CDDA-Lautstärke %"
-
-#~ msgctxt "#30023"
-#~ msgid "(CD) PSG Volume %"
-#~ msgstr "(CD) PSG-Lautstärke %"
-
-#~ msgctxt "#30024"
-#~ msgid "No Sprite Limit"
-#~ msgstr "Ohne Sprite-Begrenzung"
-
-#~ msgctxt "#30025"
-#~ msgid "CPU Overclock Multiplier (Restart Required)"
-#~ msgstr "CPU-Übertaktungsmultiplikator (Neustart erforderlich)"

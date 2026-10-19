@@ -155,7 +155,7 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Video"
-msgstr ""
+msgstr "וידאו"
 
 msgctxt "#30034"
 msgid "Configure display cropping, frame skipping and other image output parameters."
@@ -211,7 +211,7 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "Input"
-msgstr ""
+msgstr "קלט"
 
 msgctxt "#30048"
 msgid "Configure light gun, mouse and NegCon input."

@@ -27,131 +27,131 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Color Palette"
-msgstr ""
+msgstr "Kolorpaletro"
 
 msgctxt "#30002"
 msgid "Frameskip"
-msgstr ""
+msgstr "Filmera preterpaso"
 
 msgctxt "#30003"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Sojlo de filmera preterpaso (%)"
 
 msgctxt "#30004"
 msgid "Horizontal Overscan (352 Width Mode Only)"
-msgstr ""
+msgstr "Horizontala superskano (nur reĝimo de larĝo je 352)"
 
 msgctxt "#30005"
 msgid "Initial Scanline"
-msgstr ""
+msgstr "Komenca skanlinio"
 
 msgctxt "#30006"
 msgid "Last Scanline"
-msgstr ""
+msgstr "Lasta skanlinio"
 
 msgctxt "#30007"
 msgid "PSG Sound Channel 0 Volume %"
-msgstr ""
+msgstr "Volumeno de sonkanalo 0 de PSG (%)"
 
 msgctxt "#30008"
 msgid "PSG Sound Channel 1 Volume %"
-msgstr ""
+msgstr "Volumeno de sonkanalo 1 de PSG (%)"
 
 msgctxt "#30009"
 msgid "PSG Sound Channel 2 Volume %"
-msgstr ""
+msgstr "Volumeno de sonkanalo 2 de PSG (%)"
 
 msgctxt "#30010"
 msgid "PSG Sound Channel 3 Volume %"
-msgstr ""
+msgstr "Volumeno de sonkanalo 3 de PSG (%)"
 
 msgctxt "#30011"
 msgid "PSG Sound Channel 4 Volume %"
-msgstr ""
+msgstr "Volumeno de sonkanalo 4 de PSG (%)"
 
 msgctxt "#30012"
 msgid "PSG Sound Channel 5 Volume %"
-msgstr ""
+msgstr "Volumeno de sonkanalo 5 de PSG (%)"
 
 msgctxt "#30013"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Musa sentemo"
 
 msgctxt "#30014"
 msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr ""
+msgstr "Malebligi partan restartigon (RUN+SELECT)"
 
 msgctxt "#30015"
 msgid "P1 Default Joypad Type"
-msgstr ""
+msgstr "Defaŭlta ludregila speco de konektejo 1"
 
 msgctxt "#30016"
 msgid "P2 Default Joypad Type"
-msgstr ""
+msgstr "Defaŭlta ludregila speco de konektejo 2"
 
 msgctxt "#30017"
 msgid "P3 Default Joypad Type"
-msgstr ""
+msgstr "Defaŭlta ludregila speco de konektejo 3"
 
 msgctxt "#30018"
 msgid "P4 Default Joypad Type"
-msgstr ""
+msgstr "Defaŭlta ludregila speco de konektejo 4"
 
 msgctxt "#30019"
 msgid "P5 Default Joypad Type"
-msgstr ""
+msgstr "Defaŭlta ludregila speco de konektejo 5"
 
 msgctxt "#30020"
 msgid "Turbo Toggle"
-msgstr ""
+msgstr "Ŝalti adan aktivigon"
 
 msgctxt "#30021"
 msgid "Alternate Turbo Hotkey"
-msgstr ""
+msgstr "Alternativa fulmoklavo de ada aktivigo"
 
 msgctxt "#30022"
 msgid "Turbo Delay"
-msgstr ""
+msgstr "Prokrasto de ada aktivigo"
 
 msgctxt "#30023"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "Kaŝmemoro de KD-a kopio (bezonas restartigon)"
 
 msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
-msgstr ""
+msgstr "KD-a BIOS (bezonas restartigon)"
 
 msgctxt "#30025"
 msgid "(CD) CD Speed"
-msgstr ""
+msgstr "(KD) KD-a rapido"
 
 msgctxt "#30026"
 msgid "(CD) ADPCM Volume %"
-msgstr ""
+msgstr "(KD) volumeno de ADPCM (%)"
 
 msgctxt "#30027"
 msgid "(CD) CDDA Volume %"
-msgstr ""
+msgstr "(KD) Volumeno de CDDA (%)"
 
 msgctxt "#30028"
 msgid "(CD) PSG Volume %"
-msgstr ""
+msgstr "(KD) Volumeno de PSG (%)"
 
 msgctxt "#30029"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "Sen limo de \"sprites\""
 
 msgctxt "#30030"
 msgid "CPU Overclock Multiplier (Restart Required)"
-msgstr ""
+msgstr "Obligilo de ĉefprocesora trorapidigo (bezonas restaratigon)"
 
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
-msgstr ""
+msgstr "Ignori erarojn EDC/L-EC de KD"
 
 msgctxt "#30032"
 msgid "(CD) ADPCM Low-pass Filter"
-msgstr ""
+msgstr "(KD) Malaltpasa filtrilo de ADPCM"
 
 msgctxt "#30033"
 msgid "Video"
@@ -159,171 +159,171 @@ msgstr ""
 
 msgctxt "#30034"
 msgid "Configure display cropping, frame skipping and other image output parameters."
-msgstr ""
+msgstr "Konfiguri ekranan stucadon, filmeran pretarpasadon kaj aliajn parametrojn de bilda eligo."
 
 msgctxt "#30035"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr ""
+msgstr "\"Kunmetita\" provas rekrei la originalan konzolan eligon kaj povas montri pli da detajloj en kelkaj ludoj."
 
 msgctxt "#30036"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Preterpasi filmerojn por eviti saturi la sonan bufron (krevsonoj). Plibonigas rendimenton kontraŭ vida glateco. \"Aŭtomate\" preterpasas filmerojn kiam admonita de la fasado. \"Permana\" utiligas la agordon \"Sojlo de filmera preterpaso (%)\"."
 
 msgctxt "#30037"
 msgid "Auto"
-msgstr ""
+msgstr "Aŭtomata"
 
 msgctxt "#30038"
 msgid "Manual"
-msgstr ""
+msgstr "Permana"
 
 msgctxt "#30039"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Kiam \"Filmera preterpaso\" estas agordita al \"Permana\", ĝi specifas la okupadan sojlon de la sona bufro (je procento) sub kiu filmeroj estos preterpasataj. Pli altaj valoroj malpliigas la riskon de krevsonoj farigante al filmeroj malpliiĝi pli ofte."
 
 msgctxt "#30040"
 msgid "33 (Default)"
-msgstr ""
+msgstr "33 (defaŭlta)"
 
 msgctxt "#30041"
 msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
-msgstr ""
+msgstr "Elekti la maksimuman bildan larĝon monstrotan. Pli malaltaj valoroj stucos la dekstran flankon de la bildo (por ludoj je larĝo de 352 bilderoj)."
 
 msgctxt "#30042"
 msgid "352 (Default)"
-msgstr ""
+msgstr "352 (defaŭlta)"
 
 msgctxt "#30043"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "Unue bildigita skanlinio. Pli altaj valoroj stucos la supron de la bildo."
 
 msgctxt "#30044"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (defaŭlte)"
 
 msgctxt "#30045"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "Laste bildigita skanlinio. Pli malaltaj valoroj stucos la malsupron de la bildo."
 
 msgctxt "#30046"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (defaŭlte)"
 
 msgctxt "#30047"
 msgid "Input"
-msgstr ""
+msgstr "Enigo"
 
 msgctxt "#30048"
 msgid "Configure light gun, mouse and NegCon input."
-msgstr ""
+msgstr "Konfiguri enigon de \"light gun\", muso kaj NegCon."
 
 msgctxt "#30049"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "Pli altaj valoroj faros, ke la musindikilo moviĝu pli rapide."
 
 msgctxt "#30050"
 msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
-msgstr ""
+msgstr "Kiam RUN kaj SELECT estas premtataj samtempe, malebligi ambaŭ butonojn portempe anstataŭ resartigante."
 
 msgctxt "#30051"
 msgid "Choose if port 1 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Elekti se la ludregilo de konektejo 1 devus esti 2- aŭ 6-butona defaŭlte. Ĉi tiu opcio nur aplikiĝas kiam la kerno startas, se vi volas ŝanĝi dum enhavo ruliĝas, uzu la butonon \"Ŝanĝi reĝimon\". NOTO: 6-butonaj ludregiloj povas havi strangajn kondutojn en nekongruaj ludoj."
 
 msgctxt "#30052"
 msgid "Choose if port 2 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Elekti se la ludregilo de konektejo 2 devus esti 2- aŭ 6-butona defaŭlte. Ĉi tiu opcio nur aplikiĝas kiam la kerno startas, se vi volas ŝanĝi dum enhavo ruliĝas, uzu la butonon \"Ŝanĝi reĝimon\". NOTO: 6-butonaj ludregiloj povas havi strangajn kondutojn en nekongruaj ludoj."
 
 msgctxt "#30053"
 msgid "Choose if port 3 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Elekti se la ludregilo de konektejo 3 devus esti 2- aŭ 6-butona defaŭlte. Ĉi tiu opcio nur aplikiĝas kiam la kerno startas, se vi volas ŝanĝi dum enhavo ruliĝas, uzu la butonon \"Ŝanĝi reĝimon\". NOTO: 6-butonaj ludregiloj povas havi strangajn kondutojn en nekongruaj ludoj."
 
 msgctxt "#30054"
 msgid "Choose if port 4 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Elekti se la ludregilo de konektejo 4 devus esti 2- aŭ 6-butona defaŭlte. Ĉi tiu opcio nur aplikiĝas kiam la kerno startas, se vi volas ŝanĝi dum enhavo ruliĝas, uzu la butonon \"Ŝanĝi reĝimon\". NOTO: 6-butonaj ludregiloj povas havi strangajn kondutojn en nekongruaj ludoj."
 
 msgctxt "#30055"
 msgid "Choose if port 5 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Elekti se la ludregilo de konektejo 5 devus esti 2- aŭ 6-butona defaŭlte. Ĉi tiu opcio nur aplikiĝas kiam la kerno startas, se vi volas ŝanĝi dum enhavo ruliĝas, uzu la butonon \"Ŝanĝi reĝimon\". NOTO: 6-butonaj ludregiloj povas havi strangajn kondutojn en nekongruaj ludoj."
 
 msgctxt "#30056"
 msgid "Enable the turbo toggle hotkeys (buttons III and IV)."
-msgstr ""
+msgstr "Ebligi la fulmoklavojn ŝalti adan aktivigon (butonoj III kaj IV)."
 
 msgctxt "#30057"
 msgid "Assign RetroPad's L3/R3 buttons as turbo toggle hotkeys instead of buttons III and IV. Works only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
-msgstr ""
+msgstr "Asigni la butonojn L3/R3 de RetroPad kiel fulmoklavoj de ada aktivigo anstataŭ la butonoj III kaj IV. Nur funkcias dum nenio estas asignita al la butonoj L3/R3. Oni povas eviti reasigni la butonojn III kaj IV kiam ŝanĝante al reĝimo de 6-butona regilo per ĉi tio."
 
 msgctxt "#30058"
 msgid "Adjust the time between turbo fire (in frames)."
-msgstr ""
+msgstr "Alĝustigi la tempon inter ada aktivigo (je filmeroj)."
 
 msgctxt "#30059"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Imitadaj kodumaĵoj"
 
 msgctxt "#30060"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Konfiguri parametrojn de procesora trorapidigo kaj imitada precizo influantajn malaltnivelan rendimenton kaj kongrueblecon."
 
 msgctxt "#30061"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr ""
+msgstr "Forigu la limon de 16 \"sprites\" per skanlinio. AVERTO: ĉi tio povas kaŭzi grafikajn missignalojn en kelkaj ludoj."
 
 msgctxt "#30062"
 msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
-msgstr ""
+msgstr "Pli altaj valoroj povas malpliigi malrapidigojn en ludoj. AVERTO: povas kaŭzi missignalojn kaj kolapsojn."
 
 msgctxt "#30063"
 msgid "Advanced Channel Volume Settings"
-msgstr ""
+msgstr "Altnivelaj agordoj de volumeno de kanaloj"
 
 msgctxt "#30064"
 msgid "Configure the volume of individual hardware audio channels."
-msgstr ""
+msgstr "Konfiguri la volumenon de individuaj aparataraj sonkanaloj."
 
 msgctxt "#30065"
 msgid "Modify the volume of PSG Sound Channel 0."
-msgstr ""
+msgstr "Modifi la volumenon de la sonkanalo 0 de PSG."
 
 msgctxt "#30066"
 msgid "Modify the volume of PSG Sound Channel 1."
-msgstr ""
+msgstr "Modifi la volumenon de la sonkanalo 1 de PSG."
 
 msgctxt "#30067"
 msgid "Modify the volume of PSG Sound Channel 2."
-msgstr ""
+msgstr "Modifi la volumenon de la sonkanalo 2 de PSG."
 
 msgctxt "#30068"
 msgid "Modify the volume of PSG Sound Channel 3."
-msgstr ""
+msgstr "Modifi la volumenon de la sonkanalo 3 de PSG."
 
 msgctxt "#30069"
 msgid "Modify the volume of PSG Sound Channel 4."
-msgstr ""
+msgstr "Modifi la volumenon de la sonkanalo 4 de PSG."
 
 msgctxt "#30070"
 msgid "Modify the volume of PSG Sound Channel 5."
-msgstr ""
+msgstr "Modifi la volumenon de la sonkanalo 5 de PSG."
 
 msgctxt "#30071"
 msgid "PC Engine CD"
-msgstr ""
+msgstr "KD de personkomputila motoro"
 
 msgctxt "#30072"
 msgid "Configure settings related to the PC Engine CD emulation."
-msgstr ""
+msgstr "Konfiguri agordojn rilatajn al la imitado de KD de personkomputila motoro."
 
 msgctxt "#30073"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "Ŝargi la kompletan ekzaktan kopion en memoron ĉe startigo. Povas eble malpliigi ŝargotempojn kontraŭ pliigita startigtempo."
 
 msgctxt "#30074"
 msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
-msgstr ""
+msgstr "La plej multo de la ludoj povas ruliĝi en \"System Card 3\". \"Games Express\" estas bezonata por multaj senlicencaj ludoj."
 
 msgctxt "#30075"
 msgid "Higher values enable faster loading times but can cause issues with a couple of games."
-msgstr ""
+msgstr "Pli altaj valoroj ebligas pli rapidajn ŝargotempojn, sed povas kaŭzi problemojn kun kelkaj ludoj."
 
 msgctxt "#30076"
 msgid "1x"
@@ -343,15 +343,15 @@ msgstr ""
 
 msgctxt "#30080"
 msgid "CD game only. Setting this volume control too high may cause sample clipping."
-msgstr ""
+msgstr "Nur por KD-aj ludoj. Agordi ĉi tiun volumenregilon tro alte povus saturi la sonpecojn."
 
 msgctxt "#30081"
 msgid "CD game only. Applies a low-pass filter to CD ADPCM sample playback, reducing high-frequency aliasing/harshness. The cutoff scales with the ADPCM sample rate."
-msgstr ""
+msgstr "Nur por KD-aj ludoj. Aplikas malaltpasan filtrilon al ludado de sonpecoj de KD-a ADPCM, malpliigante altoftecan malglatigon. La limo skaliĝos kun la sonpeca ofteco de la ADPCM."
 
 msgctxt "#30082"
 msgid "Ignore EDC/L-EC errors. Needed for compatibility with some hacks."
-msgstr ""
+msgstr "Ignori erarojn EDC/L-EC. Bezonata por kongrueco kun kelkaj kodumoj."
 
 msgctxt "#30083"
 msgid "15"

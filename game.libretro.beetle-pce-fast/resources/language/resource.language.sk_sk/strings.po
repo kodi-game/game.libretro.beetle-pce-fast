@@ -27,131 +27,131 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Color Palette"
-msgstr ""
+msgstr "Farebná paleta"
 
 msgctxt "#30002"
 msgid "Frameskip"
-msgstr ""
+msgstr "Preskočenie snímky"
 
 msgctxt "#30003"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Prah preskočenia snímky (%)"
 
 msgctxt "#30004"
 msgid "Horizontal Overscan (352 Width Mode Only)"
-msgstr ""
+msgstr "Horizontálny overscan (iba režim šírky 352)"
 
 msgctxt "#30005"
 msgid "Initial Scanline"
-msgstr ""
+msgstr "Počiatočný riadok"
 
 msgctxt "#30006"
 msgid "Last Scanline"
-msgstr ""
+msgstr "Posledný viditeľný riadok"
 
 msgctxt "#30007"
 msgid "PSG Sound Channel 0 Volume %"
-msgstr ""
+msgstr "Hlasitosť PSG zvukového kanála 0 %"
 
 msgctxt "#30008"
 msgid "PSG Sound Channel 1 Volume %"
-msgstr ""
+msgstr "Hlasitosť PSG zvukového kanála 1 %"
 
 msgctxt "#30009"
 msgid "PSG Sound Channel 2 Volume %"
-msgstr ""
+msgstr "Hlasitosť PSG zvukového kanála 2 %"
 
 msgctxt "#30010"
 msgid "PSG Sound Channel 3 Volume %"
-msgstr ""
+msgstr "Hlasitosť PSG zvukového kanála 3 %"
 
 msgctxt "#30011"
 msgid "PSG Sound Channel 4 Volume %"
-msgstr ""
+msgstr "Hlasitosť PSG zvukového kanála 4 %"
 
 msgctxt "#30012"
 msgid "PSG Sound Channel 5 Volume %"
-msgstr ""
+msgstr "Hlasitosť PSG zvukového kanála 5 %"
 
 msgctxt "#30013"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Citlivosť myši"
 
 msgctxt "#30014"
 msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr ""
+msgstr "Vypnúť mäkký reset (RUN+SELECT)"
 
 msgctxt "#30015"
 msgid "P1 Default Joypad Type"
-msgstr ""
+msgstr "Alternatívny hotkey turba"
 
 msgctxt "#30016"
 msgid "P2 Default Joypad Type"
-msgstr ""
+msgstr "Predvolený typ joypadu P2"
 
 msgctxt "#30017"
 msgid "P3 Default Joypad Type"
-msgstr ""
+msgstr "Predvolený typ joypadu P3"
 
 msgctxt "#30018"
 msgid "P4 Default Joypad Type"
-msgstr ""
+msgstr "Predvolený typ joypadu P4"
 
 msgctxt "#30019"
 msgid "P5 Default Joypad Type"
-msgstr ""
+msgstr "Predvolený typ joypadu P5"
 
 msgctxt "#30020"
 msgid "Turbo Toggle"
-msgstr ""
+msgstr "Prepínač turba"
 
 msgctxt "#30021"
 msgid "Alternate Turbo Hotkey"
-msgstr ""
+msgstr "Alternatívny hotkey turba"
 
 msgctxt "#30022"
 msgid "Turbo Delay"
-msgstr ""
+msgstr "Trvanie Turbo"
 
 msgctxt "#30023"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "Vyrovnávacia pamäť obrazu CD (vyžaduje reštart)"
 
 msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
-msgstr ""
+msgstr "CD BIOS (vyžaduje reštart)"
 
 msgctxt "#30025"
 msgid "(CD) CD Speed"
-msgstr ""
+msgstr "(CD) CD rýchlosť"
 
 msgctxt "#30026"
 msgid "(CD) ADPCM Volume %"
-msgstr ""
+msgstr "(CD) ADPCM hlasitosť %"
 
 msgctxt "#30027"
 msgid "(CD) CDDA Volume %"
-msgstr ""
+msgstr "(CD) CDDA hlasitosť %"
 
 msgctxt "#30028"
 msgid "(CD) PSG Volume %"
-msgstr ""
+msgstr "(CD) PSG hlasitosť %"
 
 msgctxt "#30029"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "Žiadny limit spritu"
 
 msgctxt "#30030"
 msgid "CPU Overclock Multiplier (Restart Required)"
-msgstr ""
+msgstr "Násobič pretaktovania CPU (vyžaduje reštart)"
 
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
-msgstr ""
+msgstr "Ignorovať chyby CD EDC/L-EC"
 
 msgctxt "#30032"
 msgid "(CD) ADPCM Low-pass Filter"
-msgstr ""
+msgstr "(CD) ADPCM dolná priepusť"
 
 msgctxt "#30033"
 msgid "Video"
@@ -159,15 +159,15 @@ msgstr ""
 
 msgctxt "#30034"
 msgid "Configure display cropping, frame skipping and other image output parameters."
-msgstr ""
+msgstr "Nakonfigurujte orezanie obrazu, vynechávanie snímok a ďalšie parametre obrazového výstupu."
 
 msgctxt "#30035"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr ""
+msgstr "Composite sa snaží napodobniť pôvodný výstup konzoly a v niektorých hrách môže ukázať viac detailov."
 
 msgctxt "#30036"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Vynechá snímky, aby sa predišlo podtoku zvukového bufferu (praskanie). Zlepšuje výkon na úkor plynulosti obrazu. 'Auto' vynecháva snímky, keď to odporúča frontend. 'Manual' využíva nastavenie 'Frameskip Threshold (%)'."
 
 msgctxt "#30037"
 msgid "Auto"
@@ -175,135 +175,135 @@ msgstr ""
 
 msgctxt "#30038"
 msgid "Manual"
-msgstr ""
+msgstr "Ručne"
 
 msgctxt "#30039"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Ak je 'Preskočenie snímkov' nastavené na 'Ručne', určuje obsadenosť zvukového zásobníka (v percentách) pod ktorou budú snímky preskočené. Vyššie hodnoty znižujú riziko praskania za cenu zahodenia snímkov častejšie."
 
 msgctxt "#30040"
 msgid "33 (Default)"
-msgstr ""
+msgstr "33 (predvolené)"
 
 msgctxt "#30041"
 msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
-msgstr ""
+msgstr "Vyberte maximálnu šírku zobrazenia obrazu. Nižšie hodnoty orežú pravú stranu obrazu (pre hry so šírkou 352 px)."
 
 msgctxt "#30042"
 msgid "352 (Default)"
-msgstr ""
+msgstr "352 (predvolené)"
 
 msgctxt "#30043"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "Prvý vyrenderovaný riadok. Vyššie hodnoty orežú vrchnú časť obrazu."
 
 msgctxt "#30044"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (predvolené)"
 
 msgctxt "#30045"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "Posledný vyrenderovaný riadok. Nižšie hodnoty orežú spodnú časť obrazu."
 
 msgctxt "#30046"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (predvolené)"
 
 msgctxt "#30047"
 msgid "Input"
-msgstr ""
+msgstr "Vstup"
 
 msgctxt "#30048"
 msgid "Configure light gun, mouse and NegCon input."
-msgstr ""
+msgstr "Nakonfigurujte vstup svetelnej pištole, myši a NegCon."
 
 msgctxt "#30049"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "Vyššie hodnoty spôsobia, že sa kurzor myši bude pohybovať rýchlejšie."
 
 msgctxt "#30050"
 msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
-msgstr ""
+msgstr "Pri súčasnom stlačení RUN a SELECT dočasne vypne obe tlačidlá namiesto resetu."
 
 msgctxt "#30051"
 msgid "Choose if port 1 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Vyberte, či má joypad portu 1 mať predvolene 2 alebo 6 tlačidiel. Táto možnosť sa použije len pri spustení jadra; ak chcete prepnúť počas behu, použite tlačidlo 'Mode Switch'. POZN.: Joypad so 6 tlačidlami môže mať v nekompatibilných hrách čudné správanie."
 
 msgctxt "#30052"
 msgid "Choose if port 2 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Vyberte, či má joypad portu 2 mať predvolene 2 alebo 6 tlačidiel. Táto možnosť sa použije len pri spustení jadra; ak chcete prepnúť počas behu, použite tlačidlo 'Mode Switch'. POZN.: Joypad so 6 tlačidlami môže mať v nekompatibilných hrách čudné správanie."
 
 msgctxt "#30053"
 msgid "Choose if port 3 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Vyberte, či má joypad portu 3 mať predvolene 2 alebo 6 tlačidiel. Táto možnosť sa použije len pri spustení jadra; ak chcete prepnúť počas behu, použite tlačidlo 'Mode Switch'. POZN.: Joypad so 6 tlačidlami môže mať v nekompatibilných hrách čudné správanie."
 
 msgctxt "#30054"
 msgid "Choose if port 4 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Vyberte, či má joypad portu 4 mať predvolene 2 alebo 6 tlačidiel. Táto možnosť sa použije len pri spustení jadra; ak chcete prepnúť počas behu, použite tlačidlo 'Mode Switch'. POZN.: Joypad so 6 tlačidlami môže mať v nekompatibilných hrách čudné správanie."
 
 msgctxt "#30055"
 msgid "Choose if port 5 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Vyberte, či má joypad portu 5 mať predvolene 2 alebo 6 tlačidiel. Táto možnosť sa použije len pri spustení jadra; ak chcete prepnúť počas behu, použite tlačidlo 'Mode Switch'. POZN.: Joypad so 6 tlačidlami môže mať v nekompatibilných hrách čudné správanie."
 
 msgctxt "#30056"
 msgid "Enable the turbo toggle hotkeys (buttons III and IV)."
-msgstr ""
+msgstr "Zapnúť hotkey na prepínanie turba (tlačidlá III a IV)."
 
 msgctxt "#30057"
 msgid "Assign RetroPad's L3/R3 buttons as turbo toggle hotkeys instead of buttons III and IV. Works only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
-msgstr ""
+msgstr "Priradí tlačidlá L3/R3 RetroPadu ako hotkey pre prepínanie turba namiesto tlačidiel III a IV. Funguje len ak nie je nič priradené k tlačidlám L3/R3. Vďaka tomu sa pri prepnutí na 6-tlačidlový režim ovládača vyhnete remappingu tlačidiel III a IV."
 
 msgctxt "#30058"
 msgid "Adjust the time between turbo fire (in frames)."
-msgstr ""
+msgstr "Upraviť čas medzi turbo paľbou (v snímkoch)."
 
 msgctxt "#30059"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Emulačné hacky"
 
 msgctxt "#30060"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Nakonfigurujte parametre pretaktovania procesora a presnosti emulácie ovplyvňujúce nízkoúrovňový výkon a kompatibilitu."
 
 msgctxt "#30061"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr ""
+msgstr "Odstrániť hardvérový limit 16 spritov na riadok. UPOZORNENIE: Môže spôsobiť grafické chyby v niektorých hrách."
 
 msgctxt "#30062"
 msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
-msgstr ""
+msgstr "Vyššie hodnoty môžu znížiť spomalenia v hrách. UPOZORNENIE: Môže spôsobiť grafické chyby a pády."
 
 msgctxt "#30063"
 msgid "Advanced Channel Volume Settings"
-msgstr ""
+msgstr "Pokročilé nastavenia hlasitosti kanálov"
 
 msgctxt "#30064"
 msgid "Configure the volume of individual hardware audio channels."
-msgstr ""
+msgstr "Nakonfigurujte hlasitosť jednotlivých hardvérových zvukových kanálov."
 
 msgctxt "#30065"
 msgid "Modify the volume of PSG Sound Channel 0."
-msgstr ""
+msgstr "Upraviť hlasitosť PSG zvukového kanála 0."
 
 msgctxt "#30066"
 msgid "Modify the volume of PSG Sound Channel 1."
-msgstr ""
+msgstr "Upraviť hlasitosť PSG zvukového kanála 1."
 
 msgctxt "#30067"
 msgid "Modify the volume of PSG Sound Channel 2."
-msgstr ""
+msgstr "Upraviť hlasitosť PSG zvukového kanála 2."
 
 msgctxt "#30068"
 msgid "Modify the volume of PSG Sound Channel 3."
-msgstr ""
+msgstr "Upraviť hlasitosť PSG zvukového kanála 3."
 
 msgctxt "#30069"
 msgid "Modify the volume of PSG Sound Channel 4."
-msgstr ""
+msgstr "Upraviť hlasitosť PSG zvukového kanála 4."
 
 msgctxt "#30070"
 msgid "Modify the volume of PSG Sound Channel 5."
-msgstr ""
+msgstr "Upraviť hlasitosť PSG zvukového kanála 5."
 
 msgctxt "#30071"
 msgid "PC Engine CD"
@@ -311,19 +311,19 @@ msgstr ""
 
 msgctxt "#30072"
 msgid "Configure settings related to the PC Engine CD emulation."
-msgstr ""
+msgstr "Nakonfigurujte nastavenia týkajúce sa emulácie PC Engine CD."
 
 msgctxt "#30073"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "Načítať celý obraz do pamäte pri spustení. Môže potenciálne znížiť časy načítania na úkor zvýšeného času spustenia."
 
 msgctxt "#30074"
 msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
-msgstr ""
+msgstr "Väčšina hier môže bežať na 'System Card 3'. 'Games Express' je potrebný pre niekoľko nelicencovaných hier."
 
 msgctxt "#30075"
 msgid "Higher values enable faster loading times but can cause issues with a couple of games."
-msgstr ""
+msgstr "Vyššie hodnoty umožňujú rýchlejšie časy načítania, ale môžu spôsobiť problémy v niektorých hrách."
 
 msgctxt "#30076"
 msgid "1x"
@@ -343,15 +343,15 @@ msgstr ""
 
 msgctxt "#30080"
 msgid "CD game only. Setting this volume control too high may cause sample clipping."
-msgstr ""
+msgstr "Iba CD hry. Príliš vysoké nastavenie tejto hlasitosti môže spôsobiť orezanie vzoriek."
 
 msgctxt "#30081"
 msgid "CD game only. Applies a low-pass filter to CD ADPCM sample playback, reducing high-frequency aliasing/harshness. The cutoff scales with the ADPCM sample rate."
-msgstr ""
+msgstr "Len pre CD hry. Aplikuje dolnú priepusť na prehrávanie ADPCM vzoriek z CD, čím sa zníži vysokofrekvenčný aliasing/ostrosť. Medzná frekvencia sa mení podľa vzorkovacej frekvencie ADPCM."
 
 msgctxt "#30082"
 msgid "Ignore EDC/L-EC errors. Needed for compatibility with some hacks."
-msgstr ""
+msgstr "Ignorovať chyby EDC/L-EC. Potrebné na kompatibilitu s niektorými hackmi."
 
 msgctxt "#30083"
 msgid "15"
