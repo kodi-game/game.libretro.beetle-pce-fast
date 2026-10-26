@@ -163,7 +163,7 @@ msgstr "Cambia las opciones de relación de aspecto, omisión de fotogramas y ot
 
 msgctxt "#30035"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr "«Vídeo compuesto» intentará recrear la salida de vídeo original de la consola, mostrando más detalles en algunos juegos."
+msgstr "Vídeo compuesto intentará recrear la salida de vídeo original de la consola, mostrando más detalles en algunos juegos."
 
 msgctxt "#30036"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
@@ -215,7 +215,7 @@ msgstr "Entrada"
 
 msgctxt "#30048"
 msgid "Configure light gun, mouse and NegCon input."
-msgstr "Configura la entrada de las pistolas de luz, el ratón o el NegCon."
+msgstr "Configura la entrada de las lightguns (pistolas de luz), el ratón o el NegCon."
 
 msgctxt "#30049"
 msgid "Higher values will make the mouse cursor move faster."
@@ -319,7 +319,7 @@ msgstr "Carga la imagen de CD entera en la memoria al arrancar. Podría reducir 
 
 msgctxt "#30074"
 msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
-msgstr "La mayoría de juegos pueden ejecutarse con «System Card 3». «Games Express» es necesario para varios juegos sin licencia."
+msgstr "La mayoría de juegos pueden ejecutarse con System Card 3. Games Express es necesario para varios juegos sin licencia."
 
 msgctxt "#30075"
 msgid "Higher values enable faster loading times but can cause issues with a couple of games."

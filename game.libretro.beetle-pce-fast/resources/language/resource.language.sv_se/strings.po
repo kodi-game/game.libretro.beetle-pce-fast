@@ -83,23 +83,23 @@ msgstr "Inaktivera mjukåterställning (RUN+SELECT)"
 
 msgctxt "#30015"
 msgid "P1 Default Joypad Type"
-msgstr "Standard joypad-typ för spelare 1 (P1)"
+msgstr "Standardhandkontrolltyp för spelare 1 (P1)"
 
 msgctxt "#30016"
 msgid "P2 Default Joypad Type"
-msgstr "Standard joypad-typ för spelare 2 (P2)"
+msgstr "Standardhandkontrolltyp för spelare 2 (P2)"
 
 msgctxt "#30017"
 msgid "P3 Default Joypad Type"
-msgstr "Standard joypad-typ för spelare 3 (P3)"
+msgstr "Standardhandkontrolltyp för spelare 3 (P3)"
 
 msgctxt "#30018"
 msgid "P4 Default Joypad Type"
-msgstr "Standard joypad-typ för spelare 4 (P4)"
+msgstr "Standardhandkontrolltyp för spelare 4 (P4)"
 
 msgctxt "#30019"
 msgid "P5 Default Joypad Type"
-msgstr "Standard joypad-typ för spelare 5 (P5)"
+msgstr "Standardhandkontrolltyp för spelare 5 (P5)"
 
 msgctxt "#30020"
 msgid "Turbo Toggle"
