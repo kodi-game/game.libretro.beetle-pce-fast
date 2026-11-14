@@ -121,22 +121,6 @@ msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
 msgstr "BIOS CD (требуется перезапуск)"
 
-msgctxt "#30025"
-msgid "(CD) CD Speed"
-msgstr "(CD) Скорость CD"
-
-msgctxt "#30026"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) Громкость ADPCM"
-
-msgctxt "#30027"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) Громкость CDDA"
-
-msgctxt "#30028"
-msgid "(CD) PSG Volume %"
-msgstr "(CD) Громкость PSG"
-
 msgctxt "#30029"
 msgid "No Sprite Limit"
 msgstr "Без ограничения спрайтов"
@@ -148,10 +132,6 @@ msgstr "Множитель разгона CPU (требуется перезап
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
 msgstr "Игнорировать ошибки EDC/L-EC"
-
-msgctxt "#30032"
-msgid "(CD) ADPCM Low-pass Filter"
-msgstr "(CD) Фильтр нижних частот ADPCM"
 
 msgctxt "#30033"
 msgid "Video"
@@ -780,6 +760,46 @@ msgstr "240"
 msgctxt "#30189"
 msgid "241"
 msgstr "241"
+
+msgctxt "#30190"
+msgid "CD Speed"
+msgstr "Cкорость CD"
+
+msgctxt "#30191"
+msgid "ADPCM Volume %"
+msgstr "Громкость ADPCM (%)"
+
+msgctxt "#30192"
+msgid "ADPCM Low-pass Filter"
+msgstr "Фильтр нижних частот ADPCM"
+
+msgctxt "#30193"
+msgid "CDDA Volume %"
+msgstr "Громкость CDDA (%)"
+
+msgctxt "#30194"
+msgid "CD PSG Volume %"
+msgstr "Громкость PSG (%)"
+
+#~ msgctxt "#30025"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) Скорость CD"
+
+#~ msgctxt "#30026"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) Громкость ADPCM"
+
+#~ msgctxt "#30027"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) Громкость CDDA"
+
+#~ msgctxt "#30028"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "(CD) Громкость PSG"
+
+#~ msgctxt "#30032"
+#~ msgid "(CD) ADPCM Low-pass Filter"
+#~ msgstr "(CD) Фильтр нижних частот ADPCM"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

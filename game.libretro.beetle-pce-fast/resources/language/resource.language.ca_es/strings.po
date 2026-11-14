@@ -121,22 +121,6 @@ msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
 msgstr "BIOS CD (Es requereix reinici)"
 
-msgctxt "#30025"
-msgid "(CD) CD Speed"
-msgstr "(CD) Velocitat del CD"
-
-msgctxt "#30026"
-msgid "(CD) ADPCM Volume %"
-msgstr "Volum CD ADPCM %"
-
-msgctxt "#30027"
-msgid "(CD) CDDA Volume %"
-msgstr "Volum CD CDDA %"
-
-msgctxt "#30028"
-msgid "(CD) PSG Volume %"
-msgstr "Volum CD PSG %"
-
 msgctxt "#30029"
 msgid "No Sprite Limit"
 msgstr "Desactivar límit de sprites"
@@ -148,10 +132,6 @@ msgstr "Multiplicador de la velocitat de la CPU (Es requereix reinici)"
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
 msgstr "Ignora els errors de EDC/L-EC del CD"
-
-msgctxt "#30032"
-msgid "(CD) ADPCM Low-pass Filter"
-msgstr "Filtre passabaix de ADPCM (CD)"
 
 msgctxt "#30033"
 msgid "Video"
@@ -780,3 +760,43 @@ msgstr ""
 msgctxt "#30189"
 msgid "241"
 msgstr ""
+
+msgctxt "#30190"
+msgid "CD Speed"
+msgstr "Velocitat de CD"
+
+msgctxt "#30191"
+msgid "ADPCM Volume %"
+msgstr "Volum de ADPCM %"
+
+msgctxt "#30192"
+msgid "ADPCM Low-pass Filter"
+msgstr "Filtre passabaix de ADPCM"
+
+msgctxt "#30193"
+msgid "CDDA Volume %"
+msgstr "Volum de CDDA %"
+
+msgctxt "#30194"
+msgid "CD PSG Volume %"
+msgstr "Volum CD PSG %"
+
+#~ msgctxt "#30025"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) Velocitat del CD"
+
+#~ msgctxt "#30026"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "Volum CD ADPCM %"
+
+#~ msgctxt "#30027"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "Volum CD CDDA %"
+
+#~ msgctxt "#30028"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "Volum CD PSG %"
+
+#~ msgctxt "#30032"
+#~ msgid "(CD) ADPCM Low-pass Filter"
+#~ msgstr "Filtre passabaix de ADPCM (CD)"

@@ -121,22 +121,6 @@ msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
 msgstr "CD BIOS (Yeniden Başlatılmalı)"
 
-msgctxt "#30025"
-msgid "(CD) CD Speed"
-msgstr "(CD) CD Hızı"
-
-msgctxt "#30026"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) ADPCM Ses Seviyesi %"
-
-msgctxt "#30027"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) CDDA Ses Seviyesi %"
-
-msgctxt "#30028"
-msgid "(CD) PSG Volume %"
-msgstr "(CD) PSG Ses Seviyesi %"
-
 msgctxt "#30029"
 msgid "No Sprite Limit"
 msgstr "Hareket Sınırını Kaldır"
@@ -147,10 +131,6 @@ msgstr "CPU Hız Aşırtma Çarpanı (Yeniden Başlatılmalı)"
 
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
-msgstr ""
-
-msgctxt "#30032"
-msgid "(CD) ADPCM Low-pass Filter"
 msgstr ""
 
 msgctxt "#30033"
@@ -780,3 +760,43 @@ msgstr ""
 msgctxt "#30189"
 msgid "241"
 msgstr ""
+
+msgctxt "#30190"
+msgid "CD Speed"
+msgstr "CD Hızı"
+
+msgctxt "#30191"
+msgid "ADPCM Volume %"
+msgstr "ADPCM Ses Seviyesi %"
+
+msgctxt "#30192"
+msgid "ADPCM Low-pass Filter"
+msgstr ""
+
+msgctxt "#30193"
+msgid "CDDA Volume %"
+msgstr "CDDA Ses Seviyesi %"
+
+msgctxt "#30194"
+msgid "CD PSG Volume %"
+msgstr "CD PSG Ses Seviyesi %"
+
+#~ msgctxt "#30025"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) CD Hızı"
+
+#~ msgctxt "#30026"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) ADPCM Ses Seviyesi %"
+
+#~ msgctxt "#30027"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) CDDA Ses Seviyesi %"
+
+#~ msgctxt "#30028"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "(CD) PSG Ses Seviyesi %"
+
+#~ msgctxt "#30032"
+#~ msgid "(CD) ADPCM Low-pass Filter"
+#~ msgstr ""

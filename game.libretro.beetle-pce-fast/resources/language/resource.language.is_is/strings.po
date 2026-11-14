@@ -121,22 +121,6 @@ msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
 msgstr ""
 
-msgctxt "#30025"
-msgid "(CD) CD Speed"
-msgstr ""
-
-msgctxt "#30026"
-msgid "(CD) ADPCM Volume %"
-msgstr ""
-
-msgctxt "#30027"
-msgid "(CD) CDDA Volume %"
-msgstr ""
-
-msgctxt "#30028"
-msgid "(CD) PSG Volume %"
-msgstr ""
-
 msgctxt "#30029"
 msgid "No Sprite Limit"
 msgstr ""
@@ -147,10 +131,6 @@ msgstr ""
 
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
-msgstr ""
-
-msgctxt "#30032"
-msgid "(CD) ADPCM Low-pass Filter"
 msgstr ""
 
 msgctxt "#30033"
@@ -780,3 +760,23 @@ msgstr ""
 msgctxt "#30189"
 msgid "241"
 msgstr ""
+
+#~ msgctxt "#30025"
+#~ msgid "(CD) CD Speed"
+#~ msgstr ""
+
+#~ msgctxt "#30026"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr ""
+
+#~ msgctxt "#30027"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr ""
+
+#~ msgctxt "#30028"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr ""
+
+#~ msgctxt "#30032"
+#~ msgid "(CD) ADPCM Low-pass Filter"
+#~ msgstr ""

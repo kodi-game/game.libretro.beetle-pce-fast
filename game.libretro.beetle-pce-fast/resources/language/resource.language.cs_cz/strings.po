@@ -121,22 +121,6 @@ msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
 msgstr "CD BIOS (nutný restart)"
 
-msgctxt "#30025"
-msgid "(CD) CD Speed"
-msgstr "(CD) Rychlost CD"
-
-msgctxt "#30026"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) ADPCM hlasitost %"
-
-msgctxt "#30027"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) CDDA hlasitost %"
-
-msgctxt "#30028"
-msgid "(CD) PSG Volume %"
-msgstr "(CD) PSG hlasitost %"
-
 msgctxt "#30029"
 msgid "No Sprite Limit"
 msgstr "Žádný limit spritu"
@@ -148,10 +132,6 @@ msgstr "Násobitel přetaktování CPU (nutný restart)"
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
 msgstr "Ignorovat chyby EDC/L-EC na CD"
-
-msgctxt "#30032"
-msgid "(CD) ADPCM Low-pass Filter"
-msgstr "(CD) Dolní propust ADPCM"
 
 msgctxt "#30033"
 msgid "Video"
@@ -780,3 +760,43 @@ msgstr "240"
 msgctxt "#30189"
 msgid "241"
 msgstr "241"
+
+msgctxt "#30190"
+msgid "CD Speed"
+msgstr "Rychlost CD"
+
+msgctxt "#30191"
+msgid "ADPCM Volume %"
+msgstr "ADPCM hlasitost %"
+
+msgctxt "#30192"
+msgid "ADPCM Low-pass Filter"
+msgstr "Dolní propust ADPCM"
+
+msgctxt "#30193"
+msgid "CDDA Volume %"
+msgstr "CDDA hlasitost %"
+
+msgctxt "#30194"
+msgid "CD PSG Volume %"
+msgstr "CD PSG hlasitost %"
+
+#~ msgctxt "#30025"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) Rychlost CD"
+
+#~ msgctxt "#30026"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) ADPCM hlasitost %"
+
+#~ msgctxt "#30027"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) CDDA hlasitost %"
+
+#~ msgctxt "#30028"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "(CD) PSG hlasitost %"
+
+#~ msgctxt "#30032"
+#~ msgid "(CD) ADPCM Low-pass Filter"
+#~ msgstr "(CD) Dolní propust ADPCM"

@@ -121,22 +121,6 @@ msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
 msgstr "BIOS CD (Redémarrage requis)"
 
-msgctxt "#30025"
-msgid "(CD) CD Speed"
-msgstr "(CD) Vitesse du CD"
-
-msgctxt "#30026"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) Volume ADPCM (%)"
-
-msgctxt "#30027"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) Volume CDDA (%)"
-
-msgctxt "#30028"
-msgid "(CD) PSG Volume %"
-msgstr "(CD) Volume PSG (%)"
-
 msgctxt "#30029"
 msgid "No Sprite Limit"
 msgstr "Aucune limite de sprites"
@@ -148,10 +132,6 @@ msgstr "Multiplicateur d'overclocking du processeur (Redémarrage requis)"
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
 msgstr "CD Ignorer les erreurs EDC/L-EC"
-
-msgctxt "#30032"
-msgid "(CD) ADPCM Low-pass Filter"
-msgstr "(CD) Filtre passe-bas ADPCM"
 
 msgctxt "#30033"
 msgid "Video"
@@ -780,6 +760,46 @@ msgstr ""
 msgctxt "#30189"
 msgid "241"
 msgstr ""
+
+msgctxt "#30190"
+msgid "CD Speed"
+msgstr "Vitesse du CD"
+
+msgctxt "#30191"
+msgid "ADPCM Volume %"
+msgstr "Volume ADPCM (%)"
+
+msgctxt "#30192"
+msgid "ADPCM Low-pass Filter"
+msgstr "Filtre passe-bas ADPCM"
+
+msgctxt "#30193"
+msgid "CDDA Volume %"
+msgstr "Volume CDDA (%)"
+
+msgctxt "#30194"
+msgid "CD PSG Volume %"
+msgstr "Volume PSG CD %"
+
+#~ msgctxt "#30025"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) Vitesse du CD"
+
+#~ msgctxt "#30026"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) Volume ADPCM (%)"
+
+#~ msgctxt "#30027"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) Volume CDDA (%)"
+
+#~ msgctxt "#30028"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "(CD) Volume PSG (%)"
+
+#~ msgctxt "#30032"
+#~ msgid "(CD) ADPCM Low-pass Filter"
+#~ msgstr "(CD) Filtre passe-bas ADPCM"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

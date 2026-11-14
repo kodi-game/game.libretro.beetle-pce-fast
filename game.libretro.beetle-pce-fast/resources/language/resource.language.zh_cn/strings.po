@@ -121,22 +121,6 @@ msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
 msgstr "CD BIOS（需要重新启动）"
 
-msgctxt "#30025"
-msgid "(CD) CD Speed"
-msgstr "(CD) CD 速度"
-
-msgctxt "#30026"
-msgid "(CD) ADPCM Volume %"
-msgstr "（CD）ADPCM 音量 %"
-
-msgctxt "#30027"
-msgid "(CD) CDDA Volume %"
-msgstr "（CD）CDDA 音量 %"
-
-msgctxt "#30028"
-msgid "(CD) PSG Volume %"
-msgstr "（CD）PSG 音量 %"
-
 msgctxt "#30029"
 msgid "No Sprite Limit"
 msgstr "取消精灵数量限制"
@@ -148,10 +132,6 @@ msgstr "CPU 超频倍率（需重启）"
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
 msgstr "CD 忽略 EDC/L-EC 错误"
-
-msgctxt "#30032"
-msgid "(CD) ADPCM Low-pass Filter"
-msgstr "(CD) ADPCM 低通滤波器"
 
 msgctxt "#30033"
 msgid "Video"
@@ -780,6 +760,46 @@ msgstr ""
 msgctxt "#30189"
 msgid "241"
 msgstr ""
+
+msgctxt "#30190"
+msgid "CD Speed"
+msgstr "CD 读取速度"
+
+msgctxt "#30191"
+msgid "ADPCM Volume %"
+msgstr "ADPCM 音量 %"
+
+msgctxt "#30192"
+msgid "ADPCM Low-pass Filter"
+msgstr "ADPCM 低通滤波器"
+
+msgctxt "#30193"
+msgid "CDDA Volume %"
+msgstr "CDDA 音量 %"
+
+msgctxt "#30194"
+msgid "CD PSG Volume %"
+msgstr "PSG 音量 %"
+
+#~ msgctxt "#30025"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) CD 速度"
+
+#~ msgctxt "#30026"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "（CD）ADPCM 音量 %"
+
+#~ msgctxt "#30027"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "（CD）CDDA 音量 %"
+
+#~ msgctxt "#30028"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "（CD）PSG 音量 %"
+
+#~ msgctxt "#30032"
+#~ msgid "(CD) ADPCM Low-pass Filter"
+#~ msgstr "(CD) ADPCM 低通滤波器"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

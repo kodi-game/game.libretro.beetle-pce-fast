@@ -121,22 +121,6 @@ msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
 msgstr "BIOS CD (Cần khởi động lại)"
 
-msgctxt "#30025"
-msgid "(CD) CD Speed"
-msgstr "(CD) Tốc độ CD"
-
-msgctxt "#30026"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) Âm lượng ADPCM %"
-
-msgctxt "#30027"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) Âm lượng CDDA %"
-
-msgctxt "#30028"
-msgid "(CD) PSG Volume %"
-msgstr "(CD) Âm lượng PSG %"
-
 msgctxt "#30029"
 msgid "No Sprite Limit"
 msgstr "Không giới hạn Sprite"
@@ -148,10 +132,6 @@ msgstr "Hệ số ép xung CPU (Cần khởi động lại)"
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
 msgstr "CD: Bỏ qua lỗi EDC/L-EC"
-
-msgctxt "#30032"
-msgid "(CD) ADPCM Low-pass Filter"
-msgstr "(CD) Bộ lọc thông thấp ADPCM"
 
 msgctxt "#30033"
 msgid "Video"
@@ -780,3 +760,43 @@ msgstr ""
 msgctxt "#30189"
 msgid "241"
 msgstr ""
+
+msgctxt "#30190"
+msgid "CD Speed"
+msgstr "Tốc độ CD"
+
+msgctxt "#30191"
+msgid "ADPCM Volume %"
+msgstr "Âm lượng ADPCM %"
+
+msgctxt "#30192"
+msgid "ADPCM Low-pass Filter"
+msgstr "Bộ lọc thông thấp ADPCM"
+
+msgctxt "#30193"
+msgid "CDDA Volume %"
+msgstr "Âm lượng CDDA %"
+
+msgctxt "#30194"
+msgid "CD PSG Volume %"
+msgstr "Âm lượng CD PSG %"
+
+#~ msgctxt "#30025"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) Tốc độ CD"
+
+#~ msgctxt "#30026"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) Âm lượng ADPCM %"
+
+#~ msgctxt "#30027"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) Âm lượng CDDA %"
+
+#~ msgctxt "#30028"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "(CD) Âm lượng PSG %"
+
+#~ msgctxt "#30032"
+#~ msgid "(CD) ADPCM Low-pass Filter"
+#~ msgstr "(CD) Bộ lọc thông thấp ADPCM"

@@ -121,22 +121,6 @@ msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
 msgstr "CD BIOS (재시작 필요)"
 
-msgctxt "#30025"
-msgid "(CD) CD Speed"
-msgstr "(CD) CD 속도"
-
-msgctxt "#30026"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) ADPCM 볼륨 %"
-
-msgctxt "#30027"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) CDDA 음량 %"
-
-msgctxt "#30028"
-msgid "(CD) PSG Volume %"
-msgstr "(CD) PSG 볼륨 %"
-
 msgctxt "#30029"
 msgid "No Sprite Limit"
 msgstr "스프라이트 제한 해제"
@@ -148,10 +132,6 @@ msgstr "CPU 오버클럭 배율 (재시작 필요)"
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
 msgstr "CD EDC/L-EC 오류 무시"
-
-msgctxt "#30032"
-msgid "(CD) ADPCM Low-pass Filter"
-msgstr "(CD) ADPCM 로우패스 필터"
 
 msgctxt "#30033"
 msgid "Video"
@@ -780,6 +760,46 @@ msgstr ""
 msgctxt "#30189"
 msgid "241"
 msgstr ""
+
+msgctxt "#30190"
+msgid "CD Speed"
+msgstr "CD 속도"
+
+msgctxt "#30191"
+msgid "ADPCM Volume %"
+msgstr "ADPCM 볼륨 %"
+
+msgctxt "#30192"
+msgid "ADPCM Low-pass Filter"
+msgstr "ADPCM 로우패스 필터"
+
+msgctxt "#30193"
+msgid "CDDA Volume %"
+msgstr "CDDA 음량 %"
+
+msgctxt "#30194"
+msgid "CD PSG Volume %"
+msgstr "CD PSG 볼륨 %"
+
+#~ msgctxt "#30025"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) CD 속도"
+
+#~ msgctxt "#30026"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) ADPCM 볼륨 %"
+
+#~ msgctxt "#30027"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) CDDA 음량 %"
+
+#~ msgctxt "#30028"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "(CD) PSG 볼륨 %"
+
+#~ msgctxt "#30032"
+#~ msgid "(CD) ADPCM Low-pass Filter"
+#~ msgstr "(CD) ADPCM 로우패스 필터"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

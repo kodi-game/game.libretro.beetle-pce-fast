@@ -121,22 +121,6 @@ msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
 msgstr "KD-a BIOS (bezonas restartigon)"
 
-msgctxt "#30025"
-msgid "(CD) CD Speed"
-msgstr "(KD) KD-a rapido"
-
-msgctxt "#30026"
-msgid "(CD) ADPCM Volume %"
-msgstr "(KD) volumeno de ADPCM (%)"
-
-msgctxt "#30027"
-msgid "(CD) CDDA Volume %"
-msgstr "(KD) Volumeno de CDDA (%)"
-
-msgctxt "#30028"
-msgid "(CD) PSG Volume %"
-msgstr "(KD) Volumeno de PSG (%)"
-
 msgctxt "#30029"
 msgid "No Sprite Limit"
 msgstr "Sen limo de \"sprites\""
@@ -148,10 +132,6 @@ msgstr "Obligilo de ĉefprocesora trorapidigo (bezonas restaratigon)"
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
 msgstr "Ignori erarojn EDC/L-EC de KD"
-
-msgctxt "#30032"
-msgid "(CD) ADPCM Low-pass Filter"
-msgstr "(KD) Malaltpasa filtrilo de ADPCM"
 
 msgctxt "#30033"
 msgid "Video"
@@ -780,6 +760,46 @@ msgstr ""
 msgctxt "#30189"
 msgid "241"
 msgstr ""
+
+msgctxt "#30190"
+msgid "CD Speed"
+msgstr "KD-a rapido"
+
+msgctxt "#30191"
+msgid "ADPCM Volume %"
+msgstr "Volumeno de ADPCM (%)"
+
+msgctxt "#30192"
+msgid "ADPCM Low-pass Filter"
+msgstr "Malaltpasa filtrilo de ADPCM"
+
+msgctxt "#30193"
+msgid "CDDA Volume %"
+msgstr "Volumeno de CDDA (%)"
+
+msgctxt "#30194"
+msgid "CD PSG Volume %"
+msgstr "Volumeno de PSG de KD (%)"
+
+#~ msgctxt "#30025"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(KD) KD-a rapido"
+
+#~ msgctxt "#30026"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(KD) volumeno de ADPCM (%)"
+
+#~ msgctxt "#30027"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(KD) Volumeno de CDDA (%)"
+
+#~ msgctxt "#30028"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "(KD) Volumeno de PSG (%)"
+
+#~ msgctxt "#30032"
+#~ msgid "(CD) ADPCM Low-pass Filter"
+#~ msgstr "(KD) Malaltpasa filtrilo de ADPCM"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

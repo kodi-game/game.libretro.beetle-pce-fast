@@ -121,22 +121,6 @@ msgctxt "#30024"
 msgid "CD BIOS (Restart Required)"
 msgstr "CD BIOS (Potrebno ponovno pokretanje)"
 
-msgctxt "#30025"
-msgid "(CD) CD Speed"
-msgstr "(CD) Brzina CD-a"
-
-msgctxt "#30026"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) ADPCM Volumen %"
-
-msgctxt "#30027"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) CDDA volumen %"
-
-msgctxt "#30028"
-msgid "(CD) PSG Volume %"
-msgstr "(CD) PSG volumen %"
-
 msgctxt "#30029"
 msgid "No Sprite Limit"
 msgstr "Bez ograničenja spriteova"
@@ -147,10 +131,6 @@ msgstr "Množitelj overkloka CPU-a (potrebno ponovno pokretanje)"
 
 msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
-msgstr ""
-
-msgctxt "#30032"
-msgid "(CD) ADPCM Low-pass Filter"
 msgstr ""
 
 msgctxt "#30033"
@@ -780,3 +760,35 @@ msgstr ""
 msgctxt "#30189"
 msgid "241"
 msgstr ""
+
+msgctxt "#30190"
+msgid "CD Speed"
+msgstr "Brzina CD-a"
+
+msgctxt "#30191"
+msgid "ADPCM Volume %"
+msgstr "ADPCM Volumen %"
+
+msgctxt "#30193"
+msgid "CDDA Volume %"
+msgstr "CDDA volumen %"
+
+#~ msgctxt "#30025"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) Brzina CD-a"
+
+#~ msgctxt "#30026"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) ADPCM Volumen %"
+
+#~ msgctxt "#30027"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) CDDA volumen %"
+
+#~ msgctxt "#30028"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "(CD) PSG volumen %"
+
+#~ msgctxt "#30032"
+#~ msgid "(CD) ADPCM Low-pass Filter"
+#~ msgstr ""

@@ -518,7 +518,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="pce_fast_cdspeed" type="string" label="30025" help="30075">
+				<setting id="pce_fast_cdspeed" type="string" label="30190" help="30075">
 					<level>0</level>
 					<default>1</default>
 					<constraints>
@@ -531,7 +531,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="pce_fast_adpcmvolume" type="string" label="30026" help="30080">
+				<setting id="pce_fast_adpcmvolume" type="string" label="30191" help="30080">
 					<level>0</level>
 					<default>100</default>
 					<constraints>
@@ -561,7 +561,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="pce_fast_adpcmlp" type="string" label="30032" help="30081">
+				<setting id="pce_fast_adpcmlp" type="string" label="30192" help="30081">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -572,7 +572,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="pce_fast_cddavolume" type="string" label="30027" help="30080">
+				<setting id="pce_fast_cddavolume" type="string" label="30193" help="30080">
 					<level>0</level>
 					<default>100</default>
 					<constraints>
@@ -602,7 +602,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="pce_fast_cdpsgvolume" type="string" label="30028" help="30080">
+				<setting id="pce_fast_cdpsgvolume" type="string" label="30194" help="30080">
 					<level>0</level>
 					<default>100</default>
 					<constraints>
