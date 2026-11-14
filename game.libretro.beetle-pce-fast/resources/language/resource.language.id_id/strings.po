@@ -784,23 +784,3 @@ msgstr ""
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Pengaturan"
-
-#~ msgctxt "#30025"
-#~ msgid "(CD) CD Speed"
-#~ msgstr ""
-
-#~ msgctxt "#30026"
-#~ msgid "(CD) ADPCM Volume %"
-#~ msgstr ""
-
-#~ msgctxt "#30027"
-#~ msgid "(CD) CDDA Volume %"
-#~ msgstr ""
-
-#~ msgctxt "#30028"
-#~ msgid "(CD) PSG Volume %"
-#~ msgstr ""
-
-#~ msgctxt "#30032"
-#~ msgid "(CD) ADPCM Low-pass Filter"
-#~ msgstr ""
