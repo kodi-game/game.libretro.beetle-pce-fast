@@ -769,9 +769,17 @@ msgctxt "#30191"
 msgid "ADPCM Volume %"
 msgstr "ADPCM Volumen %"
 
+msgctxt "#30192"
+msgid "ADPCM Low-pass Filter"
+msgstr ""
+
 msgctxt "#30193"
 msgid "CDDA Volume %"
 msgstr "CDDA volumen %"
+
+msgctxt "#30194"
+msgid "CD PSG Volume %"
+msgstr ""
 
 #~ msgctxt "#30025"
 #~ msgid "(CD) CD Speed"
@@ -788,7 +796,3 @@ msgstr "CDDA volumen %"
 #~ msgctxt "#30028"
 #~ msgid "(CD) PSG Volume %"
 #~ msgstr "(CD) PSG volumen %"
-
-#~ msgctxt "#30032"
-#~ msgid "(CD) ADPCM Low-pass Filter"
-#~ msgstr ""
