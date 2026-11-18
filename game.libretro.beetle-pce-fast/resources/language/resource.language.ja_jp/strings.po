@@ -796,3 +796,7 @@ msgstr "CD PSG 音量 %"
 #~ msgctxt "#30028"
 #~ msgid "(CD) PSG Volume %"
 #~ msgstr "(CD) PSG 音量 %"
+
+#~ msgctxt "#30032"
+#~ msgid "(CD) ADPCM Low-pass Filter"
+#~ msgstr ""
