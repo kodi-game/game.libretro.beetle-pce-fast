@@ -133,6 +133,10 @@ msgctxt "#30031"
 msgid "CD Ignore EDC/L-EC Errors"
 msgstr ""
 
+msgctxt "#30032"
+msgid "(CD) ADPCM Low-pass Filter"
+msgstr ""
+
 msgctxt "#30033"
 msgid "Video"
 msgstr ""
